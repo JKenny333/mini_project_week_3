@@ -303,22 +303,22 @@ Bhutan,2003,Developing,63.3,273.0,1,0.52,19.15664091,15.5,1,4.9,997.7417141,6234
 Bhutan,2002,Developing,62.5,282.0,1,0.29,151.9755193,14.9,1,7.75,885.6382245,66399.0,8.0
 Bhutan,2001,Developing,61.7,29.0,1,0.14,8.574029812,14.4,1,5.91,87.9387673,5896.0,7.6
 Bhutan,2000,Developing,62.0,312.0,1,0.17,93.35872844,13.9,1,6.91,765.8632358,573416.0,7.3
-Bolivia (Plurinational State of),2015,Developing,77.0,186.0,8,,0.0,52.6,10,,,,13.8
-Bolivia (Plurinational State of),2014,Developing,74.0,189.0,8,3.62,0.0,51.9,10,6.33,,,13.8
-Bolivia (Plurinational State of),2013,Developing,71.0,192.0,8,3.78,0.0,51.2,10,5.96,,,13.8
-Bolivia (Plurinational State of),2012,Developing,69.8,194.0,8,3.89,0.0,5.6,11,5.56,,,13.8
-Bolivia (Plurinational State of),2011,Developing,69.3,198.0,9,3.93,0.0,49.9,11,5.49,,,13.8
-Bolivia (Plurinational State of),2010,Developing,68.7,22.0,9,3.95,0.0,49.3,12,5.44,,,13.8
-Bolivia (Plurinational State of),2009,Developing,68.0,27.0,10,3.87,0.0,48.6,12,5.76,,,13.8
-Bolivia (Plurinational State of),2008,Developing,67.4,211.0,10,3.77,0.0,48.0,13,5.0,,,14.0
-Bolivia (Plurinational State of),2007,Developing,66.8,216.0,11,3.47,0.0,47.3,14,4.96,,,14.1
-Bolivia (Plurinational State of),2006,Developing,66.2,219.0,11,3.23,0.0,46.7,15,5.19,,,14.3
-Bolivia (Plurinational State of),2005,Developing,65.7,222.0,12,2.86,0.0,46.0,16,5.67,,,14.4
-Bolivia (Plurinational State of),2004,Developing,65.1,226.0,12,2.66,0.0,45.4,16,5.22,,,14.6
-Bolivia (Plurinational State of),2003,Developing,64.5,23.0,13,2.37,0.0,44.7,17,5.3,,,14.4
-Bolivia (Plurinational State of),2002,Developing,63.9,234.0,14,2.26,0.0,44.0,18,6.53,,,14.0
-Bolivia (Plurinational State of),2001,Developing,63.3,238.0,14,2.2,0.0,43.3,19,6.31,,,13.7
-Bolivia (Plurinational State of),2000,Developing,62.6,243.0,15,2.32,0.0,42.6,20,5.67,,,13.3
+Bolivia,2015,Developing,77.0,186.0,8,,0.0,52.6,10,,,,13.8
+Bolivia,2014,Developing,74.0,189.0,8,3.62,0.0,51.9,10,6.33,,,13.8
+Bolivia,2013,Developing,71.0,192.0,8,3.78,0.0,51.2,10,5.96,,,13.8
+Bolivia,2012,Developing,69.8,194.0,8,3.89,0.0,5.6,11,5.56,,,13.8
+Bolivia,2011,Developing,69.3,198.0,9,3.93,0.0,49.9,11,5.49,,,13.8
+Bolivia,2010,Developing,68.7,22.0,9,3.95,0.0,49.3,12,5.44,,,13.8
+Bolivia,2009,Developing,68.0,27.0,10,3.87,0.0,48.6,12,5.76,,,13.8
+Bolivia,2008,Developing,67.4,211.0,10,3.77,0.0,48.0,13,5.0,,,14.0
+Bolivia,2007,Developing,66.8,216.0,11,3.47,0.0,47.3,14,4.96,,,14.1
+Bolivia,2006,Developing,66.2,219.0,11,3.23,0.0,46.7,15,5.19,,,14.3
+Bolivia,2005,Developing,65.7,222.0,12,2.86,0.0,46.0,16,5.67,,,14.4
+Bolivia,2004,Developing,65.1,226.0,12,2.66,0.0,45.4,16,5.22,,,14.6
+Bolivia,2003,Developing,64.5,23.0,13,2.37,0.0,44.7,17,5.3,,,14.4
+Bolivia,2002,Developing,63.9,234.0,14,2.26,0.0,44.0,18,6.53,,,14.0
+Bolivia,2001,Developing,63.3,238.0,14,2.2,0.0,43.3,19,6.31,,,13.7
+Bolivia,2000,Developing,62.6,243.0,15,2.32,0.0,42.6,20,5.67,,,13.3
 Bosnia and Herzegovina,2015,Developing,77.4,88.0,0,,0.0,55.8,0,,4574.9787,3535961.0,14.2
 Bosnia and Herzegovina,2014,Developing,77.2,89.0,0,4.03,732.8662491,55.3,0,9.57,5193.94932,35662.0,14.2
 Bosnia and Herzegovina,2013,Developing,77.0,9.0,0,4.12,75.61062911,54.7,0,9.46,535.86555,364999.0,14.2
@@ -431,22 +431,22 @@ Burundi,2003,Developing,51.9,387.0,24,5.84,6.545263634,13.5,38,5.25,112.849373,6
 Burundi,2002,Developing,51.5,387.0,24,5.98,9.660010196,13.3,39,5.15,122.4335893,6741569.0,4.4
 Burundi,2001,Developing,51.3,385.0,25,6.09,10.61917585,13.0,40,4.96,133.7427689,6555829.0,4.5
 Burundi,2000,Developing,58.0,386.0,25,6.61,9.696689164,12.8,41,4.98,135.9984455,6476.0,4.5
-Côte d'Ivoire,2015,Developing,53.3,397.0,57,,0.0,28.0,79,,,,
-Côte d'Ivoire,2014,Developing,52.8,47.0,58,0.01,0.0,27.4,80,5.72,,,
-Côte d'Ivoire,2013,Developing,52.3,412.0,59,3.15,0.0,26.8,81,5.81,,,
-Côte d'Ivoire,2012,Developing,52.0,415.0,59,3.24,0.0,26.2,82,6.14,,,
-Côte d'Ivoire,2011,Developing,51.7,419.0,60,3.13,0.0,25.6,83,6.42,,,
-Côte d'Ivoire,2010,Developing,51.5,417.0,60,3.15,0.0,25.0,84,6.32,,,
-Côte d'Ivoire,2009,Developing,51.0,426.0,60,2.92,0.0,24.4,84,6.41,,,
-Côte d'Ivoire,2008,Developing,54.0,437.0,60,2.69,0.0,23.8,85,6.21,,,
-Côte d'Ivoire,2007,Developing,49.9,443.0,61,2.58,0.0,23.2,87,6.35,,,
-Côte d'Ivoire,2006,Developing,49.4,452.0,62,2.65,0.0,22.6,89,5.87,,,
-Côte d'Ivoire,2005,Developing,48.7,466.0,63,3.11,0.0,22.1,90,5.39,,,
-Côte d'Ivoire,2004,Developing,48.2,472.0,64,3.08,0.0,21.5,91,5.24,,,
-Côte d'Ivoire,2003,Developing,48.0,473.0,64,3.12,0.0,2.9,92,4.65,,,
-Côte d'Ivoire,2002,Developing,47.7,473.0,65,3.13,0.0,2.4,93,4.47,,,
-Côte d'Ivoire,2001,Developing,47.8,467.0,65,3.15,0.0,19.9,94,4.85,,,
-Côte d'Ivoire,2000,Developing,47.9,461.0,67,3.45,0.0,19.4,95,6.0,,,
+Ivory Coast,2015,Developing,53.3,397.0,57,,0.0,28.0,79,,,,
+Ivory Coast,2014,Developing,52.8,47.0,58,0.01,0.0,27.4,80,5.72,,,
+Ivory Coast,2013,Developing,52.3,412.0,59,3.15,0.0,26.8,81,5.81,,,
+Ivory Coast,2012,Developing,52.0,415.0,59,3.24,0.0,26.2,82,6.14,,,
+Ivory Coast,2011,Developing,51.7,419.0,60,3.13,0.0,25.6,83,6.42,,,
+Ivory Coast,2010,Developing,51.5,417.0,60,3.15,0.0,25.0,84,6.32,,,
+Ivory Coast,2009,Developing,51.0,426.0,60,2.92,0.0,24.4,84,6.41,,,
+Ivory Coast,2008,Developing,54.0,437.0,60,2.69,0.0,23.8,85,6.21,,,
+Ivory Coast,2007,Developing,49.9,443.0,61,2.58,0.0,23.2,87,6.35,,,
+Ivory Coast,2006,Developing,49.4,452.0,62,2.65,0.0,22.6,89,5.87,,,
+Ivory Coast,2005,Developing,48.7,466.0,63,3.11,0.0,22.1,90,5.39,,,
+Ivory Coast,2004,Developing,48.2,472.0,64,3.08,0.0,21.5,91,5.24,,,
+Ivory Coast,2003,Developing,48.0,473.0,64,3.12,0.0,2.9,92,4.65,,,
+Ivory Coast,2002,Developing,47.7,473.0,65,3.13,0.0,2.4,93,4.47,,,
+Ivory Coast,2001,Developing,47.8,467.0,65,3.15,0.0,19.9,94,4.85,,,
+Ivory Coast,2000,Developing,47.9,461.0,67,3.45,0.0,19.4,95,6.0,,,
 Cabo Verde,2015,Developing,73.3,114.0,0,,0.0,31.3,0,,2954.119467,532913.0,13.5
 Cabo Verde,2014,Developing,73.0,117.0,0,0.01,414.0242418,3.5,0,4.76,3529.61843,526437.0,13.5
 Cabo Verde,2013,Developing,72.8,12.0,0,0.01,325.6298627,29.7,0,4.29,3558.796314,5216.0,13.6
@@ -688,54 +688,54 @@ Cyprus,2003,Developed,78.5,66.0,0,10.62,158.7087399,54.3,0,6.83,2293.4789,993563
 Cyprus,2002,Developed,78.4,68.0,0,11.68,1128.050886,53.8,0,6.12,16372.29152,976966.0,12.5
 Cyprus,2001,Developed,78.2,69.0,0,10.16,100.8086193,53.3,0,5.78,1562.92433,96282.0,12.4
 Cyprus,2000,Developed,78.1,7.0,0,9.56,950.8027925,52.8,0,5.77,14672.8826,943286.0,12.5
-Czechia,2015,Developed,78.8,86.0,0,,0.0,66.1,0,,,,
-Czechia,2014,Developed,78.6,88.0,0,12.68,0.0,65.6,0,7.41,,,
-Czechia,2013,Developed,78.2,9.0,0,12.45,0.0,65.1,0,7.49,,,
-Czechia,2012,Developed,78.0,93.0,0,12.71,0.0,64.5,0,7.55,,,
-Czechia,2011,Developed,77.8,97.0,0,12.43,0.0,64.0,0,7.5,,,
-Czechia,2010,Developed,77.5,99.0,0,12.69,0.0,63.6,0,7.43,,,
-Czechia,2009,Developed,77.1,12.0,0,13.23,0.0,63.1,0,7.85,,,
-Czechia,2008,Developed,77.0,16.0,0,13.25,0.0,62.6,0,6.82,,,
-Czechia,2007,Developed,76.8,17.0,0,13.43,0.0,62.2,0,6.52,,,
-Czechia,2006,Developed,76.5,19.0,0,13.03,0.0,61.8,0,6.69,,,
-Czechia,2005,Developed,75.9,114.0,0,13.19,0.0,61.3,0,6.93,,,
-Czechia,2004,Developed,75.8,116.0,0,13.24,0.0,6.8,0,6.9,,,
-Czechia,2003,Developed,75.2,122.0,0,13.01,0.0,6.4,0,7.13,,,
-Czechia,2002,Developed,75.3,12.0,0,13.47,0.0,59.9,0,6.8,,,
-Czechia,2001,Developed,75.1,123.0,0,13.36,0.0,59.4,0,6.42,,,
-Czechia,2000,Developed,74.7,126.0,0,13.22,0.0,59.0,0,6.31,,,
-Democratic People's Republic of Korea,2015,Developing,76.0,139.0,6,,0.0,32.9,7,,,,
-Democratic People's Republic of Korea,2014,Developing,73.0,142.0,6,0.01,0.0,32.4,8,,,,
-Democratic People's Republic of Korea,2013,Developing,71.0,146.0,6,3.35,0.0,31.8,8,,,,
-Democratic People's Republic of Korea,2012,Developing,69.8,149.0,7,3.61,0.0,31.3,9,,,,
-Democratic People's Republic of Korea,2011,Developing,69.4,153.0,8,3.39,0.0,3.8,10,,,,
-Democratic People's Republic of Korea,2010,Developing,69.0,157.0,8,3.12,0.0,3.3,10,,,,
-Democratic People's Republic of Korea,2009,Developing,68.7,161.0,9,3.35,0.0,29.7,11,,,,
-Democratic People's Republic of Korea,2008,Developing,68.6,164.0,9,3.16,0.0,29.2,12,,,,
-Democratic People's Republic of Korea,2007,Developing,68.5,166.0,9,3.13,0.0,28.7,12,,,,
-Democratic People's Republic of Korea,2006,Developing,68.5,165.0,10,3.28,0.0,28.2,12,,,,
-Democratic People's Republic of Korea,2005,Developing,68.5,165.0,10,3.21,0.0,27.7,13,,,,
-Democratic People's Republic of Korea,2004,Developing,68.4,165.0,11,3.13,0.0,27.2,14,,,,
-Democratic People's Republic of Korea,2003,Developing,68.1,165.0,12,3.13,0.0,26.7,15,,,,
-Democratic People's Republic of Korea,2002,Developing,67.6,167.0,14,3.08,0.0,26.2,18,,,,
-Democratic People's Republic of Korea,2001,Developing,66.6,177.0,16,2.53,0.0,25.7,21,,,,
-Democratic People's Republic of Korea,2000,Developing,65.4,192.0,18,3.52,0.0,25.2,25,,,,
-Democratic Republic of the Congo,2015,Developing,59.8,258.0,236,,0.0,21.6,308,,,,
-Democratic Republic of the Congo,2014,Developing,59.3,266.0,237,0.01,0.0,21.1,312,4.33,,,
-Democratic Republic of the Congo,2013,Developing,58.8,272.0,238,0.01,0.0,2.6,314,3.89,,,
-Democratic Republic of the Congo,2012,Developing,58.3,277.0,239,0.01,0.0,2.1,317,3.77,,,
-Democratic Republic of the Congo,2011,Developing,57.9,278.0,239,1.82,0.0,19.6,319,3.53,,,
-Democratic Republic of the Congo,2010,Developing,57.4,283.0,239,1.81,0.0,19.1,321,4.4,,,
-Democratic Republic of the Congo,2009,Developing,56.7,292.0,238,2.13,0.0,18.6,323,5.61,,,
-Democratic Republic of the Congo,2008,Developing,56.3,295.0,237,2.09,0.0,18.2,324,4.46,,,
-Democratic Republic of the Congo,2007,Developing,55.7,299.0,236,1.52,0.0,17.8,326,3.61,,,
-Democratic Republic of the Congo,2006,Developing,55.0,36.0,235,1.53,0.0,17.3,327,3.39,,,
-Democratic Republic of the Congo,2005,Developing,54.3,314.0,233,1.43,0.0,16.9,329,3.14,,,
-Democratic Republic of the Congo,2004,Developing,53.5,323.0,232,1.44,0.0,16.5,330,3.34,,,
-Democratic Republic of the Congo,2003,Developing,52.8,332.0,231,1.83,0.0,16.1,331,3.2,,,
-Democratic Republic of the Congo,2002,Developing,52.1,341.0,229,1.85,0.0,15.7,331,2.59,,,
-Democratic Republic of the Congo,2001,Developing,51.8,34.0,227,1.9,0.0,15.3,332,2.67,,,
-Democratic Republic of the Congo,2000,Developing,51.3,346.0,226,1.98,0.0,14.9,332,1.45,,,
+Czech Republic,2015,Developed,78.8,86.0,0,,0.0,66.1,0,,,,
+Czech Republic,2014,Developed,78.6,88.0,0,12.68,0.0,65.6,0,7.41,,,
+Czech Republic,2013,Developed,78.2,9.0,0,12.45,0.0,65.1,0,7.49,,,
+Czech Republic,2012,Developed,78.0,93.0,0,12.71,0.0,64.5,0,7.55,,,
+Czech Republic,2011,Developed,77.8,97.0,0,12.43,0.0,64.0,0,7.5,,,
+Czech Republic,2010,Developed,77.5,99.0,0,12.69,0.0,63.6,0,7.43,,,
+Czech Republic,2009,Developed,77.1,12.0,0,13.23,0.0,63.1,0,7.85,,,
+Czech Republic,2008,Developed,77.0,16.0,0,13.25,0.0,62.6,0,6.82,,,
+Czech Republic,2007,Developed,76.8,17.0,0,13.43,0.0,62.2,0,6.52,,,
+Czech Republic,2006,Developed,76.5,19.0,0,13.03,0.0,61.8,0,6.69,,,
+Czech Republic,2005,Developed,75.9,114.0,0,13.19,0.0,61.3,0,6.93,,,
+Czech Republic,2004,Developed,75.8,116.0,0,13.24,0.0,6.8,0,6.9,,,
+Czech Republic,2003,Developed,75.2,122.0,0,13.01,0.0,6.4,0,7.13,,,
+Czech Republic,2002,Developed,75.3,12.0,0,13.47,0.0,59.9,0,6.8,,,
+Czech Republic,2001,Developed,75.1,123.0,0,13.36,0.0,59.4,0,6.42,,,
+Czech Republic,2000,Developed,74.7,126.0,0,13.22,0.0,59.0,0,6.31,,,
+North Korea,2015,Developing,76.0,139.0,6,,0.0,32.9,7,,,,
+North Korea,2014,Developing,73.0,142.0,6,0.01,0.0,32.4,8,,,,
+North Korea,2013,Developing,71.0,146.0,6,3.35,0.0,31.8,8,,,,
+North Korea,2012,Developing,69.8,149.0,7,3.61,0.0,31.3,9,,,,
+North Korea,2011,Developing,69.4,153.0,8,3.39,0.0,3.8,10,,,,
+North Korea,2010,Developing,69.0,157.0,8,3.12,0.0,3.3,10,,,,
+North Korea,2009,Developing,68.7,161.0,9,3.35,0.0,29.7,11,,,,
+North Korea,2008,Developing,68.6,164.0,9,3.16,0.0,29.2,12,,,,
+North Korea,2007,Developing,68.5,166.0,9,3.13,0.0,28.7,12,,,,
+North Korea,2006,Developing,68.5,165.0,10,3.28,0.0,28.2,12,,,,
+North Korea,2005,Developing,68.5,165.0,10,3.21,0.0,27.7,13,,,,
+North Korea,2004,Developing,68.4,165.0,11,3.13,0.0,27.2,14,,,,
+North Korea,2003,Developing,68.1,165.0,12,3.13,0.0,26.7,15,,,,
+North Korea,2002,Developing,67.6,167.0,14,3.08,0.0,26.2,18,,,,
+North Korea,2001,Developing,66.6,177.0,16,2.53,0.0,25.7,21,,,,
+North Korea,2000,Developing,65.4,192.0,18,3.52,0.0,25.2,25,,,,
+Congo,2015,Developing,59.8,258.0,236,,0.0,21.6,308,,,,
+Congo,2014,Developing,59.3,266.0,237,0.01,0.0,21.1,312,4.33,,,
+Congo,2013,Developing,58.8,272.0,238,0.01,0.0,2.6,314,3.89,,,
+Congo,2012,Developing,58.3,277.0,239,0.01,0.0,2.1,317,3.77,,,
+Congo,2011,Developing,57.9,278.0,239,1.82,0.0,19.6,319,3.53,,,
+Congo,2010,Developing,57.4,283.0,239,1.81,0.0,19.1,321,4.4,,,
+Congo,2009,Developing,56.7,292.0,238,2.13,0.0,18.6,323,5.61,,,
+Congo,2008,Developing,56.3,295.0,237,2.09,0.0,18.2,324,4.46,,,
+Congo,2007,Developing,55.7,299.0,236,1.52,0.0,17.8,326,3.61,,,
+Congo,2006,Developing,55.0,36.0,235,1.53,0.0,17.3,327,3.39,,,
+Congo,2005,Developing,54.3,314.0,233,1.43,0.0,16.9,329,3.14,,,
+Congo,2004,Developing,53.5,323.0,232,1.44,0.0,16.5,330,3.34,,,
+Congo,2003,Developing,52.8,332.0,231,1.83,0.0,16.1,331,3.2,,,
+Congo,2002,Developing,52.1,341.0,229,1.85,0.0,15.7,331,2.59,,,
+Congo,2001,Developing,51.8,34.0,227,1.9,0.0,15.3,332,2.67,,,
+Congo,2000,Developing,51.3,346.0,226,1.98,0.0,14.9,332,1.45,,,
 Denmark,2015,Developed,86.0,71.0,0,,0.0,58.8,0,,5314.64416,5683483.0,19.2
 Denmark,2014,Developed,84.0,73.0,0,9.64,10468.76292,58.4,0,1.8,62425.5392,5643475.0,19.2
 Denmark,2013,Developed,81.0,75.0,0,9.5,10261.763,58.1,0,11.25,61191.19263,5614932.0,18.7
@@ -1217,22 +1217,22 @@ Indonesia,2003,Developing,66.9,189.0,173,0.05,8.460155758,17.5,215,2.53,164.5944
 Indonesia,2002,Developing,66.7,189.0,177,0.05,43.17867291,16.7,222,2.27,899.5556857,2175859.0,10.6
 Indonesia,2001,Developing,66.5,188.0,182,0.06,33.95837125,16.0,229,2.23,747.9817455,2145652.0,10.6
 Indonesia,2000,Developing,66.3,188.0,187,0.06,3.43334364,15.4,237,1.98,78.92744,21154429.0,10.7
-Iran (Islamic Republic of),2015,Developing,75.5,83.0,18,,0.0,59.7,21,,,,14.8
-Iran (Islamic Republic of),2014,Developing,75.4,83.0,19,0.01,0.0,58.5,22,6.89,,,14.9
-Iran (Islamic Republic of),2013,Developing,75.3,83.0,20,0.01,0.0,57.2,23,6.49,,,15.0
-Iran (Islamic Republic of),2012,Developing,75.1,85.0,21,0.01,0.0,56.0,24,6.98,,,13.6
-Iran (Islamic Republic of),2011,Developing,74.7,93.0,22,0.03,0.0,54.8,25,7.12,,,13.1
-Iran (Islamic Republic of),2010,Developing,74.1,16.0,22,0.03,0.0,53.6,26,8.2,,,12.9
-Iran (Islamic Republic of),2009,Developing,73.3,122.0,23,0.03,0.0,52.5,27,7.63,,,12.8
-Iran (Islamic Republic of),2008,Developing,72.7,135.0,24,0.02,0.0,51.4,28,6.28,,,12.1
-Iran (Islamic Republic of),2007,Developing,72.4,138.0,25,0.02,0.0,5.4,29,5.84,,,11.8
-Iran (Islamic Republic of),2006,Developing,72.2,139.0,26,0.02,0.0,49.4,30,5.95,,,11.4
-Iran (Islamic Republic of),2005,Developing,72.0,139.0,27,0.01,0.0,48.5,32,6.6,,,11.4
-Iran (Islamic Republic of),2004,Developing,71.8,139.0,28,0.01,0.0,47.6,33,5.89,,,11.8
-Iran (Islamic Republic of),2003,Developing,75.0,154.0,29,0.01,0.0,46.9,35,5.42,,,11.8
-Iran (Islamic Republic of),2002,Developing,71.2,142.0,31,0.01,0.0,46.2,37,5.39,,,11.9
-Iran (Islamic Republic of),2001,Developing,78.0,146.0,33,0.01,0.0,45.5,40,5.2,,,11.6
-Iran (Islamic Republic of),2000,Developing,73.0,15.0,35,0.01,0.0,44.9,43,4.47,,,11.6
+Iran,2015,Developing,75.5,83.0,18,,0.0,59.7,21,,,,14.8
+Iran,2014,Developing,75.4,83.0,19,0.01,0.0,58.5,22,6.89,,,14.9
+Iran,2013,Developing,75.3,83.0,20,0.01,0.0,57.2,23,6.49,,,15.0
+Iran,2012,Developing,75.1,85.0,21,0.01,0.0,56.0,24,6.98,,,13.6
+Iran,2011,Developing,74.7,93.0,22,0.03,0.0,54.8,25,7.12,,,13.1
+Iran,2010,Developing,74.1,16.0,22,0.03,0.0,53.6,26,8.2,,,12.9
+Iran,2009,Developing,73.3,122.0,23,0.03,0.0,52.5,27,7.63,,,12.8
+Iran,2008,Developing,72.7,135.0,24,0.02,0.0,51.4,28,6.28,,,12.1
+Iran,2007,Developing,72.4,138.0,25,0.02,0.0,5.4,29,5.84,,,11.8
+Iran,2006,Developing,72.2,139.0,26,0.02,0.0,49.4,30,5.95,,,11.4
+Iran,2005,Developing,72.0,139.0,27,0.01,0.0,48.5,32,6.6,,,11.4
+Iran,2004,Developing,71.8,139.0,28,0.01,0.0,47.6,33,5.89,,,11.8
+Iran,2003,Developing,75.0,154.0,29,0.01,0.0,46.9,35,5.42,,,11.8
+Iran,2002,Developing,71.2,142.0,31,0.01,0.0,46.2,37,5.39,,,11.9
+Iran,2001,Developing,78.0,146.0,33,0.01,0.0,45.5,40,5.2,,,11.6
+Iran,2000,Developing,73.0,15.0,35,0.01,0.0,44.9,43,4.47,,,11.6
 Iraq,2015,Developing,68.9,182.0,32,,0.0,59.1,38,,4974.2693,36115649.0,10.1
 Iraq,2014,Developing,67.9,199.0,32,0.01,43.5240801,58.5,39,5.54,673.74737,3568.0,10.1
 Iraq,2013,Developing,69.5,17.0,32,0.01,447.3695001,57.8,39,5.92,6925.22446,33883145.0,10.3
@@ -1425,22 +1425,22 @@ Kyrgyzstan,2003,Developing,66.6,217.0,4,3.52,0.0,37.0,4,5.43,,,12.2
 Kyrgyzstan,2002,Developing,66.7,215.0,4,3.31,0.0,36.5,5,5.43,,,12.1
 Kyrgyzstan,2001,Developing,67.2,217.0,4,2.62,0.0,36.0,5,4.79,,,11.8
 Kyrgyzstan,2000,Developing,66.6,225.0,4,2.13,0.0,35.6,5,4.68,,,11.4
-Lao People's Democratic Republic,2015,Developing,65.7,194.0,8,,0.0,21.7,11,,,,10.8
-Lao People's Democratic Republic,2014,Developing,65.3,199.0,8,0.01,0.0,2.9,11,1.87,,,10.6
-Lao People's Democratic Republic,2013,Developing,64.9,23.0,9,0.01,0.0,2.1,12,2.0,,,10.4
-Lao People's Democratic Republic,2012,Developing,64.4,28.0,9,0.01,0.0,19.4,12,2.12,,,10.2
-Lao People's Democratic Republic,2011,Developing,64.0,213.0,9,5.39,0.0,18.7,13,2.2,,,9.9
-Lao People's Democratic Republic,2010,Developing,63.6,218.0,10,5.95,0.0,18.0,13,2.75,,,9.6
-Lao People's Democratic Republic,2009,Developing,63.1,223.0,10,5.18,0.0,17.3,14,3.77,,,9.4
-Lao People's Democratic Republic,2008,Developing,62.6,228.0,10,5.1,0.0,16.7,14,2.77,,,9.2
-Lao People's Democratic Republic,2007,Developing,62.1,234.0,11,5.0,0.0,16.1,15,4.14,,,9.0
-Lao People's Democratic Republic,2006,Developing,61.5,24.0,11,3.69,0.0,15.5,15,4.14,,,9.0
-Lao People's Democratic Republic,2005,Developing,61.0,246.0,11,3.68,0.0,14.9,16,4.32,,,8.7
-Lao People's Democratic Republic,2004,Developing,64.0,252.0,12,3.53,0.0,14.4,16,4.54,,,8.6
-Lao People's Democratic Republic,2003,Developing,59.8,259.0,12,3.41,0.0,13.8,17,4.91,,,8.3
-Lao People's Democratic Republic,2002,Developing,59.3,265.0,13,3.33,0.0,13.3,18,4.4,,,8.0
-Lao People's Democratic Republic,2001,Developing,58.7,271.0,13,3.13,0.0,12.7,19,4.32,,,8.0
-Lao People's Democratic Republic,2000,Developing,58.1,278.0,14,5.16,0.0,12.3,20,3.41,,,8.0
+Laos,2015,Developing,65.7,194.0,8,,0.0,21.7,11,,,,10.8
+Laos,2014,Developing,65.3,199.0,8,0.01,0.0,2.9,11,1.87,,,10.6
+Laos,2013,Developing,64.9,23.0,9,0.01,0.0,2.1,12,2.0,,,10.4
+Laos,2012,Developing,64.4,28.0,9,0.01,0.0,19.4,12,2.12,,,10.2
+Laos,2011,Developing,64.0,213.0,9,5.39,0.0,18.7,13,2.2,,,9.9
+Laos,2010,Developing,63.6,218.0,10,5.95,0.0,18.0,13,2.75,,,9.6
+Laos,2009,Developing,63.1,223.0,10,5.18,0.0,17.3,14,3.77,,,9.4
+Laos,2008,Developing,62.6,228.0,10,5.1,0.0,16.7,14,2.77,,,9.2
+Laos,2007,Developing,62.1,234.0,11,5.0,0.0,16.1,15,4.14,,,9.0
+Laos,2006,Developing,61.5,24.0,11,3.69,0.0,15.5,15,4.14,,,9.0
+Laos,2005,Developing,61.0,246.0,11,3.68,0.0,14.9,16,4.32,,,8.7
+Laos,2004,Developing,64.0,252.0,12,3.53,0.0,14.4,16,4.54,,,8.6
+Laos,2003,Developing,59.8,259.0,12,3.41,0.0,13.8,17,4.91,,,8.3
+Laos,2002,Developing,59.3,265.0,13,3.33,0.0,13.3,18,4.4,,,8.0
+Laos,2001,Developing,58.7,271.0,13,3.13,0.0,12.7,19,4.32,,,8.0
+Laos,2000,Developing,58.1,278.0,14,5.16,0.0,12.3,20,3.41,,,8.0
 Latvia,2015,Developed,74.6,153.0,0,,0.0,61.2,0,,13666.58336,1977527.0,16.0
 Latvia,2014,Developed,74.4,156.0,0,0.01,1542.635979,6.7,0,5.88,15725.1374,1993782.0,16.0
 Latvia,2013,Developed,74.1,161.0,0,10.37,150.3116884,6.2,0,5.67,1532.22924,212647.0,15.4
@@ -2102,22 +2102,22 @@ Republic of Korea,2003,Developing,77.6,95.0,3,9.66,0.0,26.2,3,4.93,,,
 Republic of Korea,2002,Developing,77.1,99.0,3,9.55,0.0,25.7,4,4.61,,,
 Republic of Korea,2001,Developing,76.7,17.0,3,11.45,0.0,25.2,4,4.76,,,
 Republic of Korea,2000,Developing,76.0,116.0,4,10.33,0.0,24.7,4,4.23,,,
-Republic of Moldova,2015,Developing,72.1,157.0,1,,0.0,53.4,1,,,,
-Republic of Moldova,2014,Developing,71.8,162.0,1,9.99,0.0,52.7,1,1.32,,,
-Republic of Moldova,2013,Developing,71.7,163.0,1,10.49,0.0,52.1,1,1.5,,,
-Republic of Moldova,2012,Developing,79.0,175.0,1,10.68,0.0,51.5,1,11.87,,,
-Republic of Moldova,2011,Developing,77.0,177.0,1,9.45,0.0,5.9,1,1.61,,,
-Republic of Moldova,2010,Developing,68.8,219.0,1,8.25,0.0,5.4,1,12.8,,,
-Republic of Moldova,2009,Developing,69.0,218.0,1,8.45,0.0,49.9,1,12.49,,,
-Republic of Moldova,2008,Developing,68.9,228.0,1,9.07,0.0,49.5,1,11.41,,,
-Republic of Moldova,2007,Developing,68.3,237.0,1,9.66,0.0,49.1,1,1.88,,,
-Republic of Moldova,2006,Developing,68.0,242.0,1,8.36,0.0,48.7,1,1.63,,,
-Republic of Moldova,2005,Developing,67.3,248.0,1,10.78,0.0,48.3,1,9.15,,,
-Republic of Moldova,2004,Developing,68.0,225.0,1,12.27,0.0,47.9,1,8.49,,,
-Republic of Moldova,2003,Developing,67.6,226.0,1,8.15,0.0,47.6,1,8.24,,,
-Republic of Moldova,2002,Developing,67.5,225.0,1,6.71,0.0,47.2,1,8.31,,,
-Republic of Moldova,2001,Developing,67.6,228.0,1,10.98,0.0,46.8,1,7.0,,,
-Republic of Moldova,2000,Developing,67.1,235.0,1,9.89,0.0,46.5,2,6.65,,,
+Moldova,2015,Developing,72.1,157.0,1,,0.0,53.4,1,,,,
+Moldova,2014,Developing,71.8,162.0,1,9.99,0.0,52.7,1,1.32,,,
+Moldova,2013,Developing,71.7,163.0,1,10.49,0.0,52.1,1,1.5,,,
+Moldova,2012,Developing,79.0,175.0,1,10.68,0.0,51.5,1,11.87,,,
+Moldova,2011,Developing,77.0,177.0,1,9.45,0.0,5.9,1,1.61,,,
+Moldova,2010,Developing,68.8,219.0,1,8.25,0.0,5.4,1,12.8,,,
+Moldova,2009,Developing,69.0,218.0,1,8.45,0.0,49.9,1,12.49,,,
+Moldova,2008,Developing,68.9,228.0,1,9.07,0.0,49.5,1,11.41,,,
+Moldova,2007,Developing,68.3,237.0,1,9.66,0.0,49.1,1,1.88,,,
+Moldova,2006,Developing,68.0,242.0,1,8.36,0.0,48.7,1,1.63,,,
+Moldova,2005,Developing,67.3,248.0,1,10.78,0.0,48.3,1,9.15,,,
+Moldova,2004,Developing,68.0,225.0,1,12.27,0.0,47.9,1,8.49,,,
+Moldova,2003,Developing,67.6,226.0,1,8.15,0.0,47.6,1,8.24,,,
+Moldova,2002,Developing,67.5,225.0,1,6.71,0.0,47.2,1,8.31,,,
+Moldova,2001,Developing,67.6,228.0,1,10.98,0.0,46.8,1,7.0,,,
+Moldova,2000,Developing,67.1,235.0,1,9.89,0.0,46.5,2,6.65,,,
 Romania,2015,Developed,75.0,133.0,2,,0.0,6.7,2,,8958.788593,19815481.0,14.7
 Romania,2014,Developed,74.8,135.0,2,0.01,1.576409172,59.9,2,5.57,12.27733,1998979.0,14.7
 Romania,2013,Developed,74.6,138.0,2,9.59,1230.748231,59.2,2,5.6,9585.266593,19983693.0,14.7
@@ -2134,22 +2134,22 @@ Romania,2003,Developed,71.1,174.0,4,8.78,375.1740323,52.9,4,5.3,2774.95586,21574
 Romania,2002,Developed,77.0,178.0,4,9.62,37.82275031,52.4,5,4.57,2124.873613,2173496.0,12.0
 Romania,2001,Developed,78.0,179.0,4,9.78,180.1095132,51.9,5,4.36,1839.72945,2213197.0,11.7
 Romania,2000,Developed,77.0,175.0,4,10.16,152.6368899,51.4,5,4.33,1668.162731,22442971.0,11.5
-Russian Federation,2015,Developing,75.0,222.0,13,,0.0,6.5,15,,9329.298351,1449687.0,15.0
-Russian Federation,2014,Developing,73.0,225.0,13,10.12,1340.553699,59.9,15,7.7,14125.961,143819666.0,14.9
-Russian Federation,2013,Developing,70.0,229.0,14,10.58,1529.497771,59.3,16,7.9,15543.67653,14356911.0,14.6
-Russian Federation,2012,Developing,69.6,237.0,14,10.99,178.8225911,58.7,16,6.88,15154.45687,14321676.0,14.3
-Russian Federation,2011,Developing,69.4,242.0,14,11.04,184.764931,58.1,17,6.61,14212.687,14296868.0,14.0
-Russian Federation,2010,Developing,68.4,256.0,15,11.05,162.8088054,57.5,17,6.83,1674.98771,142849449.0,13.7
-Russian Federation,2009,Developing,68.2,261.0,15,11.21,137.0063357,57.0,18,7.44,8562.89598,142785342.0,14.0
-Russian Federation,2008,Developing,67.5,278.0,16,12.04,161.7301654,56.6,18,6.22,11635.2637,14274235.0,13.9
-Russian Federation,2007,Developing,67.3,282.0,16,12.19,11.02617159,56.1,19,5.38,911.25385,1428588.0,13.8
-Russian Federation,2006,Developing,66.4,3.0,17,11.79,12.25184084,55.7,20,5.3,692.194398,14349528.0,13.8
-Russian Federation,2005,Developing,65.0,327.0,18,11.57,625.5081805,55.3,20,5.21,5323.473877,143518523.0,13.7
-Russian Federation,2004,Developing,64.9,321.0,19,11.5,46.51559476,55.0,21,5.19,412.372294,1446754.0,13.6
-Russian Federation,2003,Developing,64.6,322.0,20,11.32,333.2148711,54.7,22,5.61,2975.132778,144648257.0,13.2
-Russian Federation,2002,Developing,64.8,313.0,20,10.87,266.5416917,54.5,24,5.99,2375.5944,1453646.0,12.8
-Russian Federation,2001,Developing,65.1,38.0,21,10.47,2.642527148,54.2,25,5.67,21.362386,14597683.0,12.5
-Russian Federation,2000,Developing,65.0,37.0,22,10.18,224.4600248,54.0,26,5.42,1771.58662,146596557.0,12.1
+Russia,2015,Developing,75.0,222.0,13,,0.0,6.5,15,,9329.298351,1449687.0,15.0
+Russia,2014,Developing,73.0,225.0,13,10.12,1340.553699,59.9,15,7.7,14125.961,143819666.0,14.9
+Russia,2013,Developing,70.0,229.0,14,10.58,1529.497771,59.3,16,7.9,15543.67653,14356911.0,14.6
+Russia,2012,Developing,69.6,237.0,14,10.99,178.8225911,58.7,16,6.88,15154.45687,14321676.0,14.3
+Russia,2011,Developing,69.4,242.0,14,11.04,184.764931,58.1,17,6.61,14212.687,14296868.0,14.0
+Russia,2010,Developing,68.4,256.0,15,11.05,162.8088054,57.5,17,6.83,1674.98771,142849449.0,13.7
+Russia,2009,Developing,68.2,261.0,15,11.21,137.0063357,57.0,18,7.44,8562.89598,142785342.0,14.0
+Russia,2008,Developing,67.5,278.0,16,12.04,161.7301654,56.6,18,6.22,11635.2637,14274235.0,13.9
+Russia,2007,Developing,67.3,282.0,16,12.19,11.02617159,56.1,19,5.38,911.25385,1428588.0,13.8
+Russia,2006,Developing,66.4,3.0,17,11.79,12.25184084,55.7,20,5.3,692.194398,14349528.0,13.8
+Russia,2005,Developing,65.0,327.0,18,11.57,625.5081805,55.3,20,5.21,5323.473877,143518523.0,13.7
+Russia,2004,Developing,64.9,321.0,19,11.5,46.51559476,55.0,21,5.19,412.372294,1446754.0,13.6
+Russia,2003,Developing,64.6,322.0,20,11.32,333.2148711,54.7,22,5.61,2975.132778,144648257.0,13.2
+Russia,2002,Developing,64.8,313.0,20,10.87,266.5416917,54.5,24,5.99,2375.5944,1453646.0,12.8
+Russia,2001,Developing,65.1,38.0,21,10.47,2.642527148,54.2,25,5.67,21.362386,14597683.0,12.5
+Russia,2000,Developing,65.0,37.0,22,10.18,224.4600248,54.0,26,5.42,1771.58662,146596557.0,12.1
 Rwanda,2015,Developing,66.1,227.0,11,,0.0,21.4,15,,71.348397,11629553.0,10.8
 Rwanda,2014,Developing,65.7,23.0,12,0.01,7.549797238,2.8,16,7.53,76.5699517,11345357.0,10.8
 Rwanda,2013,Developing,65.2,233.0,12,0.01,11.71090655,2.1,17,7.69,688.8768557,1165151.0,10.8
@@ -2536,22 +2536,22 @@ Switzerland,2003,Developed,85.0,72.0,0,10.82,842.2768087,52.3,0,1.93,4796.56497,
 Switzerland,2002,Developed,84.0,74.0,0,10.85,6853.628494,51.8,0,1.61,41336.72192,7284753.0,15.2
 Switzerland,2001,Developed,82.0,75.0,0,11.12,6478.346135,51.3,0,1.28,38538.64447,7229854.0,15.2
 Switzerland,2000,Developed,79.7,78.0,0,11.26,5834.582046,5.8,0,9.91,37813.23426,718425.0,15.1
-Syrian Arab Republic,2015,Developing,64.5,293.0,6,,0.0,57.1,8,,,18734987.0,9.0
-Syrian Arab Republic,2014,Developing,64.4,294.0,7,0.01,0.0,56.2,8,3.25,,19239.0,9.0
-Syrian Arab Republic,2013,Developing,63.6,37.0,7,0.01,0.0,55.2,9,3.25,,1989141.0,13.0
-Syrian Arab Republic,2012,Developing,62.8,32.0,7,0.01,0.0,54.2,9,3.25,,24271.0,12.5
-Syrian Arab Republic,2011,Developing,71.7,163.0,7,0.76,0.0,53.2,8,3.23,,2863993.0,12.0
-Syrian Arab Republic,2010,Developing,73.7,127.0,7,0.78,0.0,52.3,9,3.28,,2118834.0,11.7
-Syrian Arab Republic,2009,Developing,73.8,124.0,7,0.81,0.0,51.3,9,3.55,,2824893.0,11.8
-Syrian Arab Republic,2008,Developing,73.8,122.0,8,0.8,0.0,5.4,9,3.4,,2325443.0,11.6
-Syrian Arab Republic,2007,Developing,73.8,121.0,8,0.83,17.98136184,49.4,9,3.72,258.3529,1963286.0,11.5
-Syrian Arab Republic,2006,Developing,73.7,123.0,8,0.97,122.6523334,48.5,10,3.78,1762.24617,18914977.0,11.4
-Syrian Arab Republic,2005,Developing,73.5,127.0,9,0.92,116.2585943,47.6,10,4.11,1577.457182,18294611.0,11.0
-Syrian Arab Republic,2004,Developing,73.2,131.0,9,0.93,10.21129783,46.8,10,4.48,148.852738,1786638.0,10.6
-Syrian Arab Republic,2003,Developing,73.0,134.0,9,1.29,94.75639211,46.0,11,5.12,1253.39143,17415266.0,10.3
-Syrian Arab Republic,2002,Developing,72.8,135.0,9,1.25,91.70356833,45.3,11,4.94,1263.13455,178791.0,10.2
-Syrian Arab Republic,2001,Developing,72.7,135.0,10,1.29,93.50075111,44.6,11,4.92,1258.421953,16766899.0,10.1
-Syrian Arab Republic,2000,Developing,72.6,136.0,10,1.41,81.7274712,43.9,12,4.92,1177.629268,1641848.0,10.0
+Syria,2015,Developing,64.5,293.0,6,,0.0,57.1,8,,,18734987.0,9.0
+Syria,2014,Developing,64.4,294.0,7,0.01,0.0,56.2,8,3.25,,19239.0,9.0
+Syria,2013,Developing,63.6,37.0,7,0.01,0.0,55.2,9,3.25,,1989141.0,13.0
+Syria,2012,Developing,62.8,32.0,7,0.01,0.0,54.2,9,3.25,,24271.0,12.5
+Syria,2011,Developing,71.7,163.0,7,0.76,0.0,53.2,8,3.23,,2863993.0,12.0
+Syria,2010,Developing,73.7,127.0,7,0.78,0.0,52.3,9,3.28,,2118834.0,11.7
+Syria,2009,Developing,73.8,124.0,7,0.81,0.0,51.3,9,3.55,,2824893.0,11.8
+Syria,2008,Developing,73.8,122.0,8,0.8,0.0,5.4,9,3.4,,2325443.0,11.6
+Syria,2007,Developing,73.8,121.0,8,0.83,17.98136184,49.4,9,3.72,258.3529,1963286.0,11.5
+Syria,2006,Developing,73.7,123.0,8,0.97,122.6523334,48.5,10,3.78,1762.24617,18914977.0,11.4
+Syria,2005,Developing,73.5,127.0,9,0.92,116.2585943,47.6,10,4.11,1577.457182,18294611.0,11.0
+Syria,2004,Developing,73.2,131.0,9,0.93,10.21129783,46.8,10,4.48,148.852738,1786638.0,10.6
+Syria,2003,Developing,73.0,134.0,9,1.29,94.75639211,46.0,11,5.12,1253.39143,17415266.0,10.3
+Syria,2002,Developing,72.8,135.0,9,1.25,91.70356833,45.3,11,4.94,1263.13455,178791.0,10.2
+Syria,2001,Developing,72.7,135.0,10,1.29,93.50075111,44.6,11,4.92,1258.421953,16766899.0,10.1
+Syria,2000,Developing,72.6,136.0,10,1.41,81.7274712,43.9,12,4.92,1177.629268,1641848.0,10.0
 Tajikistan,2015,Developing,69.7,161.0,10,,0.0,4.7,11,,918.6771543,8548651.0,11.3
 Tajikistan,2014,Developing,69.6,162.0,10,0.01,7.829008596,39.9,11,6.88,114.45919,8362745.0,11.3
 Tajikistan,2013,Developing,69.3,163.0,10,0.01,1.0419164,39.0,11,6.75,14.214412,817789.0,11.2
@@ -2584,22 +2584,22 @@ Thailand,2003,Developing,71.7,189.0,15,6.14,282.8364612,2.9,18,3.58,2358.93629,6
 Thailand,2002,Developing,71.4,192.0,16,5.93,27.63810304,2.2,19,3.7,296.54617,6473164.0,11.5
 Thailand,2001,Developing,71.2,194.0,17,5.92,176.0625201,19.4,20,3.32,1893.145377,63543322.0,11.2
 Thailand,2000,Developing,71.1,194.0,18,5.88,0.27564826,18.7,21,3.4,27.564826,6295821.0,10.9
-The former Yugoslav republic of Macedonia,2015,Developing,75.7,12.0,0,,0.0,6.3,0,,,,12.9
-The former Yugoslav republic of Macedonia,2014,Developing,75.5,12.0,0,1.13,0.0,59.7,0,6.48,,,12.9
-The former Yugoslav republic of Macedonia,2013,Developing,75.3,14.0,0,1.03,0.0,59.1,0,6.7,,,12.9
-The former Yugoslav republic of Macedonia,2012,Developing,75.1,15.0,0,1.23,0.0,58.5,0,6.76,,,12.9
-The former Yugoslav republic of Macedonia,2011,Developing,74.9,17.0,0,1.16,0.0,57.9,0,6.61,,,12.9
-The former Yugoslav republic of Macedonia,2010,Developing,74.7,18.0,0,1.47,0.0,57.4,0,6.83,,,13.0
-The former Yugoslav republic of Macedonia,2009,Developing,74.4,111.0,0,1.77,0.0,56.9,0,6.74,,,13.0
-The former Yugoslav republic of Macedonia,2008,Developing,74.2,111.0,0,1.72,0.0,56.4,0,6.85,,,12.2
-The former Yugoslav republic of Macedonia,2007,Developing,73.5,12.0,0,1.75,0.0,55.9,0,6.9,,,12.2
-The former Yugoslav republic of Macedonia,2006,Developing,73.7,122.0,0,1.74,0.0,55.4,0,7.61,,,12.1
-The former Yugoslav republic of Macedonia,2005,Developing,73.6,12.0,0,1.75,0.0,54.9,0,7.95,,,11.9
-The former Yugoslav republic of Macedonia,2004,Developing,73.5,12.0,0,2.07,0.0,54.5,0,8.64,,,11.9
-The former Yugoslav republic of Macedonia,2003,Developing,73.2,126.0,0,2.4,0.0,54.1,0,9.17,,,11.9
-The former Yugoslav republic of Macedonia,2002,Developing,72.8,128.0,0,2.53,0.0,53.6,0,9.1,,,11.9
-The former Yugoslav republic of Macedonia,2001,Developing,73.1,126.0,0,3.27,0.0,53.2,0,8.18,,,11.8
-The former Yugoslav republic of Macedonia,2000,Developing,72.6,125.0,0,2.86,0.0,52.7,0,8.52,,,11.7
+North Macedonia,2015,Developing,75.7,12.0,0,,0.0,6.3,0,,,,12.9
+North Macedonia,2014,Developing,75.5,12.0,0,1.13,0.0,59.7,0,6.48,,,12.9
+North Macedonia,2013,Developing,75.3,14.0,0,1.03,0.0,59.1,0,6.7,,,12.9
+North Macedonia,2012,Developing,75.1,15.0,0,1.23,0.0,58.5,0,6.76,,,12.9
+North Macedonia,2011,Developing,74.9,17.0,0,1.16,0.0,57.9,0,6.61,,,12.9
+North Macedonia,2010,Developing,74.7,18.0,0,1.47,0.0,57.4,0,6.83,,,13.0
+North Macedonia,2009,Developing,74.4,111.0,0,1.77,0.0,56.9,0,6.74,,,13.0
+North Macedonia,2008,Developing,74.2,111.0,0,1.72,0.0,56.4,0,6.85,,,12.2
+North Macedonia,2007,Developing,73.5,12.0,0,1.75,0.0,55.9,0,6.9,,,12.2
+North Macedonia,2006,Developing,73.7,122.0,0,1.74,0.0,55.4,0,7.61,,,12.1
+North Macedonia,2005,Developing,73.6,12.0,0,1.75,0.0,54.9,0,7.95,,,11.9
+North Macedonia,2004,Developing,73.5,12.0,0,2.07,0.0,54.5,0,8.64,,,11.9
+North Macedonia,2003,Developing,73.2,126.0,0,2.4,0.0,54.1,0,9.17,,,11.9
+North Macedonia,2002,Developing,72.8,128.0,0,2.53,0.0,53.6,0,9.1,,,11.9
+North Macedonia,2001,Developing,73.1,126.0,0,3.27,0.0,53.2,0,8.18,,,11.8
+North Macedonia,2000,Developing,72.6,125.0,0,2.86,0.0,52.7,0,8.52,,,11.7
 Timor-Leste,2015,Developing,68.3,152.0,2,,0.0,17.4,2,,1161.76935,124977.0,12.5
 Timor-Leste,2014,Developing,68.0,155.0,2,0.01,28.14578503,17.0,2,1.48,1153.51578,1212814.0,12.5
 Timor-Leste,2013,Developing,67.7,158.0,2,0.01,3.379874844,16.6,2,1.29,117.765674,1184366.0,12.5
@@ -2761,54 +2761,54 @@ United Arab Emirates,2003,Developing,74.9,98.0,1,1.74,277.1818332,56.8,1,2.65,33
 United Arab Emirates,2002,Developing,74.7,11.0,1,1.72,2598.842827,56.0,1,2.72,31311.35936,,12.1
 United Arab Emirates,2001,Developing,74.5,14.0,1,1.67,243.7539129,55.0,1,2.48,3161.52935,,12.0
 United Arab Emirates,2000,Developing,74.2,17.0,1,1.64,262.9589578,54.1,1,2.38,3371.26869,,11.8
-United Kingdom of Great Britain and Northern Ireland,2015,Developed,81.2,69.0,3,10.66,0.0,66.6,4,,,,
-United Kingdom of Great Britain and Northern Ireland,2014,Developed,81.0,71.0,3,10.37,0.0,66.0,4,9.12,,,
-United Kingdom of Great Britain and Northern Ireland,2013,Developed,87.0,72.0,3,10.32,0.0,65.4,4,9.34,,,
-United Kingdom of Great Britain and Northern Ireland,2012,Developed,86.0,72.0,3,10.42,0.0,64.8,4,9.41,,,
-United Kingdom of Great Britain and Northern Ireland,2011,Developed,86.0,74.0,3,10.68,0.0,64.2,4,9.34,,,
-United Kingdom of Great Britain and Northern Ireland,2010,Developed,82.0,77.0,3,10.88,0.0,63.6,4,9.51,,,
-United Kingdom of Great Britain and Northern Ireland,2009,Developed,81.0,78.0,4,10.79,0.0,63.1,4,9.81,,,
-United Kingdom of Great Britain and Northern Ireland,2008,Developed,79.6,8.0,4,11.47,0.0,62.5,4,8.85,,,
-United Kingdom of Great Britain and Northern Ireland,2007,Developed,79.5,8.0,4,11.84,0.0,61.9,4,8.42,,,
-United Kingdom of Great Britain and Northern Ireland,2006,Developed,79.3,82.0,4,11.61,0.0,61.3,4,8.36,,,
-United Kingdom of Great Britain and Northern Ireland,2005,Developed,79.0,82.0,4,12.05,0.0,6.7,4,8.24,,,
-United Kingdom of Great Britain and Northern Ireland,2004,Developed,78.8,83.0,4,12.22,0.0,6.1,4,7.98,,,
-United Kingdom of Great Britain and Northern Ireland,2003,Developed,78.3,86.0,4,11.85,0.0,59.5,4,7.81,,,
-United Kingdom of Great Britain and Northern Ireland,2002,Developed,78.2,87.0,4,11.44,0.0,58.8,4,7.57,,,
-United Kingdom of Great Britain and Northern Ireland,2001,Developed,78.0,88.0,4,10.91,0.0,58.2,4,7.31,,,
-United Kingdom of Great Britain and Northern Ireland,2000,Developed,77.8,89.0,4,10.59,0.0,57.5,5,6.94,,,
-United Republic of Tanzania,2015,Developing,61.8,279.0,85,,0.0,23.8,119,,,,
-United Republic of Tanzania,2014,Developing,67.0,34.0,86,0.01,0.0,23.2,121,5.58,,,
-United Republic of Tanzania,2013,Developing,59.7,323.0,86,4.2,0.0,22.5,124,5.57,,,
-United Republic of Tanzania,2012,Developing,58.6,348.0,87,3.98,0.0,21.9,126,5.72,,,
-United Republic of Tanzania,2011,Developing,58.3,348.0,88,4.04,0.0,21.3,128,5.72,,,
-United Republic of Tanzania,2010,Developing,57.5,36.0,89,4.19,0.0,2.7,131,5.3,,,
-United Republic of Tanzania,2009,Developing,56.9,368.0,91,3.97,0.0,2.2,135,3.97,,,
-United Republic of Tanzania,2008,Developing,56.2,376.0,92,3.44,0.0,19.6,138,4.21,,,
-United Republic of Tanzania,2007,Developing,54.5,411.0,94,4.4,0.0,19.1,141,4.72,,,
-United Republic of Tanzania,2006,Developing,53.1,437.0,96,4.07,0.0,18.6,145,6.86,,,
-United Republic of Tanzania,2005,Developing,52.2,449.0,97,3.94,0.0,18.1,149,4.66,,,
-United Republic of Tanzania,2004,Developing,51.5,454.0,100,3.81,0.0,17.7,154,4.1,,,
-United Republic of Tanzania,2003,Developing,58.0,459.0,103,2.34,0.0,17.2,160,4.6,,,
-United Republic of Tanzania,2002,Developing,52.0,46.0,106,3.37,0.0,16.8,166,3.59,,,
-United Republic of Tanzania,2001,Developing,49.6,46.0,110,4.09,0.0,16.4,173,3.28,,,
-United Republic of Tanzania,2000,Developing,49.2,457.0,114,3.89,0.0,16.0,181,2.64,,,
-United States of America,2015,Developed,79.3,13.0,23,,0.0,69.6,26,,,,
-United States of America,2014,Developed,79.1,14.0,23,8.82,0.0,69.1,27,17.14,,,
-United States of America,2013,Developed,78.9,16.0,23,8.82,0.0,68.6,27,16.9,,,
-United States of America,2012,Developed,78.8,16.0,24,8.82,0.0,68.0,28,17.2,,,
-United States of America,2011,Developed,78.7,16.0,25,8.67,0.0,67.5,29,17.6,,,
-United States of America,2010,Developed,78.7,15.0,25,8.55,0.0,66.9,30,17.2,,,
-United States of America,2009,Developed,78.5,18.0,26,8.71,0.0,66.3,31,17.0,,,
-United States of America,2008,Developed,78.2,18.0,27,8.74,0.0,65.7,31,16.2,,,
-United States of America,2007,Developed,78.1,11.0,27,8.74,0.0,65.1,32,15.57,,,
-United States of America,2006,Developed,77.8,113.0,28,8.63,0.0,64.4,33,15.27,,,
-United States of America,2005,Developed,77.5,112.0,28,8.52,0.0,63.8,33,15.15,,,
-United States of America,2004,Developed,77.5,111.0,28,8.48,0.0,63.1,33,15.14,,,
-United States of America,2003,Developed,77.2,114.0,28,8.4,0.0,62.4,33,15.6,,,
-United States of America,2002,Developed,77.0,115.0,28,8.33,0.0,61.7,33,14.55,,,
-United States of America,2001,Developed,76.9,115.0,28,8.25,0.0,6.9,33,13.73,,,
-United States of America,2000,Developed,76.8,114.0,28,8.21,0.0,6.1,33,13.7,,,
+United Kingdom,2015,Developed,81.2,69.0,3,10.66,0.0,66.6,4,,,,
+United Kingdom,2014,Developed,81.0,71.0,3,10.37,0.0,66.0,4,9.12,,,
+United Kingdom,2013,Developed,87.0,72.0,3,10.32,0.0,65.4,4,9.34,,,
+United Kingdom,2012,Developed,86.0,72.0,3,10.42,0.0,64.8,4,9.41,,,
+United Kingdom,2011,Developed,86.0,74.0,3,10.68,0.0,64.2,4,9.34,,,
+United Kingdom,2010,Developed,82.0,77.0,3,10.88,0.0,63.6,4,9.51,,,
+United Kingdom,2009,Developed,81.0,78.0,4,10.79,0.0,63.1,4,9.81,,,
+United Kingdom,2008,Developed,79.6,8.0,4,11.47,0.0,62.5,4,8.85,,,
+United Kingdom,2007,Developed,79.5,8.0,4,11.84,0.0,61.9,4,8.42,,,
+United Kingdom,2006,Developed,79.3,82.0,4,11.61,0.0,61.3,4,8.36,,,
+United Kingdom,2005,Developed,79.0,82.0,4,12.05,0.0,6.7,4,8.24,,,
+United Kingdom,2004,Developed,78.8,83.0,4,12.22,0.0,6.1,4,7.98,,,
+United Kingdom,2003,Developed,78.3,86.0,4,11.85,0.0,59.5,4,7.81,,,
+United Kingdom,2002,Developed,78.2,87.0,4,11.44,0.0,58.8,4,7.57,,,
+United Kingdom,2001,Developed,78.0,88.0,4,10.91,0.0,58.2,4,7.31,,,
+United Kingdom,2000,Developed,77.8,89.0,4,10.59,0.0,57.5,5,6.94,,,
+Tanzania,2015,Developing,61.8,279.0,85,,0.0,23.8,119,,,,
+Tanzania,2014,Developing,67.0,34.0,86,0.01,0.0,23.2,121,5.58,,,
+Tanzania,2013,Developing,59.7,323.0,86,4.2,0.0,22.5,124,5.57,,,
+Tanzania,2012,Developing,58.6,348.0,87,3.98,0.0,21.9,126,5.72,,,
+Tanzania,2011,Developing,58.3,348.0,88,4.04,0.0,21.3,128,5.72,,,
+Tanzania,2010,Developing,57.5,36.0,89,4.19,0.0,2.7,131,5.3,,,
+Tanzania,2009,Developing,56.9,368.0,91,3.97,0.0,2.2,135,3.97,,,
+Tanzania,2008,Developing,56.2,376.0,92,3.44,0.0,19.6,138,4.21,,,
+Tanzania,2007,Developing,54.5,411.0,94,4.4,0.0,19.1,141,4.72,,,
+Tanzania,2006,Developing,53.1,437.0,96,4.07,0.0,18.6,145,6.86,,,
+Tanzania,2005,Developing,52.2,449.0,97,3.94,0.0,18.1,149,4.66,,,
+Tanzania,2004,Developing,51.5,454.0,100,3.81,0.0,17.7,154,4.1,,,
+Tanzania,2003,Developing,58.0,459.0,103,2.34,0.0,17.2,160,4.6,,,
+Tanzania,2002,Developing,52.0,46.0,106,3.37,0.0,16.8,166,3.59,,,
+Tanzania,2001,Developing,49.6,46.0,110,4.09,0.0,16.4,173,3.28,,,
+Tanzania,2000,Developing,49.2,457.0,114,3.89,0.0,16.0,181,2.64,,,
+United States,2015,Developed,79.3,13.0,23,,0.0,69.6,26,,,,
+United States,2014,Developed,79.1,14.0,23,8.82,0.0,69.1,27,17.14,,,
+United States,2013,Developed,78.9,16.0,23,8.82,0.0,68.6,27,16.9,,,
+United States,2012,Developed,78.8,16.0,24,8.82,0.0,68.0,28,17.2,,,
+United States,2011,Developed,78.7,16.0,25,8.67,0.0,67.5,29,17.6,,,
+United States,2010,Developed,78.7,15.0,25,8.55,0.0,66.9,30,17.2,,,
+United States,2009,Developed,78.5,18.0,26,8.71,0.0,66.3,31,17.0,,,
+United States,2008,Developed,78.2,18.0,27,8.74,0.0,65.7,31,16.2,,,
+United States,2007,Developed,78.1,11.0,27,8.74,0.0,65.1,32,15.57,,,
+United States,2006,Developed,77.8,113.0,28,8.63,0.0,64.4,33,15.27,,,
+United States,2005,Developed,77.5,112.0,28,8.52,0.0,63.8,33,15.15,,,
+United States,2004,Developed,77.5,111.0,28,8.48,0.0,63.1,33,15.14,,,
+United States,2003,Developed,77.2,114.0,28,8.4,0.0,62.4,33,15.6,,,
+United States,2002,Developed,77.0,115.0,28,8.33,0.0,61.7,33,14.55,,,
+United States,2001,Developed,76.9,115.0,28,8.25,0.0,6.9,33,13.73,,,
+United States,2000,Developed,76.8,114.0,28,8.21,0.0,6.1,33,13.7,,,
 Uruguay,2015,Developing,77.0,116.0,0,,0.0,64.0,0,,15524.84247,3431552.0,15.5
 Uruguay,2014,Developing,76.8,117.0,0,6.03,463.6397821,63.4,0,8.58,16737.89827,3419546.0,15.5
 Uruguay,2013,Developing,76.8,117.0,0,5.82,482.8039445,62.9,0,8.68,16881.2568,3485.0,15.5
@@ -2857,38 +2857,38 @@ Vanuatu,2003,Developing,69.4,173.0,0,1.2,27.29839073,43.3,0,4.2,158.52724,198964
 Vanuatu,2002,Developing,69.3,176.0,0,1.24,171.1373611,42.6,0,3.52,1353.934819,193956.0,10.2
 Vanuatu,2001,Developing,69.1,179.0,0,0.91,163.105292,41.9,0,3.37,1362.61731,18929.0,10.1
 Vanuatu,2000,Developing,69.0,18.0,0,1.21,21.90075232,41.1,0,3.28,1469.849149,18563.0,9.6
-Venezuela (Bolivarian Republic of),2015,Developing,74.1,157.0,9,,0.0,62.1,10,,,,14.3
-Venezuela (Bolivarian Republic of),2014,Developing,73.9,158.0,9,6.47,0.0,61.5,10,5.26,,,14.2
-Venezuela (Bolivarian Republic of),2013,Developing,73.8,159.0,9,6.71,0.0,61.0,10,4.94,,,14.2
-Venezuela (Bolivarian Republic of),2012,Developing,73.7,161.0,9,6.7,0.0,6.4,10,4.8,,,14.1
-Venezuela (Bolivarian Republic of),2011,Developing,73.8,158.0,9,6.74,0.0,59.9,10,5.24,,,14.1
-Venezuela (Bolivarian Republic of),2010,Developing,73.7,158.0,9,7.22,0.0,59.3,10,5.4,,,14.0
-Venezuela (Bolivarian Republic of),2009,Developing,73.6,166.0,9,7.59,0.0,58.8,10,5.81,,,14.0
-Venezuela (Bolivarian Republic of),2008,Developing,73.2,168.0,9,8.18,0.0,58.2,10,3.98,,,13.4
-Venezuela (Bolivarian Republic of),2007,Developing,73.4,165.0,9,8.7,0.0,57.6,10,5.25,,,12.9
-Venezuela (Bolivarian Republic of),2006,Developing,73.6,163.0,9,8.27,0.0,57.1,11,4.85,,,12.4
-Venezuela (Bolivarian Republic of),2005,Developing,73.6,158.0,9,7.92,0.0,56.5,11,4.69,,,11.8
-Venezuela (Bolivarian Republic of),2004,Developing,73.3,161.0,10,7.55,0.0,55.9,11,4.78,,,11.6
-Venezuela (Bolivarian Republic of),2003,Developing,72.4,172.0,10,6.3,0.0,55.3,12,4.93,,,11.6
-Venezuela (Bolivarian Republic of),2002,Developing,73.1,167.0,10,6.89,0.0,54.7,12,4.93,,,11.0
-Venezuela (Bolivarian Republic of),2001,Developing,72.5,169.0,10,8.05,0.0,54.1,12,5.21,,,10.4
-Venezuela (Bolivarian Republic of),2000,Developing,72.5,168.0,11,8.01,0.0,53.4,13,4.91,,,10.6
-Viet Nam,2015,Developing,76.0,127.0,28,,0.0,17.5,35,,,,12.6
-Viet Nam,2014,Developing,75.9,128.0,28,4.09,0.0,16.7,35,7.7,,,12.5
-Viet Nam,2013,Developing,75.7,129.0,28,4.0,0.0,16.0,35,7.17,,,12.3
-Viet Nam,2012,Developing,75.6,13.0,29,4.12,0.0,15.3,36,6.96,,,12.2
-Viet Nam,2011,Developing,75.4,131.0,29,3.94,0.0,14.7,36,6.2,,,12.0
-Viet Nam,2010,Developing,75.2,133.0,29,3.93,0.0,14.0,35,6.36,,,11.9
-Viet Nam,2009,Developing,75.0,134.0,29,3.86,0.0,13.4,35,6.4,,,11.7
-Viet Nam,2008,Developing,74.9,135.0,28,3.58,0.0,12.9,35,5.53,,,11.6
-Viet Nam,2007,Developing,74.7,136.0,28,3.01,0.0,12.3,35,6.9,,,11.4
-Viet Nam,2006,Developing,74.6,136.0,28,2.56,0.0,11.8,35,5.56,,,11.3
-Viet Nam,2005,Developing,74.4,136.0,29,2.7,0.0,11.3,36,5.38,,,11.1
-Viet Nam,2004,Developing,74.2,136.0,29,2.86,0.0,1.9,36,5.9,,,11.0
-Viet Nam,2003,Developing,74.0,137.0,30,2.19,0.0,1.4,37,4.84,,,10.9
-Viet Nam,2002,Developing,73.8,137.0,30,2.03,0.0,1.0,39,4.7,,,10.7
-Viet Nam,2001,Developing,73.6,138.0,32,1.84,0.0,9.6,41,5.17,,,10.6
-Viet Nam,2000,Developing,73.4,139.0,33,1.6,0.0,9.2,43,4.89,,,10.4
+Venezuela,2015,Developing,74.1,157.0,9,,0.0,62.1,10,,,,14.3
+Venezuela,2014,Developing,73.9,158.0,9,6.47,0.0,61.5,10,5.26,,,14.2
+Venezuela,2013,Developing,73.8,159.0,9,6.71,0.0,61.0,10,4.94,,,14.2
+Venezuela,2012,Developing,73.7,161.0,9,6.7,0.0,6.4,10,4.8,,,14.1
+Venezuela,2011,Developing,73.8,158.0,9,6.74,0.0,59.9,10,5.24,,,14.1
+Venezuela,2010,Developing,73.7,158.0,9,7.22,0.0,59.3,10,5.4,,,14.0
+Venezuela,2009,Developing,73.6,166.0,9,7.59,0.0,58.8,10,5.81,,,14.0
+Venezuela,2008,Developing,73.2,168.0,9,8.18,0.0,58.2,10,3.98,,,13.4
+Venezuela,2007,Developing,73.4,165.0,9,8.7,0.0,57.6,10,5.25,,,12.9
+Venezuela,2006,Developing,73.6,163.0,9,8.27,0.0,57.1,11,4.85,,,12.4
+Venezuela,2005,Developing,73.6,158.0,9,7.92,0.0,56.5,11,4.69,,,11.8
+Venezuela,2004,Developing,73.3,161.0,10,7.55,0.0,55.9,11,4.78,,,11.6
+Venezuela,2003,Developing,72.4,172.0,10,6.3,0.0,55.3,12,4.93,,,11.6
+Venezuela,2002,Developing,73.1,167.0,10,6.89,0.0,54.7,12,4.93,,,11.0
+Venezuela,2001,Developing,72.5,169.0,10,8.05,0.0,54.1,12,5.21,,,10.4
+Venezuela,2000,Developing,72.5,168.0,11,8.01,0.0,53.4,13,4.91,,,10.6
+Vietnam,2015,Developing,76.0,127.0,28,,0.0,17.5,35,,,,12.6
+Vietnam,2014,Developing,75.9,128.0,28,4.09,0.0,16.7,35,7.7,,,12.5
+Vietnam,2013,Developing,75.7,129.0,28,4.0,0.0,16.0,35,7.17,,,12.3
+Vietnam,2012,Developing,75.6,13.0,29,4.12,0.0,15.3,36,6.96,,,12.2
+Vietnam,2011,Developing,75.4,131.0,29,3.94,0.0,14.7,36,6.2,,,12.0
+Vietnam,2010,Developing,75.2,133.0,29,3.93,0.0,14.0,35,6.36,,,11.9
+Vietnam,2009,Developing,75.0,134.0,29,3.86,0.0,13.4,35,6.4,,,11.7
+Vietnam,2008,Developing,74.9,135.0,28,3.58,0.0,12.9,35,5.53,,,11.6
+Vietnam,2007,Developing,74.7,136.0,28,3.01,0.0,12.3,35,6.9,,,11.4
+Vietnam,2006,Developing,74.6,136.0,28,2.56,0.0,11.8,35,5.56,,,11.3
+Vietnam,2005,Developing,74.4,136.0,29,2.7,0.0,11.3,36,5.38,,,11.1
+Vietnam,2004,Developing,74.2,136.0,29,2.86,0.0,1.9,36,5.9,,,11.0
+Vietnam,2003,Developing,74.0,137.0,30,2.19,0.0,1.4,37,4.84,,,10.9
+Vietnam,2002,Developing,73.8,137.0,30,2.03,0.0,1.0,39,4.7,,,10.7
+Vietnam,2001,Developing,73.6,138.0,32,1.84,0.0,9.6,41,5.17,,,10.6
+Vietnam,2000,Developing,73.4,139.0,33,1.6,0.0,9.2,43,4.89,,,10.4
 Yemen,2015,Developing,65.7,224.0,37,,0.0,41.3,47,,,,9.0
 Yemen,2014,Developing,65.4,228.0,37,0.01,0.0,4.4,47,5.64,,,9.0
 Yemen,2013,Developing,65.4,226.0,36,0.04,0.0,39.6,46,5.78,,,9.0

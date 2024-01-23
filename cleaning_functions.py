@@ -97,3 +97,34 @@ def clean_sex_column(data_frame):
 
     return data_frame
 
+def replace_strings_from_dict(df, column_name, replace_dict):
+    """
+    Replace entire strings in a DataFrame column based on multiple keywords, and print the number of changes for each.
+
+    Parameters:
+    df (pandas.DataFrame): The DataFrame to operate on.
+    column_name (str): The name of the column to clean.
+    replace_dict (dict): A dictionary where keys are keywords to search for, and values are the new values to replace the entire     string with.
+
+    Returns:
+    pandas.DataFrame: The DataFrame with the modified column.
+    """
+
+    # Check if column exists in DataFrame
+    if column_name not in df.columns:
+        raise ValueError(f"Column '{column_name}' not found in DataFrame")
+
+    for keyword, new_value in replace_dict.items():
+        # Use str.contains() to find rows where the column contains the keyword
+        mask = df[column_name].str.contains(keyword, case=False, na=False)
+
+        # Count the number of values that will be changed
+        num_changes = mask.sum()
+        if num_changes > 0:
+            print(f"Number of values changed for '{keyword}': {num_changes}")
+
+            # Replace the entire string in these rows with the new value
+            df.loc[mask, column_name] = new_value
+
+    return df
+
