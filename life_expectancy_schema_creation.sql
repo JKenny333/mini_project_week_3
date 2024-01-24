@@ -9,43 +9,33 @@ CREATE TABLE country (
     country VARCHAR(255)
 );
 
-CREATE TABLE mortality (
-    country VARCHAR(255),
-    happiness_rank INT,
-    happiness_score FLOAT
-);
-
-CREATE TABLE health_factors (
-    country VARCHAR(255),
-    happiness_rank INT,
-    happiness_score FLOAT
-);
-
-CREATE TABLE societal_factors (
-    country VARCHAR(255),
-    happiness_rank INT,
-    happiness_score FLOAT
-);
-
-CREATE TABLE life_expectancy (
-    country VARCHAR(255),
-    year INT,
-    development_status VARCHAR(100),
-    life_expectancy FLOAT,
-    adult_mortality FLOAT,
-    infant_deaths INT,
-    alcohol FLOAT,
-    percentage_expenditure FLOAT,
-    bmi FLOAT,
-    under_five_deaths INT,
-    total_expenditure FLOAT,
-    gdp FLOAT,
-    population FLOAT,
-    schooling FLOAT
-);
+CREATE TABLE year (
+	year_id INT AUTO_INCREMENT PRIMARY KEY,
+    year INT
 
 CREATE TABLE happiness (
-    country VARCHAR(255),
+    country_id INT AUTO_INCREMENT PRIMARY KEY,
     happiness_rank INT,
     happiness_score FLOAT
 );
+
+CREATE TABLE life_expectancy_record (
+    country_id INT,
+    year_id INT,
+	population FLOAT,
+    development_status VARCHAR(100),
+    gdp FLOAT,
+    schooling FLOAT,
+    alcohol FLOAT,
+	bmi FLOAT,
+    life_expectancy FLOAT,
+    adult_mortality FLOAT,
+    under_five_deaths INT,
+    infant_deaths INT,
+    percentage_expenditure FLOAT,
+    total_expenditure FLOAT
+);
+
+
+
+
