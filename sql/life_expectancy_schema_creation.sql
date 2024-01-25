@@ -2,6 +2,23 @@ CREATE DATABASE IF NOT EXISTS life_expectancy;
 
 USE life_expectancy;
 
+CREATE TABLE life_expectancy_record (
+    country_id INT,
+    year INT,
+	population FLOAT,
+    development_status VARCHAR(100),
+    gdp FLOAT,
+    schooling FLOAT,
+    alcohol FLOAT,
+	bmi FLOAT,
+    life_expectancy FLOAT,
+    adult_mortality FLOAT,
+    under_five_deaths INT,
+    infant_deaths INT,
+    percentage_expenditure FLOAT,
+    total_expenditure FLOAT
+);
+
 
 DROP TABLE IF EXISTS country;
 
@@ -21,26 +38,12 @@ CREATE TABLE happiness (
 
 DROP TABLE IF EXISTS life_expectancy_record;
 
-CREATE TABLE life_expectancy_record (
-    country_id INT,
-    year INT,
-	population FLOAT,
-    development_status VARCHAR(100),
-    gdp FLOAT,
-    schooling FLOAT,
-    alcohol FLOAT,
-	bmi FLOAT,
-    life_expectancy FLOAT,
-    adult_mortality FLOAT,
-    under_five_deaths INT,
-    infant_deaths INT,
-    percentage_expenditure FLOAT,
-    total_expenditure FLOAT
-);
 
 ALTER TABLE life_expectancy_record
 ADD CONSTRAINT fk_c_id
 FOREIGN KEY (country_id) REFERENCES country(country_id);
 
-
+ALTER TABLE happiness
+ADD CONSTRAINT fk_co_id
+FOREIGN KEY (country_id) REFERENCES country(country_id);
 
