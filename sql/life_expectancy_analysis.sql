@@ -67,6 +67,40 @@ SELECT * FROM full_table;
 		#Find your country's life expectancy
 			SELECT * FROM avg_life_expectancy_per_country_2015
 			WHERE country = "Ireland";
+            
+	#Countries changes in life expectancy from 2000 to 2015
+		DROP VIEW IF EXISTS avg_life_expectancy_per_country_2015;
+
+		CREATE VIEW life_expectancy_changes AS
+        SELECT 
+			c.country,
+			le2000.life_expectancy AS life_expectancy_2000,
+			le2015.life_expectancy AS life_expectancy_2015,
+			ROUND((le2015.life_expectancy - le2000.life_expectancy), 2) AS change_in_life_expectancy
+		FROM 
+			(SELECT country_id, life_expectancy 
+			 FROM life_expectancy_record 
+			 WHERE year = 2000) AS le2000
+		JOIN 
+			(SELECT country_id, life_expectancy 
+			 FROM life_expectancy_record 
+			 WHERE year = 2015) AS le2015
+		ON 
+			le2000.country_id = le2015.country_id
+		JOIN 
+			country c ON le2000.country_id = c.country_id
+		ORDER BY 
+			change_in_life_expectancy DESC;
+
+		#top 10 most improved
+		SELECT * FROM life_expectancy_changes
+			ORDER BY change_in_life_expectancy DESC
+			LIMIT 10;
+         
+         #top 10 biggest drops
+		SELECT * FROM life_expectancy_changes
+			ORDER BY change_in_life_expectancy ASC
+			LIMIT 10;
 
 -- ================================================================================= --
 #Health Factors
@@ -116,7 +150,24 @@ SELECT * FROM full_table;
 			SELECT * FROM happiness_life_expectancy
 			ORDER BY avg_happiness ASC
 			LIMIT 10;
+            
+	#overall happiness table for export
+		DROP VIEW IF EXISTS happiness_full;
 
+		CREATE VIEW happiness_full AS
+		SELECT 
+			country.country,
+			happiness.happiness_score,
+			ler.life_expectancy
+		FROM
+			happiness
+		JOIN
+			life_expectancy_record AS ler ON happiness.country_id = ler.country_id
+		JOIN 
+			country ON happiness.country_id = country.country_id
+		WHERE ler.year = 2015;
+
+		SELECT * FROM happiness_full;    
 -- ================================================================================= --
 #Societal Factors
 
