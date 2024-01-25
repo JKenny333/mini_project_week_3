@@ -2,6 +2,7 @@ CREATE DATABASE IF NOT EXISTS life_expectancy;
 
 USE life_expectancy;
 
+
 DROP TABLE IF EXISTS country;
 
 CREATE TABLE country (
