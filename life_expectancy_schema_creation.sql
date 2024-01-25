@@ -13,7 +13,7 @@ DROP TABLE IF EXISTS happiness;
 
 CREATE TABLE happiness (
     country_id INT AUTO_INCREMENT PRIMARY KEY,
-    year_id INT,
+    year INT,
     happiness_rank INT,
     happiness_score FLOAT
 );
@@ -22,7 +22,7 @@ DROP TABLE IF EXISTS life_expectancy_record;
 
 CREATE TABLE life_expectancy_record (
     country_id INT,
-    year_id INT,
+    year INT,
 	population FLOAT,
     development_status VARCHAR(100),
     gdp FLOAT,
@@ -37,6 +37,9 @@ CREATE TABLE life_expectancy_record (
     total_expenditure FLOAT
 );
 
+ALTER TABLE life_expectancy_record
+ADD CONSTRAINT fk_c_id
+FOREIGN KEY (country_id) REFERENCES country(country_id);
 
 
 
