@@ -1,23 +1,24 @@
-CREATE DATABASE IF NOT EXISTS lab_mysql;
+CREATE DATABASE IF NOT EXISTS life_expectancy;
 
-USE lab_mysql;
+USE life_expectancy;
 
-DROP TABLE IF EXISTS invoice;
+DROP TABLE IF EXISTS country;
 
 CREATE TABLE country (
     country_id INT AUTO_INCREMENT PRIMARY KEY,
     country VARCHAR(255)
 );
 
-CREATE TABLE year (
-	year_id INT AUTO_INCREMENT PRIMARY KEY,
-    year INT
+DROP TABLE IF EXISTS happiness;
 
 CREATE TABLE happiness (
     country_id INT AUTO_INCREMENT PRIMARY KEY,
+    year_id INT,
     happiness_rank INT,
     happiness_score FLOAT
 );
+
+DROP TABLE IF EXISTS life_expectancy_record;
 
 CREATE TABLE life_expectancy_record (
     country_id INT,
