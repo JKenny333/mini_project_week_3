@@ -1,0 +1,2923 @@
+"year";"country";"avg_life_expectancy";"avg_alcohol_consumption"
+2015;"Afghanistan";65.0;0.01
+2014;"Afghanistan";59.9;0.01
+2013;"Afghanistan";59.9;0.01
+2012;"Afghanistan";59.5;0.01
+2011;"Afghanistan";59.2;0.01
+2010;"Afghanistan";58.8;0.01
+2009;"Afghanistan";58.6;0.01
+2008;"Afghanistan";58.1;0.03
+2007;"Afghanistan";57.5;0.02
+2006;"Afghanistan";57.3;0.03
+2005;"Afghanistan";57.3;0.02
+2004;"Afghanistan";57.0;0.02
+2003;"Afghanistan";56.7;0.01
+2002;"Afghanistan";56.2;0.01
+2001;"Afghanistan";55.3;0.01
+2000;"Afghanistan";54.8;0.01
+2015;"Albania";77.8;4.6
+2014;"Albania";77.5;4.51
+2013;"Albania";77.2;4.76
+2012;"Albania";76.9;5.14
+2011;"Albania";76.6;5.37
+2010;"Albania";76.2;5.28
+2009;"Albania";76.1;5.79
+2008;"Albania";75.3;5.61
+2007;"Albania";75.9;5.58
+2006;"Albania";74.2;5.31
+2005;"Albania";73.5;5.16
+2004;"Albania";73.0;4.54
+2003;"Albania";72.8;4.29
+2002;"Albania";73.3;3.73
+2001;"Albania";73.6;4.25
+2000;"Albania";72.6;3.66
+2015;"Algeria";75.6;0.01
+2014;"Algeria";75.4;0.01
+2013;"Algeria";75.3;0.53
+2012;"Algeria";75.1;0.66
+2011;"Algeria";74.9;0.56
+2010;"Algeria";74.7;0.45
+2009;"Algeria";74.4;0.5
+2008;"Algeria";74.1;0.46
+2007;"Algeria";73.8;0.44
+2006;"Algeria";73.4;0.36
+2005;"Algeria";72.9;0.5
+2004;"Algeria";72.3;0.45
+2003;"Algeria";71.7;0.34
+2002;"Algeria";71.6;0.36
+2001;"Algeria";71.4;0.23
+2000;"Algeria";71.3;0.25
+2015;"Angola";52.4;8.33
+2014;"Angola";51.7;8.33
+2013;"Angola";51.1;8.1
+2012;"Angola";56.0;8.24
+2011;"Angola";51.0;8.06
+2010;"Angola";49.6;7.8
+2009;"Angola";49.1;7.01
+2008;"Angola";48.7;7.07
+2007;"Angola";48.2;6.35
+2006;"Angola";47.7;5.84
+2005;"Angola";47.4;5.04
+2004;"Angola";47.1;3.53
+2003;"Angola";46.8;3.49
+2002;"Angola";46.5;2.82
+2001;"Angola";45.7;2.58
+2000;"Angola";45.3;1.85
+2015;"Antigua and Barbuda";76.4;8.56
+2014;"Antigua and Barbuda";76.2;8.56
+2013;"Antigua and Barbuda";76.1;8.58
+2012;"Antigua and Barbuda";75.9;8.18
+2011;"Antigua and Barbuda";75.7;7.84
+2010;"Antigua and Barbuda";75.6;7.84
+2009;"Antigua and Barbuda";75.4;7.82
+2008;"Antigua and Barbuda";75.2;8.27
+2007;"Antigua and Barbuda";75.0;8.64
+2006;"Antigua and Barbuda";74.8;8.93
+2005;"Antigua and Barbuda";74.6;8.15
+2004;"Antigua and Barbuda";74.4;7.28
+2003;"Antigua and Barbuda";74.2;7.16
+2002;"Antigua and Barbuda";74.0;7.21
+2001;"Antigua and Barbuda";73.8;7.51
+2000;"Antigua and Barbuda";73.6;7.27
+2015;"Argentina";76.3;7.93
+2014;"Argentina";76.2;7.93
+2013;"Argentina";76.0;8.28
+2012;"Argentina";75.9;8.35
+2011;"Argentina";75.7;8.11
+2010;"Argentina";75.5;8.15
+2009;"Argentina";75.6;8.33
+2008;"Argentina";75.4;8.41
+2007;"Argentina";74.8;8.16
+2006;"Argentina";75.2;7.75
+2005;"Argentina";74.9;7.53
+2004;"Argentina";74.7;7.63
+2003;"Argentina";74.1;7.62
+2002;"Argentina";74.1;7.81
+2001;"Argentina";74.0;7.76
+2000;"Argentina";74.1;7.68
+2015;"Armenia";74.8;3.91
+2014;"Armenia";74.6;3.91
+2013;"Armenia";74.4;3.79
+2012;"Armenia";74.4;3.89
+2011;"Armenia";73.9;4.09
+2010;"Armenia";73.5;4.23
+2009;"Armenia";73.3;3.96
+2008;"Armenia";73.2;3.96
+2007;"Armenia";73.5;3.99
+2006;"Armenia";72.9;4.01
+2005;"Armenia";73.0;4.25
+2004;"Armenia";73.0;3.81
+2003;"Armenia";72.7;3.03
+2002;"Armenia";72.6;2.86
+2001;"Armenia";72.6;2.86
+2000;"Armenia";72.0;2.9
+2015;"Australia";82.8;9.71
+2014;"Australia";82.7;9.71
+2013;"Australia";82.5;9.87
+2012;"Australia";82.3;10.03
+2011;"Australia";82.0;10.3
+2010;"Australia";81.9;10.52
+2009;"Australia";81.7;10.62
+2008;"Australia";81.3;10.76
+2007;"Australia";81.3;10.56
+2006;"Australia";81.2;10.31
+2005;"Australia";81.0;10.3
+2004;"Australia";86.0;9.84
+2003;"Australia";83.0;9.97
+2002;"Australia";79.9;9.84
+2001;"Australia";79.9;9.53
+2000;"Australia";79.5;10.17
+2015;"Austria";81.5;12.32
+2014;"Austria";81.4;12.32
+2013;"Austria";81.1;11.82
+2012;"Austria";88.0;12.26
+2011;"Austria";88.0;12.04
+2010;"Austria";84.0;12.1
+2009;"Austria";82.0;11.3
+2008;"Austria";84.0;12.0
+2007;"Austria";81.0;12.5
+2006;"Austria";79.8;12.4
+2005;"Austria";79.4;12.4
+2004;"Austria";79.3;12.1
+2003;"Austria";78.8;12.2
+2002;"Austria";78.7;12.5
+2001;"Austria";78.6;12.4
+2000;"Austria";78.1;13.2
+2015;"Azerbaijan";72.7;0.01
+2014;"Azerbaijan";72.5;0.01
+2013;"Azerbaijan";72.2;2.14
+2012;"Azerbaijan";71.9;0.01
+2011;"Azerbaijan";71.6;1.98
+2010;"Azerbaijan";71.1;1.98
+2009;"Azerbaijan";78.0;2.1
+2008;"Azerbaijan";73.0;1.18
+2007;"Azerbaijan";73.0;1.02
+2006;"Azerbaijan";69.2;0.85
+2005;"Azerbaijan";68.4;0.73
+2004;"Azerbaijan";68.4;0.62
+2003;"Azerbaijan";67.8;0.55
+2002;"Azerbaijan";67.8;0.55
+2001;"Azerbaijan";67.5;0.51
+2000;"Azerbaijan";66.6;0.65
+2015;"Bahamas";76.1;9.45
+2014;"Bahamas";75.4;9.45
+2013;"Bahamas";74.8;9.42
+2012;"Bahamas";74.9;9.5
+2011;"Bahamas";75.0;9.34
+2010;"Bahamas";75.0;9.19
+2009;"Bahamas";74.6;9.29
+2008;"Bahamas";74.5;10.15
+2007;"Bahamas";74.4;10.75
+2006;"Bahamas";74.2;11.07
+2005;"Bahamas";74.1;10.49
+2004;"Bahamas";73.8;10.1
+2003;"Bahamas";73.2;10.68
+2002;"Bahamas";73.1;10.85
+2001;"Bahamas";72.9;11.64
+2000;"Bahamas";72.6;12.15
+2015;"Bahrain";76.9;1.57
+2014;"Bahrain";76.8;1.57
+2013;"Bahrain";76.7;1.65
+2012;"Bahrain";76.5;1.7
+2011;"Bahrain";76.1;1.66
+2010;"Bahrain";76.1;1.93
+2009;"Bahrain";76.0;1.95
+2008;"Bahrain";75.8;2.0
+2007;"Bahrain";75.6;2.0
+2006;"Bahrain";75.5;2.1
+2005;"Bahrain";75.3;2.05
+2004;"Bahrain";75.2;2.16
+2003;"Bahrain";75.0;2.16
+2002;"Bahrain";74.9;1.99
+2001;"Bahrain";74.7;1.95
+2000;"Bahrain";74.5;2.15
+2015;"Bangladesh";71.8;0.01
+2014;"Bangladesh";71.4;0.01
+2013;"Bangladesh";71.0;0.01
+2012;"Bangladesh";77.0;0.01
+2011;"Bangladesh";73.0;0.01
+2010;"Bangladesh";69.9;0.01
+2009;"Bangladesh";69.5;0.01
+2008;"Bangladesh";69.1;0.01
+2007;"Bangladesh";68.6;0.01
+2006;"Bangladesh";68.2;0.01
+2005;"Bangladesh";67.8;0.01
+2004;"Bangladesh";67.3;0.01
+2003;"Bangladesh";66.8;0.01
+2002;"Bangladesh";66.3;0.01
+2001;"Bangladesh";65.8;0.01
+2000;"Bangladesh";65.3;0.01
+2015;"Barbados";75.5;8.82
+2014;"Barbados";75.4;8.82
+2013;"Barbados";75.2;8.74
+2012;"Barbados";75.1;8.61
+2011;"Barbados";74.9;8.51
+2010;"Barbados";74.7;8.41
+2009;"Barbados";74.6;8.46
+2008;"Barbados";74.4;8.95
+2007;"Barbados";74.2;8.47
+2006;"Barbados";74.1;8.39
+2005;"Barbados";73.9;8.01
+2004;"Barbados";73.8;7.68
+2003;"Barbados";73.7;7.65
+2002;"Barbados";73.5;7.59
+2001;"Barbados";73.4;7.38
+2000;"Barbados";73.3;7.43
+2015;"Belarus";72.3;13.94
+2014;"Belarus";72.0;13.94
+2013;"Belarus";71.7;14.66
+2012;"Belarus";71.9;16.35
+2011;"Belarus";72.0;17.31
+2010;"Belarus";73.0;14.44
+2009;"Belarus";70.0;14.09
+2008;"Belarus";70.0;14.67
+2007;"Belarus";69.8;14.22
+2006;"Belarus";68.9;12.6
+2005;"Belarus";68.1;11.01
+2004;"Belarus";68.2;12.05
+2003;"Belarus";67.7;11.17
+2002;"Belarus";67.2;12.23
+2001;"Belarus";67.7;10.74
+2000;"Belarus";68.0;12.98
+2015;"Belgium";81.1;12.6
+2014;"Belgium";89.0;12.6
+2013;"Belgium";87.0;11.77
+2012;"Belgium";83.0;10.08
+2011;"Belgium";83.0;10.11
+2010;"Belgium";80.0;10.22
+2009;"Belgium";79.8;10.05
+2008;"Belgium";79.5;10.47
+2007;"Belgium";79.5;10.25
+2006;"Belgium";79.4;10.98
+2005;"Belgium";78.9;12.27
+2004;"Belgium";78.8;12.05
+2003;"Belgium";78.3;11.28
+2002;"Belgium";78.0;11.29
+2001;"Belgium";78.0;11.01
+2000;"Belgium";77.6;11.21
+2015;"Belize";71.0;6.58
+2014;"Belize";70.0;6.58
+2013;"Belize";69.8;6.56
+2012;"Belize";69.4;6.66
+2011;"Belize";69.4;6.64
+2010;"Belize";69.5;6.76
+2009;"Belize";69.5;6.85
+2008;"Belize";69.6;7.22
+2007;"Belize";69.6;7.24
+2006;"Belize";69.4;6.48
+2005;"Belize";69.0;6.25
+2004;"Belize";68.7;6.2
+2003;"Belize";68.4;5.67
+2002;"Belize";68.5;4.99
+2001;"Belize";68.2;4.9
+2000;"Belize";68.3;4.79
+2015;"Benin";60.0;0.01
+2014;"Benin";59.7;0.01
+2013;"Benin";59.5;0.01
+2012;"Benin";59.3;0.01
+2011;"Benin";59.1;1.4
+2010;"Benin";58.7;1.33
+2009;"Benin";58.4;1.16
+2008;"Benin";57.6;1.28
+2007;"Benin";57.1;1.12
+2006;"Benin";56.8;1.19
+2005;"Benin";56.5;1.13
+2004;"Benin";56.1;1.15
+2003;"Benin";55.8;1.35
+2002;"Benin";55.6;1.23
+2001;"Benin";55.5;1.29
+2000;"Benin";55.4;1.34
+2015;"Bhutan";69.8;0.01
+2014;"Bhutan";69.4;0.01
+2013;"Bhutan";69.1;0.01
+2012;"Bhutan";68.7;0.01
+2011;"Bhutan";68.3;0.23
+2010;"Bhutan";67.9;0.28
+2009;"Bhutan";67.4;0.17
+2008;"Bhutan";67.0;0.21
+2007;"Bhutan";66.5;0.16
+2006;"Bhutan";65.8;0.29
+2005;"Bhutan";65.0;0.73
+2004;"Bhutan";64.2;0.96
+2003;"Bhutan";63.3;0.52
+2002;"Bhutan";62.5;0.29
+2001;"Bhutan";61.7;0.14
+2000;"Bhutan";62.0;0.17
+2015;"Bolivia";77.0;3.62
+2014;"Bolivia";74.0;3.62
+2013;"Bolivia";71.0;3.78
+2012;"Bolivia";69.8;3.89
+2011;"Bolivia";69.3;3.93
+2010;"Bolivia";68.7;3.95
+2009;"Bolivia";68.0;3.87
+2008;"Bolivia";67.4;3.77
+2007;"Bolivia";66.8;3.47
+2006;"Bolivia";66.2;3.23
+2005;"Bolivia";65.7;2.86
+2004;"Bolivia";65.1;2.66
+2003;"Bolivia";64.5;2.37
+2002;"Bolivia";63.9;2.26
+2001;"Bolivia";63.3;2.2
+2000;"Bolivia";62.6;2.32
+2015;"Bosnia and Herzegovina";77.4;4.03
+2014;"Bosnia and Herzegovina";77.2;4.03
+2013;"Bosnia and Herzegovina";77.0;4.12
+2012;"Bosnia and Herzegovina";76.8;4.61
+2011;"Bosnia and Herzegovina";76.9;4.64
+2010;"Bosnia and Herzegovina";76.4;4.54
+2009;"Bosnia and Herzegovina";76.1;4.75
+2008;"Bosnia and Herzegovina";76.0;5.13
+2007;"Bosnia and Herzegovina";75.4;5.16
+2006;"Bosnia and Herzegovina";75.7;4.82
+2005;"Bosnia and Herzegovina";75.0;4.56
+2004;"Bosnia and Herzegovina";75.5;4.25
+2003;"Bosnia and Herzegovina";75.2;4.14
+2002;"Bosnia and Herzegovina";75.4;3.84
+2001;"Bosnia and Herzegovina";74.9;3.85
+2000;"Bosnia and Herzegovina";74.6;3.64
+2015;"Botswana";65.7;0.01
+2014;"Botswana";65.1;0.01
+2013;"Botswana";64.2;0.01
+2012;"Botswana";63.4;0.01
+2011;"Botswana";62.2;5.76
+2010;"Botswana";61.1;5.99
+2009;"Botswana";59.2;5.01
+2008;"Botswana";57.5;6.56
+2007;"Botswana";56.9;6.21
+2006;"Botswana";54.8;6.45
+2005;"Botswana";51.7;6.37
+2004;"Botswana";48.1;4.9
+2003;"Botswana";46.4;5.51
+2002;"Botswana";46.0;6.41
+2001;"Botswana";46.7;5.48
+2000;"Botswana";47.8;5.37
+2015;"Brazil";75.0;7.32
+2014;"Brazil";74.8;7.32
+2013;"Brazil";74.7;7.24
+2012;"Brazil";74.5;7.55
+2011;"Brazil";74.1;7.58
+2010;"Brazil";73.8;7.52
+2009;"Brazil";73.6;7.33
+2008;"Brazil";73.4;7.21
+2007;"Brazil";73.3;7.19
+2006;"Brazil";73.0;7.1
+2005;"Brazil";72.7;6.97
+2004;"Brazil";72.0;6.85
+2003;"Brazil";71.8;6.95
+2002;"Brazil";71.4;7.0
+2001;"Brazil";71.0;7.13
+2000;"Brazil";75.0;7.26
+2015;"Brunei Darussalam";77.7;0.01
+2014;"Brunei Darussalam";77.6;0.01
+2013;"Brunei Darussalam";77.1;0.01
+2012;"Brunei Darussalam";78.3;0.01
+2011;"Brunei Darussalam";77.4;0.97
+2010;"Brunei Darussalam";76.9;0.88
+2009;"Brunei Darussalam";76.8;0.25
+2008;"Brunei Darussalam";77.2;0.67
+2007;"Brunei Darussalam";76.0;0.85
+2006;"Brunei Darussalam";76.3;0.67
+2005;"Brunei Darussalam";76.2;0.16
+2004;"Brunei Darussalam";76.4;0.11
+2003;"Brunei Darussalam";76.0;0.12
+2002;"Brunei Darussalam";74.8;0.13
+2001;"Brunei Darussalam";74.7;0.47
+2000;"Brunei Darussalam";74.4;0.37
+2015;"Bulgaria";74.5;12.03
+2014;"Bulgaria";74.3;12.03
+2013;"Bulgaria";74.1;12.06
+2012;"Bulgaria";73.9;10.99
+2011;"Bulgaria";73.7;10.67
+2010;"Bulgaria";73.4;10.8
+2009;"Bulgaria";73.2;10.93
+2008;"Bulgaria";72.9;10.98
+2007;"Bulgaria";72.6;10.89
+2006;"Bulgaria";72.2;10.39
+2005;"Bulgaria";72.1;10.48
+2004;"Bulgaria";72.2;10.96
+2003;"Bulgaria";72.0;11.19
+2002;"Bulgaria";71.8;10.2
+2001;"Bulgaria";71.6;10.72
+2000;"Bulgaria";71.1;9.69
+2015;"Burkina Faso";59.9;0.01
+2014;"Burkina Faso";59.3;0.01
+2013;"Burkina Faso";59.0;4.64
+2012;"Burkina Faso";58.6;4.75
+2011;"Burkina Faso";58.1;4.51
+2010;"Burkina Faso";57.5;4.55
+2009;"Burkina Faso";56.9;4.55
+2008;"Burkina Faso";56.1;4.5
+2007;"Burkina Faso";55.3;4.58
+2006;"Burkina Faso";54.3;4.73
+2005;"Burkina Faso";53.3;4.88
+2004;"Burkina Faso";52.4;4.54
+2003;"Burkina Faso";51.6;4.58
+2002;"Burkina Faso";51.0;4.53
+2001;"Burkina Faso";56.0;4.56
+2000;"Burkina Faso";51.0;3.71
+2015;"Burundi";59.6;0.01
+2014;"Burundi";59.1;0.01
+2013;"Burundi";58.6;0.01
+2012;"Burundi";58.0;0.01
+2011;"Burundi";57.4;4.16
+2010;"Burundi";56.8;4.16
+2009;"Burundi";56.2;4.05
+2008;"Burundi";55.3;4.33
+2007;"Burundi";54.8;4.54
+2006;"Burundi";54.1;4.5
+2005;"Burundi";53.4;5.54
+2004;"Burundi";52.6;5.72
+2003;"Burundi";51.9;5.84
+2002;"Burundi";51.5;5.98
+2001;"Burundi";51.3;6.09
+2000;"Burundi";58.0;6.61
+2015;"Cabo Verde";73.3;0.01
+2014;"Cabo Verde";73.0;0.01
+2013;"Cabo Verde";72.8;0.01
+2012;"Cabo Verde";72.7;0.01
+2011;"Cabo Verde";72.6;5.07
+2010;"Cabo Verde";72.5;4.75
+2009;"Cabo Verde";72.4;4.45
+2008;"Cabo Verde";72.4;4.16
+2007;"Cabo Verde";72.3;5.28
+2006;"Cabo Verde";72.1;4.25
+2005;"Cabo Verde";71.8;4.26
+2004;"Cabo Verde";71.4;4.19
+2003;"Cabo Verde";71.1;4.16
+2002;"Cabo Verde";77.0;3.82
+2001;"Cabo Verde";73.0;3.81
+2000;"Cabo Verde";69.9;3.49
+2015;"Cambodia";68.7;0.01
+2014;"Cambodia";68.3;0.01
+2013;"Cambodia";67.8;0.01
+2012;"Cambodia";67.4;0.01
+2011;"Cambodia";67.0;2.12
+2010;"Cambodia";66.6;2.2
+2009;"Cambodia";66.1;2.13
+2008;"Cambodia";65.6;2.24
+2007;"Cambodia";65.0;2.08
+2006;"Cambodia";64.1;2.03
+2005;"Cambodia";62.9;1.99
+2004;"Cambodia";61.5;1.38
+2003;"Cambodia";63.0;1.44
+2002;"Cambodia";59.3;1.43
+2001;"Cambodia";58.5;1.71
+2000;"Cambodia";57.7;1.51
+2015;"Cameroon";57.3;0.01
+2014;"Cameroon";56.7;0.01
+2013;"Cameroon";56.4;0.01
+2012;"Cameroon";55.9;0.01
+2011;"Cameroon";55.6;6.19
+2010;"Cameroon";55.3;6.15
+2009;"Cameroon";54.8;5.89
+2008;"Cameroon";54.2;5.9
+2007;"Cameroon";53.6;5.44
+2006;"Cameroon";53.3;5.22
+2005;"Cameroon";52.8;5.03
+2004;"Cameroon";52.1;4.71
+2003;"Cameroon";51.8;4.64
+2002;"Cameroon";51.6;4.58
+2001;"Cameroon";51.5;4.43
+2000;"Cameroon";51.4;3.91
+2015;"Canada";82.2;8.1
+2014;"Canada";82.0;8.1
+2013;"Canada";81.8;8.2
+2012;"Canada";81.6;8.3
+2011;"Canada";81.5;8.2
+2010;"Canada";81.2;8.4
+2009;"Canada";81.0;8.4
+2008;"Canada";87.0;8.3
+2007;"Canada";85.0;8.3
+2006;"Canada";85.0;8.2
+2005;"Canada";81.0;8.0
+2004;"Canada";80.0;7.8
+2003;"Canada";79.7;7.7
+2002;"Canada";79.5;7.7
+2001;"Canada";79.4;7.6
+2000;"Canada";79.1;7.6
+2015;"Central African Republic";52.5;0.01
+2014;"Central African Republic";58.0;0.01
+2013;"Central African Republic";49.9;0.01
+2012;"Central African Republic";53.0;0.01
+2011;"Central African Republic";49.8;1.66
+2010;"Central African Republic";49.2;1.67
+2009;"Central African Republic";48.6;1.56
+2008;"Central African Republic";47.6;1.52
+2007;"Central African Republic";46.8;1.5
+2006;"Central African Republic";46.3;1.54
+2005;"Central African Republic";45.9;1.5
+2004;"Central African Republic";45.7;1.5
+2003;"Central African Republic";45.7;1.49
+2002;"Central African Republic";45.6;1.47
+2001;"Central African Republic";45.6;1.52
+2000;"Central African Republic";46.0;1.51
+2015;"Chad";53.1;0.01
+2014;"Chad";52.6;0.01
+2013;"Chad";52.2;0.64
+2012;"Chad";51.8;0.62
+2011;"Chad";51.6;0.56
+2010;"Chad";51.2;0.5
+2009;"Chad";57.0;0.47
+2008;"Chad";49.6;0.45
+2007;"Chad";49.4;0.42
+2006;"Chad";48.5;0.41
+2005;"Chad";48.6;0.42
+2004;"Chad";48.5;0.34
+2003;"Chad";48.4;0.42
+2002;"Chad";48.1;0.36
+2001;"Chad";48.0;0.3
+2000;"Chad";47.6;0.25
+2015;"Chile";85.0;7.16
+2014;"Chile";83.0;7.16
+2013;"Chile";81.0;7.2
+2012;"Chile";79.9;6.76
+2011;"Chile";79.8;7.26
+2010;"Chile";79.1;7.93
+2009;"Chile";79.3;7.67
+2008;"Chile";79.6;7.31
+2007;"Chile";78.9;7.39
+2006;"Chile";78.9;7.33
+2005;"Chile";78.4;7.57
+2004;"Chile";78.0;6.32
+2003;"Chile";77.9;6.37
+2002;"Chile";77.8;6.06
+2001;"Chile";77.3;6.1
+2000;"Chile";77.3;6.24
+2015;"China";76.1;5.78
+2014;"China";75.8;5.78
+2013;"China";75.6;5.79
+2012;"China";75.4;5.74
+2011;"China";75.2;5.63
+2010;"China";75.0;5.75
+2009;"China";74.9;4.88
+2008;"China";74.5;4.27
+2007;"China";74.4;3.88
+2006;"China";74.2;3.28
+2005;"China";73.9;2.92
+2004;"China";73.5;3.04
+2003;"China";73.1;2.96
+2002;"China";72.7;2.91
+2001;"China";72.2;2.84
+2000;"China";71.7;3.06
+2015;"Colombia";74.8;4.38
+2014;"Colombia";74.6;4.38
+2013;"Colombia";74.4;4.41
+2012;"Colombia";74.3;4.44
+2011;"Colombia";74.2;4.37
+2010;"Colombia";73.6;4.28
+2009;"Colombia";73.6;4.34
+2008;"Colombia";73.5;4.45
+2007;"Colombia";73.5;4.66
+2006;"Colombia";73.1;4.53
+2005;"Colombia";73.1;4.38
+2004;"Colombia";72.8;4.26
+2003;"Colombia";72.4;4.25
+2002;"Colombia";71.8;4.45
+2001;"Colombia";71.5;4.43
+2000;"Colombia";71.4;4.66
+2015;"Comoros";63.5;0.01
+2014;"Comoros";63.2;0.01
+2013;"Comoros";62.9;0.01
+2012;"Comoros";62.5;0.01
+2011;"Comoros";62.2;0.12
+2010;"Comoros";61.8;0.15
+2009;"Comoros";61.3;0.17
+2008;"Comoros";61.0;0.12
+2007;"Comoros";66.0;0.16
+2006;"Comoros";63.0;0.25
+2005;"Comoros";60.0;0.24
+2004;"Comoros";59.8;0.27
+2003;"Comoros";59.6;0.26
+2002;"Comoros";59.5;0.08
+2001;"Comoros";59.5;0.08
+2000;"Comoros";59.5;0.09
+2015;"Congo";62.25;0.01
+2014;"Congo";61.75;0.01
+2013;"Congo";61.35;0.01
+2012;"Congo";61.0;0.01
+2011;"Congo";60.4;2.82
+2010;"Congo";59.7;2.67
+2009;"Congo";62.35;2.8
+2008;"Congo";57.85;2.33
+2007;"Congo";56.95;2.13
+2006;"Congo";55.95;1.89
+2005;"Congo";54.8;1.73
+2004;"Congo";53.8;2.01
+2003;"Congo";53.0;2.14
+2002;"Congo";52.35;2.2
+2001;"Congo";52.25;2.1
+2000;"Congo";52.1;2.12
+2013;"Cook Islands";79.6;0.01
+2015;"Costa Rica";79.6;3.45
+2014;"Costa Rica";79.5;3.45
+2013;"Costa Rica";79.4;3.42
+2012;"Costa Rica";79.2;3.34
+2011;"Costa Rica";79.0;3.41
+2010;"Costa Rica";78.1;3.58
+2009;"Costa Rica";79.2;4.07
+2008;"Costa Rica";78.9;4.22
+2007;"Costa Rica";78.9;4.2
+2006;"Costa Rica";78.0;4.15
+2005;"Costa Rica";78.6;4.1
+2004;"Costa Rica";77.7;4.09
+2003;"Costa Rica";78.0;4.04
+2002;"Costa Rica";78.3;4.17
+2001;"Costa Rica";77.5;4.29
+2000;"Costa Rica";77.6;4.34
+2015;"Croatia";78.0;12.14
+2014;"Croatia";77.8;12.14
+2013;"Croatia";77.7;12.39
+2012;"Croatia";77.1;11.49
+2011;"Croatia";77.0;12.19
+2010;"Croatia";76.6;12.1
+2009;"Croatia";76.3;12.21
+2008;"Croatia";76.0;12.06
+2007;"Croatia";75.8;12.56
+2006;"Croatia";75.9;11.83
+2005;"Croatia";75.2;11.59
+2004;"Croatia";75.4;13.11
+2003;"Croatia";74.7;13.78
+2002;"Croatia";74.8;13.39
+2001;"Croatia";74.9;13.15
+2000;"Croatia";74.7;12.73
+2015;"Cuba";79.1;4.37
+2014;"Cuba";79.0;4.37
+2013;"Cuba";78.7;4.18
+2012;"Cuba";78.7;4.16
+2011;"Cuba";78.8;4.14
+2010;"Cuba";78.0;4.13
+2009;"Cuba";78.1;4.01
+2008;"Cuba";77.9;4.26
+2007;"Cuba";78.1;4.13
+2006;"Cuba";78.0;4.17
+2005;"Cuba";77.2;4.48
+2004;"Cuba";77.3;4.38
+2003;"Cuba";77.4;4.39
+2002;"Cuba";77.7;4.1
+2001;"Cuba";76.7;4.04
+2000;"Cuba";76.9;3.92
+2015;"Cyprus";85.0;0.01
+2014;"Cyprus";83.0;0.01
+2013;"Cyprus";81.0;9.04
+2012;"Cyprus";80.0;10.55
+2011;"Cyprus";79.7;10.69
+2010;"Cyprus";79.5;11.32
+2009;"Cyprus";79.3;10.8
+2008;"Cyprus";79.1;12.01
+2007;"Cyprus";78.9;11.56
+2006;"Cyprus";78.8;11.47
+2005;"Cyprus";78.7;11.41
+2004;"Cyprus";78.6;13.03
+2003;"Cyprus";78.5;10.62
+2002;"Cyprus";78.4;11.68
+2001;"Cyprus";78.2;10.16
+2000;"Cyprus";78.1;9.56
+2015;"Czech Republic";78.8;12.68
+2014;"Czech Republic";78.6;12.68
+2013;"Czech Republic";78.2;12.45
+2012;"Czech Republic";78.0;12.71
+2011;"Czech Republic";77.8;12.43
+2010;"Czech Republic";77.5;12.69
+2009;"Czech Republic";77.1;13.23
+2008;"Czech Republic";77.0;13.25
+2007;"Czech Republic";76.8;13.43
+2006;"Czech Republic";76.5;13.03
+2005;"Czech Republic";75.9;13.19
+2004;"Czech Republic";75.8;13.24
+2003;"Czech Republic";75.2;13.01
+2002;"Czech Republic";75.3;13.47
+2001;"Czech Republic";75.1;13.36
+2000;"Czech Republic";74.7;13.22
+2015;"Denmark";86.0;9.64
+2014;"Denmark";84.0;9.64
+2013;"Denmark";81.0;9.5
+2012;"Denmark";80.0;9.26
+2011;"Denmark";79.7;10.47
+2010;"Denmark";79.2;10.28
+2009;"Denmark";78.9;10.08
+2008;"Denmark";78.8;10.7
+2007;"Denmark";78.4;10.99
+2006;"Denmark";78.1;11.02
+2005;"Denmark";78.1;11.28
+2004;"Denmark";77.7;11.27
+2003;"Denmark";77.3;11.54
+2002;"Denmark";77.0;11.34
+2001;"Denmark";77.0;11.56
+2000;"Denmark";76.9;11.69
+2015;"Djibouti";63.5;0.38
+2014;"Djibouti";63.0;0.38
+2013;"Djibouti";62.7;0.53
+2012;"Djibouti";62.2;0.52
+2011;"Djibouti";61.8;0.39
+2010;"Djibouti";61.3;0.44
+2009;"Djibouti";69.0;0.49
+2008;"Djibouti";62.0;0.49
+2007;"Djibouti";59.8;0.45
+2006;"Djibouti";59.1;1.02
+2005;"Djibouti";58.6;1.23
+2004;"Djibouti";58.1;1.18
+2003;"Djibouti";58.0;1.02
+2002;"Djibouti";57.9;1.03
+2001;"Djibouti";57.7;0.95
+2000;"Djibouti";57.4;1.34
+2013;"Dominica";73.9;0.01
+2015;"Dominican Republic";73.9;5.92
+2014;"Dominican Republic";73.6;5.92
+2013;"Dominican Republic";73.4;5.93
+2012;"Dominican Republic";72.1;5.93
+2011;"Dominican Republic";73.1;5.91
+2010;"Dominican Republic";72.7;6.02
+2009;"Dominican Republic";73.6;6.05
+2008;"Dominican Republic";73.3;6.12
+2007;"Dominican Republic";72.9;6.05
+2006;"Dominican Republic";72.3;6.2
+2005;"Dominican Republic";69.7;5.71
+2004;"Dominican Republic";69.3;5.16
+2003;"Dominican Republic";73.0;6.32
+2002;"Dominican Republic";71.4;6.43
+2001;"Dominican Republic";71.2;6.13
+2000;"Dominican Republic";72.0;6.58
+2015;"Ecuador";76.2;3.82
+2014;"Ecuador";76.0;3.82
+2013;"Ecuador";76.0;3.77
+2012;"Ecuador";75.5;3.92
+2011;"Ecuador";75.3;3.99
+2010;"Ecuador";75.0;3.95
+2009;"Ecuador";75.1;3.87
+2008;"Ecuador";74.6;3.76
+2007;"Ecuador";74.7;3.63
+2006;"Ecuador";74.4;3.52
+2005;"Ecuador";74.2;3.54
+2004;"Ecuador";74.4;3.65
+2003;"Ecuador";74.4;3.69
+2002;"Ecuador";73.6;3.88
+2001;"Ecuador";73.4;4.13
+2000;"Ecuador";72.8;3.99
+2015;"Egypt";79.0;0.21
+2014;"Egypt";78.0;0.21
+2013;"Egypt";79.0;0.21
+2012;"Egypt";72.0;0.23
+2011;"Egypt";74.0;0.22
+2010;"Egypt";70.0;0.22
+2009;"Egypt";69.9;0.21
+2008;"Egypt";69.8;0.24
+2007;"Egypt";69.7;0.21
+2006;"Egypt";69.5;0.18
+2005;"Egypt";69.4;0.16
+2004;"Egypt";69.0;0.16
+2003;"Egypt";68.6;0.15
+2002;"Egypt";68.7;0.15
+2001;"Egypt";68.6;0.14
+2000;"Egypt";68.8;0.14
+2015;"El Salvador";73.5;2.52
+2014;"El Salvador";73.3;2.52
+2013;"El Salvador";73.0;2.42
+2012;"El Salvador";73.0;2.48
+2011;"El Salvador";72.0;2.37
+2010;"El Salvador";72.0;2.36
+2009;"El Salvador";71.4;2.55
+2008;"El Salvador";71.7;2.68
+2007;"El Salvador";71.2;2.83
+2006;"El Salvador";75.0;2.77
+2005;"El Salvador";71.0;2.77
+2004;"El Salvador";70.0;2.9
+2003;"El Salvador";69.9;3.1
+2002;"El Salvador";73.0;2.97
+2001;"El Salvador";68.9;2.88
+2000;"El Salvador";69.0;2.79
+2015;"Equatorial Guinea";58.2;0.01
+2014;"Equatorial Guinea";57.9;0.01
+2013;"Equatorial Guinea";57.4;10.72
+2012;"Equatorial Guinea";56.7;11.89
+2011;"Equatorial Guinea";56.2;10.99
+2010;"Equatorial Guinea";56.1;9.93
+2009;"Equatorial Guinea";55.7;7.97
+2008;"Equatorial Guinea";55.4;8.34
+2007;"Equatorial Guinea";55.0;6.86
+2006;"Equatorial Guinea";54.8;7.28
+2005;"Equatorial Guinea";54.4;7.19
+2004;"Equatorial Guinea";54.1;6.28
+2003;"Equatorial Guinea";53.8;7.13
+2002;"Equatorial Guinea";53.5;6.01
+2001;"Equatorial Guinea";53.1;5.07
+2000;"Equatorial Guinea";52.7;4.46
+2015;"Eritrea";64.7;0.01
+2014;"Eritrea";64.4;0.01
+2013;"Eritrea";64.0;0.01
+2012;"Eritrea";63.6;0.01
+2011;"Eritrea";62.9;0.62
+2010;"Eritrea";62.1;0.61
+2009;"Eritrea";61.4;0.63
+2008;"Eritrea";67.0;0.49
+2007;"Eritrea";62.0;1.23
+2006;"Eritrea";59.7;0.97
+2005;"Eritrea";59.4;1.07
+2004;"Eritrea";59.1;0.64
+2003;"Eritrea";58.8;0.56
+2002;"Eritrea";58.5;0.83
+2001;"Eritrea";58.1;0.61
+2000;"Eritrea";45.3;0.83
+2015;"Estonia";77.6;0.01
+2014;"Estonia";77.3;0.01
+2013;"Estonia";76.9;0.01
+2012;"Estonia";76.3;0.01
+2011;"Estonia";76.1;0.01
+2010;"Estonia";75.6;14.97
+2009;"Estonia";74.9;15.04
+2008;"Estonia";74.2;16.99
+2007;"Estonia";73.0;17.87
+2006;"Estonia";73.0;16.58
+2005;"Estonia";72.8;15.52
+2004;"Estonia";72.3;15.07
+2003;"Estonia";71.9;11.64
+2002;"Estonia";71.2;11.48
+2001;"Estonia";78.0;0.01
+2000;"Estonia";78.0;0.01
+2015;"Ethiopia";64.8;0.01
+2014;"Ethiopia";64.2;0.01
+2013;"Ethiopia";63.7;1.86
+2012;"Ethiopia";63.3;1.84
+2011;"Ethiopia";62.6;1.32
+2010;"Ethiopia";61.8;1.34
+2009;"Ethiopia";68.0;1.17
+2008;"Ethiopia";59.8;1.13
+2007;"Ethiopia";58.5;1.06
+2006;"Ethiopia";57.2;1.22
+2005;"Ethiopia";56.0;0.99
+2004;"Ethiopia";55.0;0.86
+2003;"Ethiopia";54.0;0.79
+2002;"Ethiopia";53.2;0.8
+2001;"Ethiopia";52.5;0.85
+2000;"Ethiopia";51.2;0.88
+2015;"Fiji";69.9;0.01
+2014;"Fiji";69.7;0.01
+2013;"Fiji";69.6;0.01
+2012;"Fiji";69.4;0.01
+2011;"Fiji";69.2;0.01
+2010;"Fiji";69.1;2.25
+2009;"Fiji";68.9;2.31
+2008;"Fiji";68.7;1.95
+2007;"Fiji";68.6;2.09
+2006;"Fiji";68.5;2.06
+2005;"Fiji";68.3;2.02
+2004;"Fiji";68.1;1.63
+2003;"Fiji";68.0;1.76
+2002;"Fiji";67.9;1.85
+2001;"Fiji";67.8;1.93
+2000;"Fiji";67.7;2.05
+2015;"Finland";81.1;8.8
+2014;"Finland";89.0;8.8
+2013;"Finland";87.0;8.97
+2012;"Finland";84.0;9.24
+2011;"Finland";83.0;9.81
+2010;"Finland";79.9;9.72
+2009;"Finland";79.7;9.96
+2008;"Finland";79.6;10.26
+2007;"Finland";79.3;10.45
+2006;"Finland";79.2;10.15
+2005;"Finland";78.9;9.95
+2004;"Finland";78.7;9.89
+2003;"Finland";78.4;9.31
+2002;"Finland";78.1;9.25
+2001;"Finland";78.0;8.94
+2000;"Finland";77.5;8.59
+2015;"France";82.4;11.5
+2014;"France";82.2;11.5
+2013;"France";82.0;11.1
+2012;"France";81.5;11.5
+2011;"France";81.7;11.8
+2010;"France";81.3;11.7
+2009;"France";81.1;11.8
+2008;"France";89.0;11.9
+2007;"France";89.0;12.2
+2006;"France";86.0;12.4
+2005;"France";81.0;12.2
+2004;"France";82.0;13.18
+2003;"France";79.3;13.49
+2002;"France";79.2;13.78
+2001;"France";79.0;13.89
+2000;"France";78.8;13.63
+2015;"Gabon";66.0;0.01
+2014;"Gabon";65.5;0.01
+2013;"Gabon";64.6;8.86
+2012;"Gabon";63.5;8.3
+2011;"Gabon";62.8;8.9
+2010;"Gabon";62.3;8.85
+2009;"Gabon";61.7;8.64
+2008;"Gabon";61.6;8.75
+2007;"Gabon";61.6;9.02
+2006;"Gabon";61.4;8.01
+2005;"Gabon";65.0;7.72
+2004;"Gabon";59.7;8.13
+2003;"Gabon";59.7;6.47
+2002;"Gabon";59.7;8.34
+2001;"Gabon";59.8;9.29
+2000;"Gabon";61.0;8.87
+2015;"Gambia";61.1;0.01
+2014;"Gambia";68.0;0.01
+2013;"Gambia";66.0;0.01
+2012;"Gambia";62.0;0.01
+2011;"Gambia";59.8;3.41
+2010;"Gambia";59.3;3.48
+2009;"Gambia";59.0;2.99
+2008;"Gambia";58.7;2.79
+2007;"Gambia";58.5;2.64
+2006;"Gambia";58.2;2.93
+2005;"Gambia";57.7;2.26
+2004;"Gambia";57.3;2.51
+2003;"Gambia";57.0;2.47
+2002;"Gambia";56.6;2.08
+2001;"Gambia";56.3;2.25
+2000;"Gambia";55.9;2.18
+2015;"Georgia";74.4;6.13
+2014;"Georgia";74.5;6.13
+2013;"Georgia";74.5;5.91
+2012;"Georgia";74.2;7.71
+2011;"Georgia";73.9;8.14
+2010;"Georgia";73.8;7.24
+2009;"Georgia";73.2;6.66
+2008;"Georgia";73.9;7.17
+2007;"Georgia";74.4;8.65
+2006;"Georgia";73.9;6.18
+2005;"Georgia";73.9;4.7
+2004;"Georgia";72.3;3.74
+2003;"Georgia";72.7;3.36
+2002;"Georgia";71.7;2.72
+2001;"Georgia";73.0;2.76
+2000;"Georgia";71.8;3.28
+2015;"Germany";81.0;11.03
+2014;"Germany";89.0;11.03
+2013;"Germany";86.0;10.94
+2012;"Germany";86.0;11.18
+2011;"Germany";85.0;11.2
+2010;"Germany";81.0;11.2
+2009;"Germany";80.0;11.22
+2008;"Germany";79.9;11.36
+2007;"Germany";79.8;11.5
+2006;"Germany";79.6;11.76
+2005;"Germany";79.2;11.67
+2004;"Germany";79.1;11.83
+2003;"Germany";78.5;11.92
+2002;"Germany";78.4;12.25
+2001;"Germany";78.3;12.46
+2000;"Germany";78.0;12.91
+2015;"Ghana";62.4;0.01
+2014;"Ghana";62.1;0.01
+2013;"Ghana";61.9;0.01
+2012;"Ghana";61.6;0.01
+2011;"Ghana";61.2;1.64
+2010;"Ghana";69.0;1.69
+2009;"Ghana";66.0;1.76
+2008;"Ghana";63.0;1.78
+2007;"Ghana";59.9;1.25
+2006;"Ghana";59.4;1.7
+2005;"Ghana";58.9;1.5
+2004;"Ghana";58.3;1.46
+2003;"Ghana";57.9;1.53
+2002;"Ghana";57.6;1.6
+2001;"Ghana";57.4;1.49
+2000;"Ghana";57.2;1.6
+2015;"Greece";81.0;7.53
+2014;"Greece";88.0;7.53
+2013;"Greece";86.0;7.46
+2012;"Greece";84.0;8.2
+2011;"Greece";85.0;8.02
+2010;"Greece";83.0;9.0
+2009;"Greece";80.0;9.08
+2008;"Greece";79.9;9.51
+2007;"Greece";79.4;9.67
+2006;"Greece";79.7;9.42
+2005;"Greece";79.3;9.95
+2004;"Greece";79.2;9.56
+2003;"Greece";79.1;9.46
+2002;"Greece";79.0;8.09
+2001;"Greece";78.7;8.62
+2000;"Greece";78.2;8.48
+2015;"Grenada";73.6;8.42
+2014;"Grenada";73.5;8.42
+2013;"Grenada";73.3;8.25
+2012;"Grenada";73.1;8.07
+2011;"Grenada";72.9;7.84
+2010;"Grenada";72.6;7.91
+2009;"Grenada";72.4;8.42
+2008;"Grenada";72.1;8.92
+2007;"Grenada";71.9;9.06
+2006;"Grenada";71.7;9.06
+2005;"Grenada";71.5;8.8
+2004;"Grenada";73.0;8.43
+2003;"Grenada";71.1;9.75
+2002;"Grenada";79.0;10.71
+2001;"Grenada";77.0;9.61
+2000;"Grenada";74.0;9.4
+2015;"Guatemala";71.9;1.88
+2014;"Guatemala";71.7;1.88
+2013;"Guatemala";71.4;1.93
+2012;"Guatemala";71.3;2.02
+2011;"Guatemala";71.1;2.16
+2010;"Guatemala";77.0;2.14
+2009;"Guatemala";76.0;2.14
+2008;"Guatemala";79.0;2.21
+2007;"Guatemala";75.0;2.4
+2006;"Guatemala";69.7;2.38
+2005;"Guatemala";69.2;2.35
+2004;"Guatemala";69.6;2.4
+2003;"Guatemala";69.4;2.45
+2002;"Guatemala";69.3;2.41
+2001;"Guatemala";68.4;2.53
+2000;"Guatemala";67.7;2.63
+2015;"Guinea";59.0;0.01
+2014;"Guinea";58.1;0.01
+2013;"Guinea";58.8;0.01
+2012;"Guinea";58.4;0.01
+2011;"Guinea";58.1;0.22
+2010;"Guinea";57.8;0.2
+2009;"Guinea";57.3;0.18
+2008;"Guinea";56.8;0.21
+2007;"Guinea";56.4;0.19
+2006;"Guinea";55.6;0.16
+2005;"Guinea";54.7;0.21
+2004;"Guinea";54.0;0.34
+2003;"Guinea";53.3;0.18
+2002;"Guinea";52.9;0.21
+2001;"Guinea";52.5;0.17
+2000;"Guinea";52.5;0.17
+2015;"Guinea-Bissau";58.9;0.01
+2014;"Guinea-Bissau";58.4;0.01
+2013;"Guinea-Bissau";58.1;0.01
+2012;"Guinea-Bissau";57.6;0.01
+2011;"Guinea-Bissau";57.1;3.57
+2010;"Guinea-Bissau";56.7;3.21
+2009;"Guinea-Bissau";56.3;2.55
+2008;"Guinea-Bissau";55.6;2.64
+2007;"Guinea-Bissau";55.0;2.98
+2006;"Guinea-Bissau";54.4;3.22
+2005;"Guinea-Bissau";53.9;3.1
+2004;"Guinea-Bissau";53.5;2.58
+2003;"Guinea-Bissau";53.0;2.16
+2002;"Guinea-Bissau";52.8;2.47
+2001;"Guinea-Bissau";52.5;2.55
+2000;"Guinea-Bissau";52.1;2.84
+2015;"Guyana";66.2;7.64
+2014;"Guyana";66.0;7.64
+2013;"Guyana";65.9;7.56
+2012;"Guyana";65.8;7.57
+2011;"Guyana";65.6;7.56
+2010;"Guyana";65.9;7.52
+2009;"Guyana";66.1;7.49
+2008;"Guyana";66.3;7.32
+2007;"Guyana";65.7;7.2
+2006;"Guyana";65.2;7.04
+2005;"Guyana";65.0;7.35
+2004;"Guyana";65.1;7.84
+2003;"Guyana";65.3;7.93
+2002;"Guyana";65.3;7.73
+2001;"Guyana";65.4;6.71
+2000;"Guyana";65.4;6.63
+2015;"Haiti";63.5;0.01
+2014;"Haiti";63.1;0.01
+2013;"Haiti";62.7;5.68
+2012;"Haiti";62.3;5.68
+2011;"Haiti";62.3;5.68
+2010;"Haiti";36.3;5.76
+2009;"Haiti";62.5;5.85
+2008;"Haiti";62.1;5.95
+2007;"Haiti";61.8;6.08
+2006;"Haiti";61.1;6.18
+2005;"Haiti";65.0;5.57
+2004;"Haiti";58.7;6.1
+2003;"Haiti";59.7;6.64
+2002;"Haiti";59.3;6.1
+2001;"Haiti";58.9;6.22
+2000;"Haiti";58.6;4.79
+2015;"Honduras";74.6;2.87
+2014;"Honduras";74.5;2.87
+2013;"Honduras";74.3;3.11
+2012;"Honduras";74.1;3.11
+2011;"Honduras";73.9;3.1
+2010;"Honduras";73.6;3.1
+2009;"Honduras";73.4;3.08
+2008;"Honduras";73.2;3.14
+2007;"Honduras";73.0;3.16
+2006;"Honduras";72.8;3.23
+2005;"Honduras";72.5;3.23
+2004;"Honduras";72.2;3.02
+2003;"Honduras";71.9;3.04
+2002;"Honduras";71.6;3.09
+2001;"Honduras";71.3;2.74
+2000;"Honduras";71.0;2.61
+2015;"Hungary";75.8;0.01
+2014;"Hungary";75.6;0.01
+2013;"Hungary";75.5;10.88
+2012;"Hungary";75.0;11.27
+2011;"Hungary";74.8;11.51
+2010;"Hungary";74.5;10.78
+2009;"Hungary";74.2;11.46
+2008;"Hungary";74.1;11.64
+2007;"Hungary";73.5;12.55
+2006;"Hungary";73.4;13.16
+2005;"Hungary";72.9;12.94
+2004;"Hungary";72.9;13.28
+2003;"Hungary";72.5;13.24
+2002;"Hungary";72.5;13.29
+2001;"Hungary";72.3;13.18
+2000;"Hungary";71.7;12.22
+2015;"Iceland";82.7;7.45
+2014;"Iceland";82.5;7.45
+2013;"Iceland";82.4;7.31
+2012;"Iceland";82.5;7.81
+2011;"Iceland";82.1;8.13
+2010;"Iceland";81.8;8.25
+2009;"Iceland";81.6;10.22
+2008;"Iceland";81.4;8.49
+2007;"Iceland";81.3;7.53
+2006;"Iceland";81.1;7.2
+2005;"Iceland";81.0;7.05
+2004;"Iceland";88.0;6.79
+2003;"Iceland";87.0;6.61
+2002;"Iceland";84.0;6.61
+2001;"Iceland";80.0;6.37
+2000;"Iceland";79.7;6.17
+2015;"India";68.3;3.07
+2014;"India";68.0;3.07
+2013;"India";67.6;3.11
+2012;"India";67.3;3.1
+2011;"India";66.8;3.0
+2010;"India";66.4;2.77
+2009;"India";66.0;2.5
+2008;"India";65.5;1.93
+2007;"India";65.2;1.59
+2006;"India";64.8;1.37
+2005;"India";64.4;1.27
+2004;"India";64.0;1.2
+2003;"India";63.7;1.19
+2002;"India";63.3;1.1
+2001;"India";62.9;1.0
+2000;"India";62.5;0.93
+2015;"Indonesia";69.1;0.09
+2014;"Indonesia";68.9;0.09
+2013;"Indonesia";68.7;0.09
+2012;"Indonesia";68.5;0.08
+2011;"Indonesia";68.3;0.08
+2010;"Indonesia";68.1;0.08
+2009;"Indonesia";67.9;0.08
+2008;"Indonesia";67.7;0.07
+2007;"Indonesia";67.5;0.06
+2006;"Indonesia";67.3;0.06
+2005;"Indonesia";67.2;0.06
+2004;"Indonesia";65.3;0.06
+2003;"Indonesia";66.9;0.05
+2002;"Indonesia";66.7;0.05
+2001;"Indonesia";66.5;0.06
+2000;"Indonesia";66.3;0.06
+2015;"Iran";75.5;0.01
+2014;"Iran";75.4;0.01
+2013;"Iran";75.3;0.01
+2012;"Iran";75.1;0.01
+2011;"Iran";74.7;0.03
+2010;"Iran";74.1;0.03
+2009;"Iran";73.3;0.03
+2008;"Iran";72.7;0.02
+2007;"Iran";72.4;0.02
+2006;"Iran";72.2;0.02
+2005;"Iran";72.0;0.01
+2004;"Iran";71.8;0.01
+2003;"Iran";75.0;0.01
+2002;"Iran";71.2;0.01
+2001;"Iran";78.0;0.01
+2000;"Iran";73.0;0.01
+2015;"Iraq";68.9;0.01
+2014;"Iraq";67.9;0.01
+2013;"Iraq";69.5;0.01
+2012;"Iraq";76.0;0.01
+2011;"Iraq";77.0;0.17
+2010;"Iraq";76.0;0.19
+2009;"Iraq";74.0;0.2
+2008;"Iraq";69.3;0.17
+2007;"Iraq";65.9;0.14
+2006;"Iraq";64.7;0.03
+2005;"Iraq";66.8;0.18
+2004;"Iraq";67.2;0.32
+2003;"Iraq";66.5;0.07
+2002;"Iraq";74.0;0.15
+2001;"Iraq";72.0;0.17
+2000;"Iraq";70.0;0.2
+2015;"Ireland";81.4;10.75
+2014;"Ireland";81.2;10.75
+2013;"Ireland";81.0;10.49
+2012;"Ireland";85.0;11.49
+2011;"Ireland";84.0;11.72
+2010;"Ireland";86.0;11.88
+2009;"Ireland";79.7;11.41
+2008;"Ireland";79.8;12.66
+2007;"Ireland";79.5;13.59
+2006;"Ireland";79.0;13.44
+2005;"Ireland";78.7;13.31
+2004;"Ireland";78.3;13.32
+2003;"Ireland";78.0;13.24
+2002;"Ireland";77.4;14.17
+2001;"Ireland";77.0;14.27
+2000;"Ireland";76.4;14.07
+2015;"Israel";82.5;2.62
+2014;"Israel";82.2;2.62
+2013;"Israel";82.1;2.69
+2012;"Israel";81.8;2.78
+2011;"Israel";81.8;2.67
+2010;"Israel";81.7;2.63
+2009;"Israel";81.5;2.55
+2008;"Israel";81.0;2.47
+2007;"Israel";84.0;2.33
+2006;"Israel";84.0;2.23
+2005;"Israel";80.0;2.41
+2004;"Israel";81.0;2.23
+2003;"Israel";79.7;2.32
+2002;"Israel";79.3;2.47
+2001;"Israel";79.3;2.53
+2000;"Israel";78.9;2.53
+2015;"Italy";82.7;7.56
+2014;"Italy";82.5;7.56
+2013;"Italy";82.3;7.35
+2012;"Italy";82.0;7.49
+2011;"Italy";82.0;6.98
+2010;"Italy";81.8;6.95
+2009;"Italy";81.6;7.25
+2008;"Italy";81.5;7.96
+2007;"Italy";81.3;8.37
+2006;"Italy";81.2;8.44
+2005;"Italy";88.0;8.65
+2004;"Italy";89.0;8.98
+2003;"Italy";79.9;9.3
+2002;"Italy";80.0;9.25
+2001;"Italy";79.8;9.69
+2000;"Italy";79.4;9.78
+2015;"Ivory Coast";53.3;0.01
+2014;"Ivory Coast";52.8;0.01
+2013;"Ivory Coast";52.3;3.15
+2012;"Ivory Coast";52.0;3.24
+2011;"Ivory Coast";51.7;3.13
+2010;"Ivory Coast";51.5;3.15
+2009;"Ivory Coast";51.0;2.92
+2008;"Ivory Coast";54.0;2.69
+2007;"Ivory Coast";49.9;2.58
+2006;"Ivory Coast";49.4;2.65
+2005;"Ivory Coast";48.7;3.11
+2004;"Ivory Coast";48.2;3.08
+2003;"Ivory Coast";48.0;3.12
+2002;"Ivory Coast";47.7;3.13
+2001;"Ivory Coast";47.8;3.15
+2000;"Ivory Coast";47.9;3.45
+2015;"Jamaica";76.2;3.83
+2014;"Jamaica";75.8;3.83
+2013;"Jamaica";75.6;3.79
+2012;"Jamaica";75.3;3.65
+2011;"Jamaica";75.2;3.58
+2010;"Jamaica";75.0;3.55
+2009;"Jamaica";74.7;3.33
+2008;"Jamaica";74.5;3.51
+2007;"Jamaica";74.2;3.64
+2006;"Jamaica";74.0;3.63
+2005;"Jamaica";73.5;3.59
+2004;"Jamaica";73.3;3.67
+2003;"Jamaica";73.1;3.48
+2002;"Jamaica";73.0;3.76
+2001;"Jamaica";72.7;3.89
+2000;"Jamaica";72.6;3.46
+2015;"Japan";83.7;0.01
+2014;"Japan";83.5;0.01
+2013;"Japan";83.5;7.55
+2012;"Japan";83.3;7.39
+2011;"Japan";82.5;7.39
+2010;"Japan";83.0;6.9
+2009;"Japan";83.0;7.09
+2008;"Japan";82.7;7.11
+2007;"Japan";82.6;7.29
+2006;"Japan";82.4;7.49
+2005;"Japan";82.0;7.99
+2004;"Japan";82.1;7.7
+2003;"Japan";81.9;7.83
+2002;"Japan";81.8;7.87
+2001;"Japan";81.5;8.03
+2000;"Japan";81.1;7.97
+2015;"Jordan";74.1;0.41
+2014;"Jordan";74.0;0.41
+2013;"Jordan";73.9;0.4
+2012;"Jordan";73.7;0.41
+2011;"Jordan";73.6;0.43
+2010;"Jordan";73.4;0.51
+2009;"Jordan";73.3;0.59
+2008;"Jordan";73.1;0.61
+2007;"Jordan";73.0;0.6
+2006;"Jordan";72.8;0.59
+2005;"Jordan";72.4;0.55
+2004;"Jordan";72.5;0.54
+2003;"Jordan";72.3;0.54
+2002;"Jordan";72.1;0.54
+2001;"Jordan";71.9;0.55
+2000;"Jordan";71.7;0.49
+2015;"Kazakhstan";72.0;6.29
+2014;"Kazakhstan";69.9;6.29
+2013;"Kazakhstan";69.5;6.48
+2012;"Kazakhstan";69.1;6.82
+2011;"Kazakhstan";68.5;6.63
+2010;"Kazakhstan";67.8;6.83
+2009;"Kazakhstan";67.8;6.64
+2008;"Kazakhstan";66.6;7.6
+2007;"Kazakhstan";65.3;7.44
+2006;"Kazakhstan";65.0;7.08
+2005;"Kazakhstan";64.6;6.94
+2004;"Kazakhstan";64.7;6.55
+2003;"Kazakhstan";64.4;6.58
+2002;"Kazakhstan";64.7;5.99
+2001;"Kazakhstan";64.4;5.75
+2000;"Kazakhstan";63.9;6.0
+2015;"Kenya";63.4;0.01
+2014;"Kenya";62.9;0.01
+2013;"Kenya";62.6;1.84
+2012;"Kenya";62.1;1.81
+2011;"Kenya";61.2;1.8
+2010;"Kenya";63.0;1.73
+2009;"Kenya";59.1;1.86
+2008;"Kenya";57.9;1.71
+2007;"Kenya";56.8;1.97
+2006;"Kenya";55.3;1.76
+2005;"Kenya";54.1;1.82
+2004;"Kenya";53.0;1.43
+2003;"Kenya";52.4;1.49
+2002;"Kenya";52.1;1.66
+2001;"Kenya";51.9;1.63
+2000;"Kenya";51.9;1.51
+2015;"Kiribati";66.3;0.01
+2014;"Kiribati";66.1;0.01
+2013;"Kiribati";65.8;0.01
+2012;"Kiribati";65.7;0.01
+2011;"Kiribati";65.5;0.53
+2010;"Kiribati";65.3;0.48
+2009;"Kiribati";65.2;0.54
+2008;"Kiribati";65.1;0.46
+2007;"Kiribati";65.0;0.68
+2006;"Kiribati";65.0;0.76
+2005;"Kiribati";64.9;0.6
+2004;"Kiribati";64.8;0.48
+2003;"Kiribati";64.7;0.5
+2002;"Kiribati";64.6;0.49
+2001;"Kiribati";64.3;0.6
+2000;"Kiribati";64.1;0.46
+2015;"Kuwait";74.7;0.01
+2014;"Kuwait";74.6;0.01
+2013;"Kuwait";74.5;0.01
+2012;"Kuwait";74.3;0.01
+2011;"Kuwait";74.2;0.02
+2010;"Kuwait";74.0;0.01
+2009;"Kuwait";73.9;0.1
+2008;"Kuwait";73.8;0.03
+2007;"Kuwait";73.7;0.03
+2006;"Kuwait";73.6;0.01
+2005;"Kuwait";73.6;0.01
+2004;"Kuwait";73.5;0.02
+2003;"Kuwait";73.4;0.03
+2002;"Kuwait";73.3;0.01
+2001;"Kuwait";73.2;0.01
+2000;"Kuwait";73.2;0.01
+2015;"Kyrgyzstan";71.1;0.01
+2014;"Kyrgyzstan";78.0;0.01
+2013;"Kyrgyzstan";77.0;0.01
+2012;"Kyrgyzstan";69.9;0.01
+2011;"Kyrgyzstan";69.4;3.28
+2010;"Kyrgyzstan";68.8;2.73
+2009;"Kyrgyzstan";68.5;2.39
+2008;"Kyrgyzstan";67.6;2.53
+2007;"Kyrgyzstan";67.2;2.77
+2006;"Kyrgyzstan";66.7;2.48
+2005;"Kyrgyzstan";66.9;2.81
+2004;"Kyrgyzstan";67.1;3.41
+2003;"Kyrgyzstan";66.6;3.52
+2002;"Kyrgyzstan";66.7;3.31
+2001;"Kyrgyzstan";67.2;2.62
+2000;"Kyrgyzstan";66.6;2.13
+2015;"Laos";65.7;0.01
+2014;"Laos";65.3;0.01
+2013;"Laos";64.9;0.01
+2012;"Laos";64.4;0.01
+2011;"Laos";64.0;5.39
+2010;"Laos";63.6;5.95
+2009;"Laos";63.1;5.18
+2008;"Laos";62.6;5.1
+2007;"Laos";62.1;5.0
+2006;"Laos";61.5;3.69
+2005;"Laos";61.0;3.68
+2004;"Laos";64.0;3.53
+2003;"Laos";59.8;3.41
+2002;"Laos";59.3;3.33
+2001;"Laos";58.7;3.13
+2000;"Laos";58.1;5.16
+2015;"Latvia";74.6;0.01
+2014;"Latvia";74.4;0.01
+2013;"Latvia";74.1;10.37
+2012;"Latvia";73.8;10.21
+2011;"Latvia";73.6;10.14
+2010;"Latvia";72.8;9.8
+2009;"Latvia";72.6;9.85
+2008;"Latvia";71.9;11.84
+2007;"Latvia";78.0;12.12
+2006;"Latvia";75.0;10.4
+2005;"Latvia";76.0;9.92
+2004;"Latvia";71.0;8.81
+2003;"Latvia";78.0;8.24
+2002;"Latvia";73.0;7.44
+2001;"Latvia";69.9;6.68
+2000;"Latvia";71.0;7.13
+2015;"Lebanon";74.9;1.32
+2014;"Lebanon";74.8;1.32
+2013;"Lebanon";74.9;1.29
+2012;"Lebanon";75.0;1.53
+2011;"Lebanon";75.0;1.57
+2010;"Lebanon";74.9;1.58
+2009;"Lebanon";74.7;1.62
+2008;"Lebanon";74.5;1.67
+2007;"Lebanon";74.4;1.72
+2006;"Lebanon";74.1;1.82
+2005;"Lebanon";73.9;1.94
+2004;"Lebanon";73.7;2.1
+2003;"Lebanon";73.5;2.19
+2002;"Lebanon";73.2;1.98
+2001;"Lebanon";73.0;2.19
+2000;"Lebanon";72.7;2.26
+2015;"Lesotho";53.7;0.01
+2014;"Lesotho";52.1;0.01
+2013;"Lesotho";52.1;0.01
+2012;"Lesotho";52.2;0.01
+2011;"Lesotho";52.3;2.39
+2010;"Lesotho";51.1;2.71
+2009;"Lesotho";49.4;2.75
+2008;"Lesotho";47.8;2.75
+2007;"Lesotho";46.2;2.69
+2006;"Lesotho";45.3;2.61
+2005;"Lesotho";44.5;2.67
+2004;"Lesotho";44.8;1.8
+2003;"Lesotho";45.5;1.99
+2002;"Lesotho";46.4;2.95
+2001;"Lesotho";47.8;2.86
+2000;"Lesotho";49.3;3.1
+2015;"Liberia";61.4;0.01
+2014;"Liberia";58.1;0.01
+2013;"Liberia";61.1;0.01
+2012;"Liberia";67.0;0.01
+2011;"Liberia";62.0;3.72
+2010;"Liberia";59.7;3.64
+2009;"Liberia";59.2;3.75
+2008;"Liberia";58.6;3.88
+2007;"Liberia";57.9;4.03
+2006;"Liberia";56.7;4.05
+2005;"Liberia";55.3;4.19
+2004;"Liberia";54.0;4.24
+2003;"Liberia";50.0;4.21
+2002;"Liberia";56.0;4.27
+2001;"Liberia";51.5;4.4
+2000;"Liberia";51.9;4.46
+2015;"Libya";72.7;0.01
+2014;"Libya";72.4;0.01
+2013;"Libya";72.9;0.01
+2012;"Libya";72.9;0.01
+2011;"Libya";71.3;0.01
+2010;"Libya";72.8;0.01
+2009;"Libya";72.7;0.01
+2008;"Libya";72.6;0.01
+2007;"Libya";72.5;0.01
+2006;"Libya";72.2;0.01
+2005;"Libya";71.9;0.01
+2004;"Libya";71.5;0.01
+2003;"Libya";71.3;0.01
+2002;"Libya";71.1;0.01
+2001;"Libya";71.0;0.01
+2000;"Libya";78.0;0.01
+2015;"Lithuania";73.6;15.19
+2014;"Lithuania";73.4;15.19
+2013;"Lithuania";73.0;15.04
+2012;"Lithuania";73.0;15.14
+2011;"Lithuania";72.8;12.66
+2010;"Lithuania";72.4;12.9
+2009;"Lithuania";72.2;12.4
+2008;"Lithuania";71.1;13.3
+2007;"Lithuania";72.0;13.4
+2006;"Lithuania";76.0;12.7
+2005;"Lithuania";78.0;12.3
+2004;"Lithuania";71.6;12.1
+2003;"Lithuania";71.6;11.29
+2002;"Lithuania";71.4;11.0
+2001;"Lithuania";71.2;10.2
+2000;"Lithuania";71.6;9.87
+2015;"Luxembourg";82.0;11.12
+2014;"Luxembourg";81.7;11.12
+2013;"Luxembourg";81.4;11.02
+2012;"Luxembourg";81.1;11.34
+2011;"Luxembourg";88.0;11.5
+2010;"Luxembourg";86.0;11.36
+2009;"Luxembourg";83.0;11.42
+2008;"Luxembourg";80.0;11.53
+2007;"Luxembourg";79.7;11.75
+2006;"Luxembourg";79.4;11.98
+2005;"Luxembourg";78.8;11.84
+2004;"Luxembourg";78.7;12.42
+2003;"Luxembourg";78.6;12.61
+2002;"Luxembourg";78.3;12.91
+2001;"Luxembourg";78.0;12.89
+2000;"Luxembourg";77.8;13.14
+2015;"Madagascar";65.5;0.01
+2014;"Madagascar";65.1;0.01
+2013;"Madagascar";64.7;0.87
+2012;"Madagascar";64.3;0.87
+2011;"Madagascar";63.8;0.97
+2010;"Madagascar";63.3;1.03
+2009;"Madagascar";62.8;0.91
+2008;"Madagascar";62.3;0.68
+2007;"Madagascar";61.9;0.71
+2006;"Madagascar";61.4;0.68
+2005;"Madagascar";69.0;0.72
+2004;"Madagascar";64.0;0.81
+2003;"Madagascar";59.9;0.93
+2002;"Madagascar";59.3;0.9
+2001;"Madagascar";58.7;1.05
+2000;"Madagascar";57.9;1.16
+2015;"Malawi";58.3;0.01
+2014;"Malawi";57.6;0.01
+2013;"Malawi";56.7;0.01
+2012;"Malawi";55.3;0.01
+2011;"Malawi";54.1;1.23
+2010;"Malawi";52.9;1.08
+2009;"Malawi";51.5;1.16
+2008;"Malawi";50.0;1.27
+2007;"Malawi";48.5;1.18
+2006;"Malawi";47.1;1.18
+2005;"Malawi";46.0;1.04
+2004;"Malawi";45.1;1.11
+2003;"Malawi";44.6;1.08
+2002;"Malawi";44.0;1.1
+2001;"Malawi";43.5;1.15
+2000;"Malawi";43.1;1.18
+2015;"Malaysia";75.0;0.52
+2014;"Malaysia";74.8;0.52
+2013;"Malaysia";74.6;0.53
+2012;"Malaysia";74.5;0.53
+2011;"Malaysia";74.3;0.51
+2010;"Malaysia";74.1;0.49
+2009;"Malaysia";74.0;0.47
+2008;"Malaysia";73.8;0.47
+2007;"Malaysia";73.7;0.43
+2006;"Malaysia";73.6;0.42
+2005;"Malaysia";73.4;0.46
+2004;"Malaysia";73.2;0.49
+2003;"Malaysia";73.1;0.48
+2002;"Malaysia";72.9;0.49
+2001;"Malaysia";72.7;0.53
+2000;"Malaysia";72.4;0.54
+2015;"Maldives";78.5;0.01
+2014;"Maldives";78.2;0.01
+2013;"Maldives";77.9;0.01
+2012;"Maldives";77.6;0.01
+2011;"Maldives";77.3;1.92
+2010;"Maldives";76.7;1.83
+2009;"Maldives";76.3;1.59
+2008;"Maldives";75.9;1.76
+2007;"Maldives";75.4;1.78
+2006;"Maldives";75.0;1.62
+2005;"Maldives";74.3;1.47
+2004;"Maldives";73.4;1.6
+2003;"Maldives";72.7;1.75
+2002;"Maldives";71.8;1.95
+2001;"Maldives";78.0;1.98
+2000;"Maldives";69.6;1.83
+2015;"Mali";58.2;0.01
+2014;"Mali";57.8;0.01
+2013;"Mali";57.3;0.01
+2012;"Mali";57.2;0.01
+2011;"Mali";56.8;0.61
+2010;"Mali";56.5;0.6
+2009;"Mali";56.0;0.59
+2008;"Mali";55.5;0.57
+2007;"Mali";55.0;0.55
+2006;"Mali";54.3;0.53
+2005;"Mali";53.6;0.55
+2004;"Mali";52.8;0.49
+2003;"Mali";52.0;0.54
+2002;"Mali";51.2;0.53
+2001;"Mali";55.0;0.51
+2000;"Mali";49.8;0.47
+2015;"Malta";81.7;8.49
+2014;"Malta";81.4;8.49
+2013;"Malta";81.1;8.58
+2012;"Malta";81.0;7.67
+2011;"Malta";87.0;6.91
+2010;"Malta";83.0;7.91
+2009;"Malta";82.0;7.38
+2008;"Malta";80.0;7.14
+2007;"Malta";79.6;7.45
+2006;"Malta";79.3;8.84
+2005;"Malta";79.0;6.41
+2004;"Malta";78.7;6.53
+2003;"Malta";78.5;6.7
+2002;"Malta";78.2;5.73
+2001;"Malta";77.8;5.62
+2000;"Malta";77.5;5.59
+2013;"Marshall Islands";63.1;0.01
+2015;"Mauritania";63.1;0.01
+2014;"Mauritania";63.0;0.01
+2013;"Mauritania";62.7;0.01
+2012;"Mauritania";62.5;0.01
+2011;"Mauritania";62.2;0.01
+2010;"Mauritania";62.0;0.01
+2009;"Mauritania";61.7;0.01
+2008;"Mauritania";61.4;0.02
+2007;"Mauritania";61.2;0.02
+2006;"Mauritania";69.0;0.01
+2005;"Mauritania";66.0;0.01
+2004;"Mauritania";64.0;0.01
+2003;"Mauritania";63.0;0.01
+2002;"Mauritania";62.0;0.02
+2001;"Mauritania";61.0;0.01
+2000;"Mauritania";60.0;0.03
+2015;"Mauritius";74.6;0.01
+2014;"Mauritius";74.2;0.01
+2013;"Mauritius";74.1;0.01
+2012;"Mauritius";73.9;0.01
+2011;"Mauritius";73.6;3.03
+2010;"Mauritius";73.3;2.95
+2009;"Mauritius";72.8;2.83
+2008;"Mauritius";72.7;2.49
+2007;"Mauritius";72.9;3.24
+2006;"Mauritius";71.8;3.73
+2005;"Mauritius";72.1;3.94
+2004;"Mauritius";71.9;4.16
+2003;"Mauritius";71.5;4.08
+2002;"Mauritius";71.5;4.14
+2001;"Mauritius";71.5;4.38
+2000;"Mauritius";71.0;4.6
+2015;"Mexico";76.7;5.26
+2014;"Mexico";76.6;5.26
+2013;"Mexico";76.6;5.23
+2012;"Mexico";76.3;5.29
+2011;"Mexico";76.1;5.3
+2010;"Mexico";75.6;5.21
+2009;"Mexico";75.7;5.27
+2008;"Mexico";75.6;5.36
+2007;"Mexico";76.0;5.35
+2006;"Mexico";75.8;5.11
+2005;"Mexico";75.3;4.93
+2004;"Mexico";75.4;4.9
+2003;"Mexico";75.0;4.88
+2002;"Mexico";75.0;4.77
+2001;"Mexico";75.0;4.86
+2000;"Mexico";74.8;4.99
+2015;"Micronesia (Federated States of)";69.4;1.58
+2014;"Micronesia (Federated States of)";69.4;1.58
+2013;"Micronesia (Federated States of)";69.2;1.67
+2012;"Micronesia (Federated States of)";69.0;2.98
+2011;"Micronesia (Federated States of)";68.9;1.89
+2010;"Micronesia (Federated States of)";68.7;1.76
+2009;"Micronesia (Federated States of)";68.5;2.06
+2008;"Micronesia (Federated States of)";68.4;1.97
+2007;"Micronesia (Federated States of)";68.2;1.64
+2006;"Micronesia (Federated States of)";68.0;1.73
+2005;"Micronesia (Federated States of)";67.9;1.9
+2004;"Micronesia (Federated States of)";67.7;2.02
+2003;"Micronesia (Federated States of)";67.5;3.15
+2002;"Micronesia (Federated States of)";66.2;2.78
+2001;"Micronesia (Federated States of)";67.2;2.82
+2000;"Micronesia (Federated States of)";67.0;2.23
+2015;"Moldova";72.1;9.99
+2014;"Moldova";71.8;9.99
+2013;"Moldova";71.7;10.49
+2012;"Moldova";79.0;10.68
+2011;"Moldova";77.0;9.45
+2010;"Moldova";68.8;8.25
+2009;"Moldova";69.0;8.45
+2008;"Moldova";68.9;9.07
+2007;"Moldova";68.3;9.66
+2006;"Moldova";68.0;8.36
+2005;"Moldova";67.3;10.78
+2004;"Moldova";68.0;12.27
+2003;"Moldova";67.6;8.15
+2002;"Moldova";67.5;6.71
+2001;"Moldova";67.6;10.98
+2000;"Moldova";67.1;9.89
+2013;"Monaco";68.8;0.01
+2015;"Mongolia";68.8;0.01
+2014;"Mongolia";68.4;0.01
+2013;"Mongolia";68.1;0.01
+2012;"Mongolia";67.8;0.01
+2011;"Mongolia";67.3;0.01
+2010;"Mongolia";66.3;5.8
+2009;"Mongolia";66.9;4.61
+2008;"Mongolia";67.4;4.26
+2007;"Mongolia";65.9;3.79
+2006;"Mongolia";65.0;2.91
+2005;"Mongolia";64.5;2.75
+2004;"Mongolia";64.0;1.75
+2003;"Mongolia";64.0;1.31
+2002;"Mongolia";63.8;2.43
+2001;"Mongolia";63.2;2.87
+2000;"Mongolia";62.8;2.79
+2015;"Montenegro";76.1;0.01
+2014;"Montenegro";75.9;0.01
+2013;"Montenegro";75.8;0.01
+2012;"Montenegro";75.6;0.01
+2011;"Montenegro";75.4;6.56
+2010;"Montenegro";75.3;6.56
+2009;"Montenegro";75.0;6.45
+2008;"Montenegro";74.6;6.17
+2007;"Montenegro";74.2;4.98
+2006;"Montenegro";73.8;5.38
+2005;"Montenegro";73.6;0.01
+2004;"Montenegro";73.5;0.01
+2003;"Montenegro";73.5;0.01
+2002;"Montenegro";73.4;0.01
+2001;"Montenegro";73.3;0.01
+2000;"Montenegro";73.0;0.01
+2015;"Morocco";74.3;0.43
+2014;"Morocco";74.1;0.43
+2013;"Morocco";73.9;0.45
+2012;"Morocco";73.6;0.55
+2011;"Morocco";73.3;0.54
+2010;"Morocco";72.8;0.56
+2009;"Morocco";72.3;0.62
+2008;"Morocco";71.8;0.51
+2007;"Morocco";71.4;0.56
+2006;"Morocco";71.0;0.58
+2005;"Morocco";77.0;0.47
+2004;"Morocco";72.0;0.56
+2003;"Morocco";69.9;0.58
+2002;"Morocco";69.5;0.46
+2001;"Morocco";69.0;0.46
+2000;"Morocco";68.6;0.45
+2015;"Mozambique";57.6;0.01
+2014;"Mozambique";56.7;0.01
+2013;"Mozambique";55.3;1.16
+2012;"Mozambique";54.8;1.19
+2011;"Mozambique";54.3;0.94
+2010;"Mozambique";54.0;0.96
+2009;"Mozambique";53.8;1.18
+2008;"Mozambique";53.2;1.48
+2007;"Mozambique";52.1;1.03
+2006;"Mozambique";51.2;1.2
+2005;"Mozambique";58.0;1.23
+2004;"Mozambique";54.0;1.54
+2003;"Mozambique";51.0;1.68
+2002;"Mozambique";49.8;2.16
+2001;"Mozambique";49.5;2.09
+2000;"Mozambique";49.0;1.14
+2015;"Myanmar";66.6;0.01
+2014;"Myanmar";66.4;0.01
+2013;"Myanmar";66.2;0.7
+2012;"Myanmar";65.9;0.55
+2011;"Myanmar";65.6;0.33
+2010;"Myanmar";65.4;0.3
+2009;"Myanmar";65.2;0.28
+2008;"Myanmar";59.2;0.3
+2007;"Myanmar";64.5;0.26
+2006;"Myanmar";64.2;0.28
+2005;"Myanmar";63.9;0.28
+2004;"Myanmar";63.5;0.44
+2003;"Myanmar";63.2;0.4
+2002;"Myanmar";62.8;0.41
+2001;"Myanmar";62.5;0.38
+2000;"Myanmar";62.1;0.35
+2015;"Namibia";65.8;0.01
+2014;"Namibia";65.9;0.01
+2013;"Namibia";66.1;0.01
+2012;"Namibia";65.8;0.01
+2011;"Namibia";64.3;7.84
+2010;"Namibia";63.0;7.58
+2009;"Namibia";62.4;7.99
+2008;"Namibia";61.7;6.28
+2007;"Namibia";60.0;5.12
+2006;"Namibia";57.0;4.94
+2005;"Namibia";55.1;4.89
+2004;"Namibia";54.7;4.8
+2003;"Namibia";55.0;5.28
+2002;"Namibia";55.7;5.09
+2001;"Namibia";56.5;5.09
+2000;"Namibia";57.4;5.73
+2013;"Nauru";69.2;0.01
+2015;"Nepal";69.2;0.01
+2014;"Nepal";69.6;0.01
+2013;"Nepal";69.3;0.27
+2012;"Nepal";68.9;0.26
+2011;"Nepal";68.4;0.27
+2010;"Nepal";68.0;0.24
+2009;"Nepal";67.5;0.22
+2008;"Nepal";67.0;0.21
+2007;"Nepal";66.6;0.2
+2006;"Nepal";66.0;0.2
+2005;"Nepal";65.4;0.2
+2004;"Nepal";64.7;0.21
+2003;"Nepal";64.3;0.2
+2002;"Nepal";63.1;0.19
+2001;"Nepal";63.2;0.09
+2000;"Nepal";62.5;0.08
+2015;"Netherlands";81.9;0.01
+2014;"Netherlands";81.7;0.01
+2013;"Netherlands";81.4;8.68
+2012;"Netherlands";81.1;9.05
+2011;"Netherlands";81.1;8.96
+2010;"Netherlands";88.0;9.33
+2009;"Netherlands";86.0;9.23
+2008;"Netherlands";83.0;9.62
+2007;"Netherlands";82.0;9.53
+2006;"Netherlands";79.8;9.79
+2005;"Netherlands";79.4;9.69
+2004;"Netherlands";79.2;9.56
+2003;"Netherlands";78.7;9.56
+2002;"Netherlands";78.4;9.68
+2001;"Netherlands";78.3;9.95
+2000;"Netherlands";78.1;10.06
+2015;"New Zealand";81.6;8.7
+2014;"New Zealand";81.5;9.07
+2013;"New Zealand";81.3;9.18
+2012;"New Zealand";81.1;9.2
+2011;"New Zealand";86.0;9.47
+2010;"New Zealand";89.0;9.62
+2009;"New Zealand";85.0;9.24
+2008;"New Zealand";81.0;9.49
+2007;"New Zealand";81.0;9.19
+2006;"New Zealand";79.9;9.34
+2005;"New Zealand";79.9;9.31
+2004;"New Zealand";79.2;9.15
+2003;"New Zealand";79.1;8.91
+2002;"New Zealand";78.7;9.13
+2001;"New Zealand";78.5;8.75
+2000;"New Zealand";78.6;8.91
+2015;"Nicaragua";74.8;3.55
+2014;"Nicaragua";74.5;3.55
+2013;"Nicaragua";73.9;3.58
+2012;"Nicaragua";73.9;3.63
+2011;"Nicaragua";74.5;3.39
+2010;"Nicaragua";73.2;3.38
+2009;"Nicaragua";73.2;3.36
+2008;"Nicaragua";72.5;3.64
+2007;"Nicaragua";72.5;3.83
+2006;"Nicaragua";73.0;3.69
+2005;"Nicaragua";71.2;3.7
+2004;"Nicaragua";71.0;3.81
+2003;"Nicaragua";76.0;3.77
+2002;"Nicaragua";75.0;3.5
+2001;"Nicaragua";73.0;3.51
+2000;"Nicaragua";73.0;3.61
+2015;"Niger";61.8;0.01
+2014;"Niger";61.4;0.01
+2013;"Niger";69.0;0.01
+2012;"Niger";63.0;0.01
+2011;"Niger";59.4;0.15
+2010;"Niger";58.2;0.12
+2009;"Niger";57.1;0.11
+2008;"Niger";56.0;0.12
+2007;"Niger";55.2;0.1
+2006;"Niger";54.5;0.11
+2005;"Niger";53.7;0.11
+2004;"Niger";52.9;0.11
+2003;"Niger";52.1;0.1
+2002;"Niger";51.4;0.1
+2001;"Niger";56.0;0.11
+2000;"Niger";50.0;0.1
+2015;"Nigeria";54.5;0.01
+2014;"Nigeria";53.6;0.01
+2013;"Nigeria";53.2;8.3
+2012;"Nigeria";52.7;8.54
+2011;"Nigeria";52.3;8.75
+2010;"Nigeria";52.0;8.9
+2009;"Nigeria";51.6;9.05
+2008;"Nigeria";59.0;9.3
+2007;"Nigeria";55.0;9.55
+2006;"Nigeria";49.8;9.66
+2005;"Nigeria";49.2;9.71
+2004;"Nigeria";48.5;9.76
+2003;"Nigeria";48.1;9.75
+2002;"Nigeria";47.7;9.61
+2001;"Nigeria";47.4;9.58
+2000;"Nigeria";47.1;9.23
+2013;"Niue";81.8;0.01
+2015;"North Korea";76.0;0.01
+2014;"North Korea";73.0;0.01
+2013;"North Korea";71.0;3.35
+2012;"North Korea";69.8;3.61
+2011;"North Korea";69.4;3.39
+2010;"North Korea";69.0;3.12
+2009;"North Korea";68.7;3.35
+2008;"North Korea";68.6;3.16
+2007;"North Korea";68.5;3.13
+2006;"North Korea";68.5;3.28
+2005;"North Korea";68.5;3.21
+2004;"North Korea";68.4;3.13
+2003;"North Korea";68.1;3.13
+2002;"North Korea";67.6;3.08
+2001;"North Korea";66.6;2.53
+2000;"North Korea";65.4;3.52
+2015;"North Macedonia";75.7;1.13
+2014;"North Macedonia";75.5;1.13
+2013;"North Macedonia";75.3;1.03
+2012;"North Macedonia";75.1;1.23
+2011;"North Macedonia";74.9;1.16
+2010;"North Macedonia";74.7;1.47
+2009;"North Macedonia";74.4;1.77
+2008;"North Macedonia";74.2;1.72
+2007;"North Macedonia";73.5;1.75
+2006;"North Macedonia";73.7;1.74
+2005;"North Macedonia";73.6;1.75
+2004;"North Macedonia";73.5;2.07
+2003;"North Macedonia";73.2;2.4
+2002;"North Macedonia";72.8;2.53
+2001;"North Macedonia";73.1;3.27
+2000;"North Macedonia";72.6;2.86
+2015;"Norway";81.8;5.97
+2014;"Norway";81.6;6.06
+2013;"Norway";81.5;6.21
+2012;"Norway";81.3;6.21
+2011;"Norway";81.1;6.53
+2010;"Norway";81.0;6.59
+2009;"Norway";89.0;6.68
+2008;"Norway";86.0;6.75
+2007;"Norway";85.0;6.6
+2006;"Norway";84.0;6.47
+2005;"Norway";81.0;6.37
+2004;"Norway";79.8;6.22
+2003;"Norway";79.4;6.04
+2002;"Norway";78.9;5.89
+2001;"Norway";78.8;5.49
+2000;"Norway";78.5;5.67
+2015;"Oman";76.6;0.4
+2014;"Oman";76.4;0.4
+2013;"Oman";76.2;0.46
+2012;"Oman";76.0;0.51
+2011;"Oman";75.8;0.54
+2010;"Oman";75.6;0.56
+2009;"Oman";75.4;0.56
+2008;"Oman";75.2;0.57
+2007;"Oman";74.9;0.57
+2006;"Oman";74.7;0.58
+2005;"Oman";74.3;0.63
+2004;"Oman";74.0;0.61
+2003;"Oman";73.6;0.56
+2002;"Oman";73.3;0.54
+2001;"Oman";72.9;0.55
+2000;"Oman";72.6;0.38
+2015;"Pakistan";66.4;0.01
+2014;"Pakistan";66.2;0.01
+2013;"Pakistan";66.0;0.04
+2012;"Pakistan";65.7;0.04
+2011;"Pakistan";65.5;0.04
+2010;"Pakistan";65.1;0.04
+2009;"Pakistan";64.8;0.03
+2008;"Pakistan";64.6;0.03
+2007;"Pakistan";64.4;0.03
+2006;"Pakistan";64.2;0.03
+2005;"Pakistan";62.9;0.04
+2004;"Pakistan";63.7;0.01
+2003;"Pakistan";63.5;0.01
+2002;"Pakistan";63.2;0.01
+2001;"Pakistan";63.0;0.01
+2000;"Pakistan";62.8;0.02
+2013;"Palau";77.8;6.74
+2015;"Panama";77.8;6.74
+2014;"Panama";77.6;6.74
+2013;"Panama";77.5;6.89
+2012;"Panama";77.2;6.95
+2011;"Panama";77.3;6.9
+2010;"Panama";76.5;6.94
+2009;"Panama";76.8;6.87
+2008;"Panama";76.5;6.74
+2007;"Panama";76.4;6.16
+2006;"Panama";76.2;5.72
+2005;"Panama";75.8;5.53
+2004;"Panama";75.8;5.69
+2003;"Panama";75.5;5.52
+2002;"Panama";75.7;5.52
+2001;"Panama";75.5;5.43
+2000;"Panama";75.7;5.58
+2015;"Papua New Guinea";62.9;0.01
+2014;"Papua New Guinea";62.7;0.01
+2013;"Papua New Guinea";62.4;0.01
+2012;"Papua New Guinea";62.2;0.01
+2011;"Papua New Guinea";62.0;0.88
+2010;"Papua New Guinea";61.8;0.79
+2009;"Papua New Guinea";61.6;0.82
+2008;"Papua New Guinea";61.4;0.81
+2007;"Papua New Guinea";61.1;0.71
+2006;"Papua New Guinea";68.0;0.64
+2005;"Papua New Guinea";64.0;0.84
+2004;"Papua New Guinea";59.9;0.58
+2003;"Papua New Guinea";59.6;0.59
+2002;"Papua New Guinea";59.3;0.61
+2001;"Papua New Guinea";59.1;0.68
+2000;"Papua New Guinea";58.9;0.73
+2015;"Paraguay";74.0;0.01
+2014;"Paraguay";73.9;0.01
+2013;"Paraguay";73.8;5.03
+2012;"Paraguay";73.6;5.36
+2011;"Paraguay";73.4;5.79
+2010;"Paraguay";73.2;5.65
+2009;"Paraguay";73.0;5.39
+2008;"Paraguay";72.7;6.14
+2007;"Paraguay";72.5;5.61
+2006;"Paraguay";72.3;5.61
+2005;"Paraguay";72.1;6.38
+2004;"Paraguay";71.9;6.2
+2003;"Paraguay";71.7;6.64
+2002;"Paraguay";71.5;5.66
+2001;"Paraguay";71.2;6.66
+2000;"Paraguay";79.0;6.78
+2015;"Peru";75.5;0.01
+2014;"Peru";75.3;0.01
+2013;"Peru";75.3;5.38
+2012;"Peru";74.9;5.14
+2011;"Peru";74.5;4.83
+2010;"Peru";73.7;4.72
+2009;"Peru";73.8;4.69
+2008;"Peru";73.9;4.85
+2007;"Peru";74.0;4.29
+2006;"Peru";74.2;4.22
+2005;"Peru";72.8;4.44
+2004;"Peru";72.2;4.27
+2003;"Peru";72.1;4.5
+2002;"Peru";72.6;4.03
+2001;"Peru";72.4;4.22
+2000;"Peru";71.4;4.59
+2015;"Philippines";68.5;4.52
+2014;"Philippines";68.4;4.52
+2013;"Philippines";68.1;4.61
+2012;"Philippines";68.1;5.02
+2011;"Philippines";68.0;4.96
+2010;"Philippines";67.9;4.85
+2009;"Philippines";68.0;4.42
+2008;"Philippines";67.5;4.21
+2007;"Philippines";67.5;4.19
+2006;"Philippines";67.3;4.08
+2005;"Philippines";67.0;4.22
+2004;"Philippines";67.3;4.45
+2003;"Philippines";67.2;4.44
+2002;"Philippines";66.8;4.42
+2001;"Philippines";66.8;4.54
+2000;"Philippines";66.8;4.73
+2015;"Poland";77.5;10.71
+2014;"Poland";77.3;10.71
+2013;"Poland";77.1;11.63
+2012;"Poland";76.8;10.81
+2011;"Poland";76.7;10.93
+2010;"Poland";76.3;10.59
+2009;"Poland";75.7;10.7
+2008;"Poland";75.5;11.4
+2007;"Poland";75.3;10.9
+2006;"Poland";75.2;10.4
+2005;"Poland";75.0;9.5
+2004;"Poland";74.9;9.19
+2003;"Poland";74.7;9.06
+2002;"Poland";74.5;8.02
+2001;"Poland";74.2;7.74
+2000;"Poland";73.7;8.4
+2015;"Portugal";81.1;9.88
+2014;"Portugal";89.0;9.88
+2013;"Portugal";86.0;10.0
+2012;"Portugal";83.0;11.96
+2011;"Portugal";82.0;11.92
+2010;"Portugal";79.6;12.25
+2009;"Portugal";79.3;12.03
+2008;"Portugal";79.0;12.35
+2007;"Portugal";78.7;12.57
+2006;"Portugal";78.5;13.11
+2005;"Portugal";77.7;13.33
+2004;"Portugal";78.0;13.45
+2003;"Portugal";77.3;14.21
+2002;"Portugal";77.2;12.0
+2001;"Portugal";76.9;12.22
+2000;"Portugal";76.6;11.89
+2015;"Qatar";78.2;1.15
+2014;"Qatar";78.1;1.15
+2013;"Qatar";77.9;1.2
+2012;"Qatar";77.8;1.13
+2011;"Qatar";77.5;1.16
+2010;"Qatar";77.3;1.16
+2009;"Qatar";77.0;1.11
+2008;"Qatar";76.8;1.37
+2007;"Qatar";76.7;1.24
+2006;"Qatar";76.6;1.28
+2005;"Qatar";76.6;1.18
+2004;"Qatar";76.6;1.11
+2003;"Qatar";76.5;1.0
+2002;"Qatar";76.4;0.87
+2001;"Qatar";76.3;0.76
+2000;"Qatar";76.2;0.5
+2015;"Republic of Korea";82.3;0.01
+2014;"Republic of Korea";82.0;0.01
+2013;"Republic of Korea";81.7;9.33
+2012;"Republic of Korea";81.2;9.56
+2011;"Republic of Korea";81.1;9.34
+2010;"Republic of Korea";87.0;9.23
+2009;"Republic of Korea";86.0;8.97
+2008;"Republic of Korea";83.0;9.31
+2007;"Republic of Korea";79.8;9.05
+2006;"Republic of Korea";79.4;8.83
+2005;"Republic of Korea";78.7;9.03
+2004;"Republic of Korea";78.2;9.18
+2003;"Republic of Korea";77.6;9.66
+2002;"Republic of Korea";77.1;9.55
+2001;"Republic of Korea";76.7;11.45
+2000;"Republic of Korea";76.0;10.33
+2015;"Romania";75.0;0.01
+2014;"Romania";74.8;0.01
+2013;"Romania";74.6;9.59
+2012;"Romania";74.4;9.58
+2011;"Romania";74.3;9.1
+2010;"Romania";73.4;9.0
+2009;"Romania";73.1;10.4
+2008;"Romania";73.1;11.9
+2007;"Romania";72.9;10.6
+2006;"Romania";72.5;8.51
+2005;"Romania";71.9;7.68
+2004;"Romania";71.7;9.82
+2003;"Romania";71.1;8.78
+2002;"Romania";77.0;9.62
+2001;"Romania";78.0;9.78
+2000;"Romania";77.0;10.16
+2015;"Russia";75.0;10.12
+2014;"Russia";73.0;10.12
+2013;"Russia";70.0;10.58
+2012;"Russia";69.6;10.99
+2011;"Russia";69.4;11.04
+2010;"Russia";68.4;11.05
+2009;"Russia";68.2;11.21
+2008;"Russia";67.5;12.04
+2007;"Russia";67.3;12.19
+2006;"Russia";66.4;11.79
+2005;"Russia";65.0;11.57
+2004;"Russia";64.9;11.5
+2003;"Russia";64.6;11.32
+2002;"Russia";64.8;10.87
+2001;"Russia";65.1;10.47
+2000;"Russia";65.0;10.18
+2015;"Rwanda";66.1;0.01
+2014;"Rwanda";65.7;0.01
+2013;"Rwanda";65.2;0.01
+2012;"Rwanda";64.6;0.01
+2011;"Rwanda";63.8;8.34
+2010;"Rwanda";62.8;7.92
+2009;"Rwanda";61.0;7.11
+2008;"Rwanda";68.0;6.39
+2007;"Rwanda";59.6;6.78
+2006;"Rwanda";57.6;6.88
+2005;"Rwanda";55.3;7.01
+2004;"Rwanda";53.4;6.75
+2003;"Rwanda";52.0;6.66
+2002;"Rwanda";57.0;7.82
+2001;"Rwanda";48.6;5.72
+2000;"Rwanda";48.3;7.13
+2013;"Saint Kitts and Nevis";75.2;8.54
+2015;"Saint Lucia";75.2;9.97
+2014;"Saint Lucia";75.0;9.97
+2013;"Saint Lucia";74.8;9.73
+2012;"Saint Lucia";74.7;9.99
+2011;"Saint Lucia";74.6;10.43
+2010;"Saint Lucia";74.2;10.87
+2009;"Saint Lucia";74.3;11.09
+2008;"Saint Lucia";74.1;12.09
+2007;"Saint Lucia";73.9;12.68
+2006;"Saint Lucia";73.5;13.45
+2005;"Saint Lucia";73.1;12.32
+2004;"Saint Lucia";72.6;11.93
+2003;"Saint Lucia";72.2;12.55
+2002;"Saint Lucia";72.0;11.85
+2001;"Saint Lucia";71.8;12.03
+2000;"Saint Lucia";71.6;11.69
+2015;"Saint Vincent and the Grenadines";73.2;7.01
+2014;"Saint Vincent and the Grenadines";73.1;7.01
+2013;"Saint Vincent and the Grenadines";72.7;7.07
+2012;"Saint Vincent and the Grenadines";72.8;6.93
+2011;"Saint Vincent and the Grenadines";72.7;7.02
+2010;"Saint Vincent and the Grenadines";72.5;7.0
+2009;"Saint Vincent and the Grenadines";72.3;6.85
+2008;"Saint Vincent and the Grenadines";72.1;6.92
+2007;"Saint Vincent and the Grenadines";71.9;5.89
+2006;"Saint Vincent and the Grenadines";71.7;5.93
+2005;"Saint Vincent and the Grenadines";71.4;6.04
+2004;"Saint Vincent and the Grenadines";71.2;5.42
+2003;"Saint Vincent and the Grenadines";71.0;5.1
+2002;"Saint Vincent and the Grenadines";79.0;4.94
+2001;"Saint Vincent and the Grenadines";79.0;4.73
+2000;"Saint Vincent and the Grenadines";79.0;4.8
+2015;"Samoa";74.0;0.01
+2014;"Samoa";73.8;0.01
+2013;"Samoa";73.6;0.01
+2012;"Samoa";73.2;0.01
+2011;"Samoa";73.0;2.15
+2010;"Samoa";72.6;3.01
+2009;"Samoa";76.0;2.88
+2008;"Samoa";72.5;3.97
+2007;"Samoa";72.2;3.85
+2006;"Samoa";72.0;3.52
+2005;"Samoa";71.6;3.63
+2004;"Samoa";71.4;3.62
+2003;"Samoa";79.0;4.17
+2002;"Samoa";76.0;3.3
+2001;"Samoa";75.0;3.43
+2000;"Samoa";72.0;3.0
+2013;"San Marino";67.5;0.01
+2015;"Sao Tome and Principe";67.5;0.01
+2014;"Sao Tome and Principe";67.3;0.01
+2013;"Sao Tome and Principe";67.1;0.01
+2012;"Sao Tome and Principe";66.9;0.01
+2011;"Sao Tome and Principe";66.6;5.69
+2010;"Sao Tome and Principe";66.2;5.58
+2009;"Sao Tome and Principe";65.8;4.13
+2008;"Sao Tome and Principe";65.4;4.36
+2007;"Sao Tome and Principe";65.1;4.14
+2006;"Sao Tome and Principe";64.7;5.46
+2005;"Sao Tome and Principe";64.3;5.27
+2004;"Sao Tome and Principe";63.8;5.78
+2003;"Sao Tome and Principe";63.4;6.54
+2002;"Sao Tome and Principe";63.1;5.8
+2001;"Sao Tome and Principe";62.8;5.02
+2000;"Sao Tome and Principe";62.6;5.07
+2015;"Saudi Arabia";74.5;0.09
+2014;"Saudi Arabia";74.4;0.09
+2013;"Saudi Arabia";74.3;0.09
+2012;"Saudi Arabia";74.1;0.09
+2011;"Saudi Arabia";73.9;0.09
+2010;"Saudi Arabia";73.7;0.09
+2009;"Saudi Arabia";73.4;0.09
+2008;"Saudi Arabia";73.3;0.09
+2007;"Saudi Arabia";73.2;0.1
+2006;"Saudi Arabia";73.2;0.08
+2005;"Saudi Arabia";73.1;0.05
+2004;"Saudi Arabia";73.1;0.06
+2003;"Saudi Arabia";73.0;0.05
+2002;"Saudi Arabia";72.9;0.05
+2001;"Saudi Arabia";72.8;0.05
+2000;"Saudi Arabia";72.6;0.05
+2015;"Senegal";66.7;0.26
+2014;"Senegal";66.4;0.26
+2013;"Senegal";66.0;0.26
+2012;"Senegal";65.6;0.28
+2011;"Senegal";64.9;0.32
+2010;"Senegal";64.3;0.28
+2009;"Senegal";63.5;0.3
+2008;"Senegal";62.8;0.28
+2007;"Senegal";62.1;0.32
+2006;"Senegal";61.3;0.34
+2005;"Senegal";65.0;0.33
+2004;"Senegal";59.7;0.35
+2003;"Senegal";59.0;0.33
+2002;"Senegal";58.4;0.36
+2001;"Senegal";57.9;0.34
+2000;"Senegal";57.5;0.29
+2015;"Serbia";75.6;9.09
+2014;"Serbia";75.4;9.09
+2013;"Serbia";75.3;9.16
+2012;"Serbia";74.9;9.38
+2011;"Serbia";74.6;9.56
+2010;"Serbia";74.4;9.65
+2009;"Serbia";74.1;9.85
+2008;"Serbia";74.0;9.54
+2007;"Serbia";73.8;9.3
+2006;"Serbia";73.6;8.58
+2005;"Serbia";73.0;9.6
+2004;"Serbia";73.0;7.42
+2003;"Serbia";73.0;7.25
+2002;"Serbia";72.9;6.95
+2001;"Serbia";73.1;7.53
+2000;"Serbia";72.6;7.38
+2015;"Seychelles";73.2;0.01
+2014;"Seychelles";73.0;0.01
+2013;"Seychelles";72.9;0.01
+2012;"Seychelles";72.7;0.01
+2011;"Seychelles";72.6;9.72
+2010;"Seychelles";72.4;6.51
+2009;"Seychelles";72.3;4.94
+2008;"Seychelles";72.2;6.33
+2007;"Seychelles";72.2;8.12
+2006;"Seychelles";72.2;8.12
+2005;"Seychelles";72.2;7.82
+2004;"Seychelles";72.1;7.91
+2003;"Seychelles";72.1;7.41
+2002;"Seychelles";72.1;11.15
+2001;"Seychelles";72.0;6.72
+2000;"Seychelles";71.8;8.24
+2015;"Sierra Leone";51.0;0.01
+2014;"Sierra Leone";48.1;0.01
+2013;"Sierra Leone";54.0;0.01
+2012;"Sierra Leone";49.7;0.01
+2011;"Sierra Leone";48.9;3.78
+2010;"Sierra Leone";48.1;3.84
+2009;"Sierra Leone";47.1;3.97
+2008;"Sierra Leone";46.2;3.91
+2007;"Sierra Leone";45.3;3.86
+2006;"Sierra Leone";44.3;3.8
+2005;"Sierra Leone";43.3;3.83
+2004;"Sierra Leone";42.3;3.99
+2003;"Sierra Leone";41.5;4.07
+2002;"Sierra Leone";48.0;4.06
+2001;"Sierra Leone";41.0;4.21
+2000;"Sierra Leone";39.0;3.97
+2015;"Singapore";83.1;1.79
+2014;"Singapore";82.9;1.83
+2013;"Singapore";82.7;1.83
+2012;"Singapore";82.5;1.89
+2011;"Singapore";82.2;1.8
+2010;"Singapore";82.0;1.84
+2009;"Singapore";81.7;1.73
+2008;"Singapore";81.4;1.7
+2007;"Singapore";81.1;1.6
+2006;"Singapore";87.0;1.55
+2005;"Singapore";82.0;1.49
+2004;"Singapore";79.7;1.45
+2003;"Singapore";79.3;1.43
+2002;"Singapore";79.0;2.16
+2001;"Singapore";78.7;2.08
+2000;"Singapore";78.3;2.03
+2015;"Slovakia";76.7;10.6
+2014;"Slovakia";76.4;10.6
+2013;"Slovakia";76.1;9.89
+2012;"Slovakia";75.8;10.12
+2011;"Slovakia";75.6;10.24
+2010;"Slovakia";75.1;10.13
+2009;"Slovakia";75.0;10.63
+2008;"Slovakia";74.7;11.37
+2007;"Slovakia";74.4;10.58
+2006;"Slovakia";74.3;10.28
+2005;"Slovakia";74.0;10.81
+2004;"Slovakia";74.1;10.03
+2003;"Slovakia";73.8;9.85
+2002;"Slovakia";73.7;10.78
+2001;"Slovakia";73.3;10.73
+2000;"Slovakia";73.0;11.06
+2015;"Slovenia";88.0;10.46
+2014;"Slovenia";87.0;10.46
+2013;"Slovenia";85.0;9.53
+2012;"Slovenia";82.0;10.95
+2011;"Slovenia";79.8;10.61
+2010;"Slovenia";79.5;10.32
+2009;"Slovenia";79.1;10.52
+2008;"Slovenia";78.9;10.94
+2007;"Slovenia";78.3;11.02
+2006;"Slovenia";78.1;12.26
+2005;"Slovenia";77.5;11.14
+2004;"Slovenia";77.2;10.0
+2003;"Slovenia";76.5;11.58
+2002;"Slovenia";76.6;9.29
+2001;"Slovenia";76.2;10.8
+2000;"Slovenia";76.0;11.9
+2015;"Solomon Islands";69.2;0.01
+2014;"Solomon Islands";68.8;0.01
+2013;"Solomon Islands";68.8;0.01
+2012;"Solomon Islands";68.7;0.01
+2011;"Solomon Islands";68.5;0.99
+2010;"Solomon Islands";68.3;1.1
+2009;"Solomon Islands";68.1;1.21
+2008;"Solomon Islands";68.0;1.09
+2007;"Solomon Islands";67.6;0.85
+2006;"Solomon Islands";67.6;0.99
+2005;"Solomon Islands";67.4;0.9
+2004;"Solomon Islands";67.1;1.18
+2003;"Solomon Islands";66.8;1.18
+2002;"Solomon Islands";66.5;1.08
+2001;"Solomon Islands";66.2;0.7
+2000;"Solomon Islands";65.8;0.71
+2015;"Somalia";55.0;0.01
+2014;"Somalia";54.3;0.01
+2013;"Somalia";54.2;0.01
+2012;"Somalia";53.1;0.01
+2011;"Somalia";53.1;0.01
+2010;"Somalia";52.4;0.01
+2009;"Somalia";52.2;0.01
+2008;"Somalia";51.9;0.01
+2007;"Somalia";51.5;0.01
+2006;"Somalia";51.5;0.01
+2005;"Somalia";51.6;0.01
+2004;"Somalia";51.2;0.01
+2003;"Somalia";51.1;0.01
+2002;"Somalia";58.0;0.01
+2001;"Somalia";57.0;0.01
+2000;"Somalia";55.0;0.01
+2015;"South Africa";62.9;7.38
+2014;"South Africa";62.0;7.38
+2013;"South Africa";69.0;7.34
+2012;"South Africa";59.2;7.38
+2011;"South Africa";58.9;7.38
+2010;"South Africa";58.0;7.28
+2009;"South Africa";56.5;7.6
+2008;"South Africa";55.3;8.19
+2007;"South Africa";54.5;8.48
+2006;"South Africa";54.0;8.5
+2005;"South Africa";53.8;8.69
+2004;"South Africa";53.7;6.96
+2003;"South Africa";54.0;6.93
+2002;"South Africa";54.9;7.04
+2001;"South Africa";56.0;7.38
+2000;"South Africa";57.3;7.3
+2015;"South Sudan";57.3;0.01
+2014;"South Sudan";56.6;0.01
+2013;"South Sudan";56.4;0.01
+2012;"South Sudan";56.0;0.01
+2011;"South Sudan";55.4;0.01
+2010;"South Sudan";55.0;0.01
+2009;"South Sudan";54.3;0.01
+2008;"South Sudan";53.6;0.01
+2007;"South Sudan";53.1;0.01
+2006;"South Sudan";52.5;0.01
+2005;"South Sudan";51.9;0.01
+2004;"South Sudan";51.4;0.01
+2003;"South Sudan";58.0;0.01
+2002;"South Sudan";52.0;0.01
+2001;"South Sudan";49.6;0.01
+2000;"South Sudan";48.9;0.01
+2015;"Spain";82.8;0.01
+2014;"Spain";82.6;0.01
+2013;"Spain";82.4;9.25
+2012;"Spain";82.0;9.35
+2011;"Spain";82.1;9.62
+2010;"Spain";81.9;9.78
+2009;"Spain";81.6;9.99
+2008;"Spain";81.3;10.24
+2007;"Spain";89.0;11.05
+2006;"Spain";88.0;11.86
+2005;"Spain";81.0;11.92
+2004;"Spain";81.0;11.96
+2003;"Spain";79.4;12.09
+2002;"Spain";79.5;12.26
+2001;"Spain";79.4;9.86
+2000;"Spain";79.1;11.12
+2015;"Sri Lanka";74.9;2.37
+2014;"Sri Lanka";74.7;2.37
+2013;"Sri Lanka";74.6;2.56
+2012;"Sri Lanka";74.5;2.8
+2011;"Sri Lanka";74.5;3.03
+2010;"Sri Lanka";74.5;2.31
+2009;"Sri Lanka";71.8;2.05
+2008;"Sri Lanka";72.3;2.1
+2007;"Sri Lanka";73.7;2.29
+2006;"Sri Lanka";73.8;1.96
+2005;"Sri Lanka";74.2;1.97
+2004;"Sri Lanka";69.1;1.56
+2003;"Sri Lanka";73.9;1.69
+2002;"Sri Lanka";73.7;1.62
+2001;"Sri Lanka";72.7;1.68
+2000;"Sri Lanka";71.5;1.45
+2015;"Sudan";64.1;0.01
+2014;"Sudan";63.8;0.01
+2013;"Sudan";63.5;0.01
+2012;"Sudan";63.2;0.01
+2011;"Sudan";62.7;2.12
+2010;"Sudan";62.5;1.77
+2009;"Sudan";62.0;1.99
+2008;"Sudan";61.8;2.01
+2007;"Sudan";61.4;2.01
+2006;"Sudan";61.0;1.9
+2005;"Sudan";67.0;1.55
+2004;"Sudan";59.7;1.59
+2003;"Sudan";59.6;1.74
+2002;"Sudan";59.4;1.59
+2001;"Sudan";58.9;1.81
+2000;"Sudan";58.6;1.76
+2015;"Suriname";71.6;6.32
+2014;"Suriname";71.4;6.32
+2013;"Suriname";71.2;6.02
+2012;"Suriname";71.3;5.73
+2011;"Suriname";76.0;5.64
+2010;"Suriname";73.0;5.26
+2009;"Suriname";70.0;5.13
+2008;"Suriname";69.8;4.94
+2007;"Suriname";69.5;4.72
+2006;"Suriname";69.3;4.52
+2005;"Suriname";68.9;4.47
+2004;"Suriname";68.3;4.55
+2003;"Suriname";68.0;4.53
+2002;"Suriname";67.9;4.41
+2001;"Suriname";67.7;4.23
+2000;"Suriname";67.4;4.29
+2015;"Swaziland";58.9;0.01
+2014;"Swaziland";58.4;0.01
+2013;"Swaziland";57.6;0.01
+2012;"Swaziland";56.5;0.01
+2011;"Swaziland";55.0;5.2
+2010;"Swaziland";53.6;4.93
+2009;"Swaziland";52.6;4.9
+2008;"Swaziland";51.4;4.87
+2007;"Swaziland";50.0;5.55
+2006;"Swaziland";47.8;5.53
+2005;"Swaziland";46.0;5.08
+2004;"Swaziland";45.6;5.78
+2003;"Swaziland";45.9;5.65
+2002;"Swaziland";46.4;5.52
+2001;"Swaziland";47.1;6.72
+2000;"Swaziland";48.4;7.19
+2015;"Sweden";82.4;7.3
+2014;"Sweden";82.3;7.3
+2013;"Sweden";81.9;7.3
+2012;"Sweden";81.7;7.4
+2011;"Sweden";81.7;7.4
+2010;"Sweden";81.5;7.2
+2009;"Sweden";81.4;7.3
+2008;"Sweden";81.1;6.9
+2007;"Sweden";89.0;6.9
+2006;"Sweden";88.0;6.5
+2005;"Sweden";85.0;6.5
+2004;"Sweden";83.0;6.6
+2003;"Sweden";82.0;6.9
+2002;"Sweden";79.9;6.9
+2001;"Sweden";79.8;6.6
+2000;"Sweden";79.6;6.2
+2015;"Switzerland";83.4;9.61
+2014;"Switzerland";83.2;9.61
+2013;"Switzerland";83.0;9.73
+2012;"Switzerland";82.7;9.86
+2011;"Switzerland";82.6;9.99
+2010;"Switzerland";82.3;10.01
+2009;"Switzerland";82.1;10.15
+2008;"Switzerland";82.0;10.29
+2007;"Switzerland";81.7;10.44
+2006;"Switzerland";81.5;10.24
+2005;"Switzerland";81.1;10.15
+2004;"Switzerland";81.0;10.55
+2003;"Switzerland";85.0;10.82
+2002;"Switzerland";84.0;10.85
+2001;"Switzerland";82.0;11.12
+2000;"Switzerland";79.7;11.26
+2015;"Syria";64.5;0.01
+2014;"Syria";64.4;0.01
+2013;"Syria";63.6;0.01
+2012;"Syria";62.8;0.01
+2011;"Syria";71.7;0.76
+2010;"Syria";73.7;0.78
+2009;"Syria";73.8;0.81
+2008;"Syria";73.8;0.8
+2007;"Syria";73.8;0.83
+2006;"Syria";73.7;0.97
+2005;"Syria";73.5;0.92
+2004;"Syria";73.2;0.93
+2003;"Syria";73.0;1.29
+2002;"Syria";72.8;1.25
+2001;"Syria";72.7;1.29
+2000;"Syria";72.6;1.41
+2015;"Tajikistan";69.7;0.01
+2014;"Tajikistan";69.6;0.01
+2013;"Tajikistan";69.3;0.01
+2012;"Tajikistan";68.8;0.01
+2011;"Tajikistan";68.1;0.32
+2010;"Tajikistan";67.3;0.32
+2009;"Tajikistan";66.7;0.3
+2008;"Tajikistan";66.4;0.32
+2007;"Tajikistan";66.1;0.35
+2006;"Tajikistan";65.9;0.38
+2005;"Tajikistan";65.5;0.37
+2004;"Tajikistan";65.9;0.38
+2003;"Tajikistan";65.2;0.36
+2002;"Tajikistan";64.3;0.6
+2001;"Tajikistan";64.0;0.86
+2000;"Tajikistan";63.7;0.37
+2015;"Tanzania";61.8;0.01
+2014;"Tanzania";67.0;0.01
+2013;"Tanzania";59.7;4.2
+2012;"Tanzania";58.6;3.98
+2011;"Tanzania";58.3;4.04
+2010;"Tanzania";57.5;4.19
+2009;"Tanzania";56.9;3.97
+2008;"Tanzania";56.2;3.44
+2007;"Tanzania";54.5;4.4
+2006;"Tanzania";53.1;4.07
+2005;"Tanzania";52.2;3.94
+2004;"Tanzania";51.5;3.81
+2003;"Tanzania";58.0;2.34
+2002;"Tanzania";52.0;3.37
+2001;"Tanzania";49.6;4.09
+2000;"Tanzania";49.2;3.89
+2015;"Thailand";74.9;6.41
+2014;"Thailand";74.6;6.41
+2013;"Thailand";74.5;6.5
+2012;"Thailand";74.3;6.56
+2011;"Thailand";74.1;6.07
+2010;"Thailand";73.9;5.95
+2009;"Thailand";73.7;5.88
+2008;"Thailand";73.5;5.92
+2007;"Thailand";73.3;6.2
+2006;"Thailand";73.0;6.18
+2005;"Thailand";72.5;6.26
+2004;"Thailand";71.6;6.17
+2003;"Thailand";71.7;6.14
+2002;"Thailand";71.4;5.93
+2001;"Thailand";71.2;5.92
+2000;"Thailand";71.1;5.88
+2015;"Timor-Leste";68.3;0.01
+2014;"Timor-Leste";68.0;0.01
+2013;"Timor-Leste";67.7;0.01
+2012;"Timor-Leste";67.4;0.01
+2011;"Timor-Leste";67.2;0.5
+2010;"Timor-Leste";66.9;0.1
+2009;"Timor-Leste";66.6;0.09
+2008;"Timor-Leste";66.2;0.06
+2007;"Timor-Leste";65.8;0.05
+2006;"Timor-Leste";64.9;0.04
+2005;"Timor-Leste";63.7;0.36
+2004;"Timor-Leste";62.3;0.38
+2003;"Timor-Leste";61.0;0.44
+2002;"Timor-Leste";62.0;0.48
+2001;"Timor-Leste";59.4;0.5
+2000;"Timor-Leste";58.7;0.5
+2015;"Togo";59.9;0.01
+2014;"Togo";59.7;0.01
+2013;"Togo";59.4;0.01
+2012;"Togo";58.9;0.01
+2011;"Togo";58.3;1.44
+2010;"Togo";57.4;1.21
+2009;"Togo";56.7;1.24
+2008;"Togo";56.2;1.33
+2007;"Togo";55.9;1.37
+2006;"Togo";55.7;1.37
+2005;"Togo";55.0;1.14
+2004;"Togo";54.9;1.01
+2003;"Togo";54.7;1.02
+2002;"Togo";54.7;1.0
+2001;"Togo";54.6;0.95
+2000;"Togo";54.6;1.1
+2015;"Tonga";73.5;0.01
+2014;"Tonga";73.3;0.01
+2013;"Tonga";73.2;0.01
+2012;"Tonga";73.0;0.01
+2011;"Tonga";72.9;0.96
+2010;"Tonga";72.8;1.24
+2009;"Tonga";72.5;1.08
+2008;"Tonga";72.6;1.1
+2007;"Tonga";72.5;2.05
+2006;"Tonga";72.4;1.79
+2005;"Tonga";72.3;1.57
+2004;"Tonga";72.2;1.8
+2003;"Tonga";72.0;1.79
+2002;"Tonga";71.9;1.51
+2001;"Tonga";71.8;1.35
+2000;"Tonga";71.6;1.24
+2015;"Trinidad and Tobago";71.2;6.94
+2014;"Trinidad and Tobago";71.1;6.94
+2013;"Trinidad and Tobago";71.0;6.71
+2012;"Trinidad and Tobago";78.0;6.7
+2011;"Trinidad and Tobago";76.0;6.5
+2010;"Trinidad and Tobago";74.0;6.5
+2009;"Trinidad and Tobago";71.0;6.37
+2008;"Trinidad and Tobago";69.9;6.41
+2007;"Trinidad and Tobago";69.7;6.37
+2006;"Trinidad and Tobago";69.6;6.35
+2005;"Trinidad and Tobago";69.5;6.12
+2004;"Trinidad and Tobago";69.4;5.82
+2003;"Trinidad and Tobago";69.3;5.53
+2002;"Trinidad and Tobago";69.2;5.12
+2001;"Trinidad and Tobago";69.1;4.55
+2000;"Trinidad and Tobago";69.1;4.68
+2015;"Tunisia";75.3;1.39
+2014;"Tunisia";75.1;1.39
+2013;"Tunisia";74.9;1.29
+2012;"Tunisia";74.9;1.3
+2011;"Tunisia";74.8;1.29
+2010;"Tunisia";74.8;1.28
+2009;"Tunisia";74.7;1.4
+2008;"Tunisia";74.7;1.37
+2007;"Tunisia";74.6;1.24
+2006;"Tunisia";74.4;1.46
+2005;"Tunisia";74.2;1.37
+2004;"Tunisia";74.0;1.36
+2003;"Tunisia";73.7;1.34
+2002;"Tunisia";73.5;1.17
+2001;"Tunisia";73.2;1.19
+2000;"Tunisia";72.9;1.21
+2015;"Turkey";75.8;1.45
+2014;"Turkey";75.5;1.45
+2013;"Turkey";75.2;1.41
+2012;"Turkey";74.8;1.54
+2011;"Turkey";74.5;1.53
+2010;"Turkey";74.2;1.49
+2009;"Turkey";73.9;1.4
+2008;"Turkey";73.5;1.39
+2007;"Turkey";73.2;1.26
+2006;"Turkey";72.8;1.29
+2005;"Turkey";72.4;1.29
+2004;"Turkey";72.0;1.35
+2003;"Turkey";71.6;1.42
+2002;"Turkey";71.2;1.47
+2001;"Turkey";78.0;1.49
+2000;"Turkey";74.0;1.54
+2015;"Turkmenistan";66.3;2.9
+2014;"Turkmenistan";66.0;2.9
+2013;"Turkmenistan";65.4;2.93
+2012;"Turkmenistan";65.6;2.75
+2011;"Turkmenistan";65.6;2.55
+2010;"Turkmenistan";65.8;2.48
+2009;"Turkmenistan";65.6;2.35
+2008;"Turkmenistan";64.5;2.4
+2007;"Turkmenistan";64.1;2.58
+2006;"Turkmenistan";63.7;2.71
+2005;"Turkmenistan";63.3;2.85
+2004;"Turkmenistan";63.5;2.86
+2003;"Turkmenistan";63.4;2.88
+2002;"Turkmenistan";63.3;2.33
+2001;"Turkmenistan";64.0;2.35
+2000;"Turkmenistan";63.8;2.9
+2013;"Tuvalu";62.3;0.01
+2015;"Uganda";62.3;0.01
+2014;"Uganda";61.5;0.01
+2013;"Uganda";67.0;0.01
+2012;"Uganda";60.0;0.01
+2011;"Uganda";59.3;10.22
+2010;"Uganda";58.4;10.03
+2009;"Uganda";57.5;9.63
+2008;"Uganda";56.3;9.79
+2007;"Uganda";55.5;9.65
+2006;"Uganda";54.9;9.81
+2005;"Uganda";53.2;10.09
+2004;"Uganda";51.3;9.89
+2003;"Uganda";51.0;10.16
+2002;"Uganda";48.8;10.42
+2001;"Uganda";47.7;10.57
+2000;"Uganda";46.6;10.47
+2015;"Ukraine";71.3;8.06
+2014;"Ukraine";78.0;8.06
+2013;"Ukraine";71.0;8.44
+2012;"Ukraine";77.0;8.44
+2011;"Ukraine";75.0;8.48
+2010;"Ukraine";69.8;8.39
+2009;"Ukraine";69.2;8.71
+2008;"Ukraine";67.7;9.46
+2007;"Ukraine";67.5;8.86
+2006;"Ukraine";67.7;7.99
+2005;"Ukraine";67.0;7.31
+2004;"Ukraine";67.4;6.79
+2003;"Ukraine";67.6;5.92
+2002;"Ukraine";67.6;4.89
+2001;"Ukraine";67.7;4.31
+2000;"Ukraine";67.5;4.49
+2015;"United Arab Emirates";77.1;1.91
+2014;"United Arab Emirates";76.9;1.91
+2013;"United Arab Emirates";76.7;1.82
+2012;"United Arab Emirates";76.5;1.75
+2011;"United Arab Emirates";76.3;1.73
+2010;"United Arab Emirates";76.2;1.69
+2009;"United Arab Emirates";76.0;1.73
+2008;"United Arab Emirates";75.8;1.86
+2007;"United Arab Emirates";75.6;1.69
+2006;"United Arab Emirates";75.4;1.74
+2005;"United Arab Emirates";75.3;1.79
+2004;"United Arab Emirates";75.1;1.77
+2003;"United Arab Emirates";74.9;1.74
+2002;"United Arab Emirates";74.7;1.72
+2001;"United Arab Emirates";74.5;1.67
+2000;"United Arab Emirates";74.2;1.64
+2015;"United Kingdom";81.2;10.66
+2014;"United Kingdom";81.0;10.37
+2013;"United Kingdom";87.0;10.32
+2012;"United Kingdom";86.0;10.42
+2011;"United Kingdom";86.0;10.68
+2010;"United Kingdom";82.0;10.88
+2009;"United Kingdom";81.0;10.79
+2008;"United Kingdom";79.6;11.47
+2007;"United Kingdom";79.5;11.84
+2006;"United Kingdom";79.3;11.61
+2005;"United Kingdom";79.0;12.05
+2004;"United Kingdom";78.8;12.22
+2003;"United Kingdom";78.3;11.85
+2002;"United Kingdom";78.2;11.44
+2001;"United Kingdom";78.0;10.91
+2000;"United Kingdom";77.8;10.59
+2015;"United States";79.3;8.82
+2014;"United States";79.1;8.82
+2013;"United States";78.9;8.82
+2012;"United States";78.8;8.82
+2011;"United States";78.7;8.67
+2010;"United States";78.7;8.55
+2009;"United States";78.5;8.71
+2008;"United States";78.2;8.74
+2007;"United States";78.1;8.74
+2006;"United States";77.8;8.63
+2005;"United States";77.5;8.52
+2004;"United States";77.5;8.48
+2003;"United States";77.2;8.4
+2002;"United States";77.0;8.33
+2001;"United States";76.9;8.25
+2000;"United States";76.8;8.21
+2015;"Uruguay";77.0;6.03
+2014;"Uruguay";76.8;6.03
+2013;"Uruguay";76.8;5.82
+2012;"Uruguay";76.5;5.77
+2011;"Uruguay";77.0;5.97
+2010;"Uruguay";76.3;6.21
+2009;"Uruguay";76.6;6.67
+2008;"Uruguay";76.4;6.76
+2007;"Uruguay";75.4;6.67
+2006;"Uruguay";76.2;6.58
+2005;"Uruguay";75.7;6.35
+2004;"Uruguay";75.4;5.66
+2003;"Uruguay";75.4;5.11
+2002;"Uruguay";75.4;5.86
+2001;"Uruguay";75.2;6.48
+2000;"Uruguay";75.1;6.65
+2015;"Uzbekistan";69.4;0.01
+2014;"Uzbekistan";69.2;0.01
+2013;"Uzbekistan";69.1;0.01
+2012;"Uzbekistan";68.8;0.01
+2011;"Uzbekistan";68.5;2.83
+2010;"Uzbekistan";68.3;2.73
+2009;"Uzbekistan";68.0;2.56
+2008;"Uzbekistan";67.9;2.36
+2007;"Uzbekistan";67.8;2.15
+2006;"Uzbekistan";67.6;1.96
+2005;"Uzbekistan";67.3;1.78
+2004;"Uzbekistan";67.8;1.59
+2003;"Uzbekistan";67.2;1.54
+2002;"Uzbekistan";67.1;1.47
+2001;"Uzbekistan";67.4;1.53
+2000;"Uzbekistan";67.1;1.6
+2015;"Vanuatu";72.0;0.01
+2014;"Vanuatu";71.7;0.01
+2013;"Vanuatu";71.6;0.01
+2012;"Vanuatu";71.4;0.01
+2011;"Vanuatu";71.2;0.85
+2010;"Vanuatu";71.0;0.91
+2009;"Vanuatu";78.0;0.83
+2008;"Vanuatu";75.0;1.18
+2007;"Vanuatu";73.0;1.01
+2006;"Vanuatu";71.0;1.0
+2005;"Vanuatu";69.9;0.88
+2004;"Vanuatu";69.6;0.85
+2003;"Vanuatu";69.4;1.2
+2002;"Vanuatu";69.3;1.24
+2001;"Vanuatu";69.1;0.91
+2000;"Vanuatu";69.0;1.21
+2015;"Venezuela";74.1;6.47
+2014;"Venezuela";73.9;6.47
+2013;"Venezuela";73.8;6.71
+2012;"Venezuela";73.7;6.7
+2011;"Venezuela";73.8;6.74
+2010;"Venezuela";73.7;7.22
+2009;"Venezuela";73.6;7.59
+2008;"Venezuela";73.2;8.18
+2007;"Venezuela";73.4;8.7
+2006;"Venezuela";73.6;8.27
+2005;"Venezuela";73.6;7.92
+2004;"Venezuela";73.3;7.55
+2003;"Venezuela";72.4;6.3
+2002;"Venezuela";73.1;6.89
+2001;"Venezuela";72.5;8.05
+2000;"Venezuela";72.5;8.01
+2015;"Vietnam";76.0;4.09
+2014;"Vietnam";75.9;4.09
+2013;"Vietnam";75.7;4.0
+2012;"Vietnam";75.6;4.12
+2011;"Vietnam";75.4;3.94
+2010;"Vietnam";75.2;3.93
+2009;"Vietnam";75.0;3.86
+2008;"Vietnam";74.9;3.58
+2007;"Vietnam";74.7;3.01
+2006;"Vietnam";74.6;2.56
+2005;"Vietnam";74.4;2.7
+2004;"Vietnam";74.2;2.86
+2003;"Vietnam";74.0;2.19
+2002;"Vietnam";73.8;2.03
+2001;"Vietnam";73.6;1.84
+2000;"Vietnam";73.4;1.6
+2015;"Yemen";65.7;0.01
+2014;"Yemen";65.4;0.01
+2013;"Yemen";65.4;0.04
+2012;"Yemen";64.7;0.04
+2011;"Yemen";64.6;0.04
+2010;"Yemen";64.4;0.06
+2009;"Yemen";64.1;0.03
+2008;"Yemen";63.8;0.04
+2007;"Yemen";63.4;0.05
+2006;"Yemen";63.0;0.04
+2005;"Yemen";62.6;0.04
+2004;"Yemen";62.2;0.06
+2003;"Yemen";61.9;0.04
+2002;"Yemen";61.5;0.07
+2001;"Yemen";61.1;0.08
+2000;"Yemen";68.0;0.07
+2015;"Zambia";61.8;0.01
+2014;"Zambia";61.1;0.01
+2013;"Zambia";63.0;2.41
+2012;"Zambia";59.2;2.59
+2011;"Zambia";58.2;2.57
+2010;"Zambia";58.0;2.47
+2009;"Zambia";57.4;2.3
+2008;"Zambia";55.7;2.12
+2007;"Zambia";52.6;2.08
+2006;"Zambia";58.0;2.25
+2005;"Zambia";49.3;2.33
+2004;"Zambia";47.9;2.46
+2003;"Zambia";46.4;2.33
+2002;"Zambia";45.5;2.44
+2001;"Zambia";44.6;2.61
+2000;"Zambia";43.8;2.62
+2015;"Zimbabwe";67.0;6.5
+2014;"Zimbabwe";59.2;6.5
+2013;"Zimbabwe";58.0;6.39
+2012;"Zimbabwe";56.6;6.09
+2011;"Zimbabwe";54.9;6.0
+2010;"Zimbabwe";52.4;5.21
+2009;"Zimbabwe";50.0;4.64
+2008;"Zimbabwe";48.2;3.56
+2007;"Zimbabwe";46.6;3.88
+2006;"Zimbabwe";45.4;4.57
+2005;"Zimbabwe";44.6;4.14
+2004;"Zimbabwe";44.3;4.36
+2003;"Zimbabwe";44.5;4.06
+2002;"Zimbabwe";44.8;4.43
+2001;"Zimbabwe";45.3;1.72
+2000;"Zimbabwe";46.0;1.68
