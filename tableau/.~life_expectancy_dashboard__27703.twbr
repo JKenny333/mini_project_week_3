@@ -443,13 +443,16 @@
       <column aggregation='Sum' caption='Alcohol (copy)' datatype='real' name='[Alcohol (copy)_1949425367988076546]' role='dimension' type='ordinal'>
         <calculation class='tableau' formula='[alcohol]' />
       </column>
+      <column aggregation='None' caption='Gdp (bin)' datatype='integer' name='[Gdp (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='3' formula='[gdp]' peg='0' size='1500' />
+      </column>
       <_.fcp.ObjectModelTableType.true...column caption='full_table.csv' datatype='table' name='[__tableau_internal_object_id__].[full_table.csv_B7EA366E1E2147959FC093883B2121A6]' role='measure' type='quantitative' />
       <column caption='Adult Mortality' datatype='real' name='[adult_mortality]' role='measure' type='quantitative' />
       <column aggregation='Sum' caption='Alcohol' datatype='real' name='[alcohol]' role='dimension' type='ordinal' />
       <column caption='Bmi' datatype='real' name='[bmi]' role='measure' type='quantitative' />
       <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
       <column caption='Development Status' datatype='string' name='[development_status]' role='dimension' type='nominal' />
-      <column caption='Gdp' datatype='real' name='[gdp]' role='measure' type='quantitative' />
+      <column aggregation='Sum' caption='Gdp' datatype='real' name='[gdp]' role='dimension' type='ordinal' />
       <column caption='Infant Deaths' datatype='integer' name='[infant_deaths]' role='measure' type='quantitative' />
       <column caption='Life Expectancy' datatype='real' name='[life_expectancy]' role='measure' type='quantitative' />
       <column caption='Percentage Expenditure' datatype='real' name='[percentage_expenditure]' role='measure' type='quantitative' />
@@ -543,6 +546,55 @@
       </table>
       <simple-id uuid='{28C1B43B-621C-454C-9344-CCB131838BDA}' />
     </worksheet>
+    <worksheet name='GDP'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>GDP vs Life expectancy</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='full_table' name='federated.1f5cjr01nzn6361aaivfk097ytiy' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1f5cjr01nzn6361aaivfk097ytiy'>
+            <column aggregation='None' caption='Gdp (bin)' datatype='integer' name='[Gdp (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='3' formula='[gdp]' peg='0' size='1500' />
+            </column>
+            <column-instance column='[life_expectancy]' derivation='Avg' name='[avg:life_expectancy:qk]' pivot='key' type='quantitative' />
+            <column aggregation='Sum' caption='Gdp' datatype='real' name='[gdp]' role='dimension' type='ordinal' />
+            <column caption='Life Expectancy' datatype='real' name='[life_expectancy]' role='measure' type='quantitative' />
+            <column-instance column='[Gdp (bin)]' derivation='None' name='[none:Gdp (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1f5cjr01nzn6361aaivfk097ytiy].[avg:life_expectancy:qk]' palette='tableau-map-blue-green' type='interpolated' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1f5cjr01nzn6361aaivfk097ytiy].[avg:life_expectancy:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1f5cjr01nzn6361aaivfk097ytiy].[avg:life_expectancy:qk]</rows>
+        <cols>[federated.1f5cjr01nzn6361aaivfk097ytiy].[none:Gdp (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.1f5cjr01nzn6361aaivfk097ytiy].[Alcohol (bin)]</column>
+          <column>[federated.1f5cjr01nzn6361aaivfk097ytiy].[Gdp (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{6DB05FA0-842C-4E36-B277-03860860F144}' />
+    </worksheet>
     <worksheet name='Happiness'>
       <layout-options>
         <title>
@@ -623,21 +675,11 @@
       <style />
       <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
       <zones>
-        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98000' id='7' param='horz' type-v2='layout-flow' w='98400' x='800' y='1000'>
-            <zone fixed-size='443' h='98000' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000' />
-          </zone>
-          <zone-style>
-            <format attr='border-color' value='#000000' />
-            <format attr='border-style' value='none' />
-            <format attr='border-width' value='0' />
-            <format attr='margin' value='8' />
-          </zone-style>
-        </zone>
-        <zone h='40875' id='3' name='Happiness' w='42900' x='2000' y='2000' />
+        <zone h='40875' id='3' name='Happiness' w='42900' x='3800' y='2625' />
         <zone h='41375' id='9' name='Alcohol' w='47100' x='51600' y='2125'>
           <layout-cache cell-count-w='36' minheight='193' non-cell-size-w='59' type-h='scalable' type-w='cell' />
         </zone>
+        <zone h='33250' id='12' name='GDP' w='33700' x='8700' y='51625' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
@@ -710,7 +752,7 @@
       </viewpoint>
       <simple-id uuid='{38ADEC0C-B010-46A6-9A2C-CD155B77FEAE}' />
     </window>
-    <window class='worksheet' name='Alcohol'>
+    <window class='worksheet' maximized='true' name='Alcohol'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -741,19 +783,7 @@
       </viewpoint>
       <simple-id uuid='{A181E385-7547-4313-B08B-80DCB7047B23}' />
     </window>
-    <window class='dashboard' name='Dashboard 1'>
-      <viewpoints>
-        <viewpoint name='Alcohol'>
-          <zoom type='entire-view' />
-        </viewpoint>
-        <viewpoint name='Happiness'>
-          <zoom type='entire-view' />
-        </viewpoint>
-      </viewpoints>
-      <active id='3' />
-      <simple-id uuid='{1A5AC643-B473-4596-A973-B30510DA4967}' />
-    </window>
-    <window class='worksheet' maximized='true' name='Sheet 3'>
+    <window class='worksheet' name='GDP'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -763,10 +793,56 @@
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='31'>
+          <strip size='2147483647'>
             <card type='columns' />
           </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
           <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1f5cjr01nzn6361aaivfk097ytiy].[avg:life_expectancy:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+      </viewpoint>
+      <simple-id uuid='{2FCA4C76-536E-41E5-B4D2-62D23F6C56BA}' />
+    </window>
+    <window class='dashboard' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Alcohol'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='GDP'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Happiness'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='12' />
+      <simple-id uuid='{1A5AC643-B473-4596-A973-B30510DA4967}' />
+    </window>
+    <window class='worksheet' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
             <card type='rows' />
           </strip>
           <strip size='31'>
