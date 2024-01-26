@@ -652,7 +652,15 @@
     <worksheet name='Sheet 3'>
       <table>
         <view>
-          <datasources />
+          <datasources>
+            <datasource caption='full_table' name='federated.1f5cjr01nzn6361aaivfk097ytiy' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1f5cjr01nzn6361aaivfk097ytiy'>
+            <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[year]' derivation='None' name='[none:year:qk]' pivot='key' type='quantitative' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
           <aggregation value='true' />
         </view>
         <style />
@@ -664,8 +672,8 @@
             <mark class='Automatic' />
           </pane>
         </panes>
-        <rows />
-        <cols />
+        <rows>[federated.1f5cjr01nzn6361aaivfk097ytiy].[none:country:nk]</rows>
+        <cols>[federated.1f5cjr01nzn6361aaivfk097ytiy].[none:year:qk]</cols>
       </table>
       <simple-id uuid='{8D42E817-F591-48EA-B784-A9D0A8B4C227}' />
     </worksheet>
@@ -679,7 +687,7 @@
         <zone h='41375' id='9' name='Alcohol' w='47100' x='51600' y='2125'>
           <layout-cache cell-count-w='36' minheight='193' non-cell-size-w='59' type-h='scalable' type-w='cell' />
         </zone>
-        <zone h='33250' id='12' name='GDP' w='33700' x='8700' y='51625' />
+        <zone h='33250' id='12' name='GDP' w='33700' x='10000' y='55750' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
@@ -752,7 +760,7 @@
       </viewpoint>
       <simple-id uuid='{38ADEC0C-B010-46A6-9A2C-CD155B77FEAE}' />
     </window>
-    <window class='worksheet' maximized='true' name='Alcohol'>
+    <window class='worksheet' name='Alcohol'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -829,7 +837,7 @@
       <active id='12' />
       <simple-id uuid='{1A5AC643-B473-4596-A973-B30510DA4967}' />
     </window>
-    <window class='worksheet' name='Sheet 3'>
+    <window class='worksheet' maximized='true' name='Sheet 3'>
       <cards>
         <edge name='left'>
           <strip size='160'>
