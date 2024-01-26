@@ -20,7 +20,9 @@
 
 2. Folder Structure and Contents
 
-Folder Layout: Describe the overall structure of the project folder.
+Folder Layout: 
+
+Describe the overall structure of the project folder.
 Descriptions of Major Components:
 SQL Scripts: Briefly explain what these scripts do, their dependencies, and how they should be executed.
 ERDs (Entity-Relationship Diagrams): Explain the purpose of these diagrams in your project.
@@ -30,6 +32,18 @@ Presentation Slides: Mention the purpose of these slides (e.g., project summary,
 
 
 3. Setup and Installation
+
+The following tools are reccomended in order to view the various elements of the project.
+
+Jupyter Notebook
+Jupyter Notebook should be used for running pythin files (.ipynb, .py)
+
+My SQL
+My SQL should be used for running SQL scripts, models and ERDs (.sql, .mwb)
+
+Tableau
+Tableau should be used for viewing dahboards and visualizations
+
 
 Software Requirements: List the software required to view or run the files (e.g., MySQL, Tableau, a specific PDF viewer).
 Installation Steps: If applicable, include steps to set up the environment to run the project (e.g., database setup, Tableau installation).
@@ -41,6 +55,8 @@ How to Run SQL Scripts: Step-by-step instructions to execute the SQL scripts.
 Navigating Tableau Workbooks: Instructions on how to interact with the Tableau dashboards.
 Viewing ERDs and Datasets: Any specific software or settings needed to view these files correctly.
 
+Presentation Slides:
+https://docs.google.com/presentation/d/1z8yZF8a-fKwek6T_m9OPYIiI6AzPOquTkOEEMtfFvUA/edit#slide=id.g2b338052d5c_0_37
 
 Data Sources:
 WHO life expectancy:
