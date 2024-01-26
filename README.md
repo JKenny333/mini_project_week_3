@@ -45,18 +45,22 @@ Tableau
 Tableau should be used for viewing dahboards and visualizations
 
 
-Software Requirements: List the software required to view or run the files (e.g., MySQL, Tableau, a specific PDF viewer).
-Installation Steps: If applicable, include steps to set up the environment to run the project (e.g., database setup, Tableau installation).
-
-
 4. Usage Instructions
+
+Data cleaning
+The data cleaning was performed in Jupyter notebook. The data cleaning process can be seen in the following files:
+life_expectancy_and_happiness_report_data_cleaning.ipynb
+
+
+Database creation
+The script for creating the tables in the database can be found in
 
 How to Run SQL Scripts: Step-by-step instructions to execute the SQL scripts.
 Navigating Tableau Workbooks: Instructions on how to interact with the Tableau dashboards.
 Viewing ERDs and Datasets: Any specific software or settings needed to view these files correctly.
 
 Presentation Slides:
-https://docs.google.com/presentation/d/1z8yZF8a-fKwek6T_m9OPYIiI6AzPOquTkOEEMtfFvUA/edit#slide=id.g2b338052d5c_0_37
+https://docs.google.com/presentation/d/1z8yZF8a-fKwek6T_m9OPYIiI6AzPOquTkOEEMtfFvUA/edit#slide=id.g2b338052d5c_0_49
 
 Data Sources:
 WHO life expectancy:
