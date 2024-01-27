@@ -18,46 +18,43 @@
     In the proposed project, we aim to analyze how life expectancy is influenced by factors such as happiness, alcohol consumption, GDP . This analysis has significant implications for the healthcare and insurance industries. It can guide healthcare providers in developing targeted health interventions and assist insurance companies in refining risk assessment and product development. By understanding the impact of these variables on life expectancy, these industries can enhance their service offerings, optimize resource allocation, and ultimately improve health outcomes.
 
 
-2. Folder Structure and Contents
+    Folder Structure and Contents
 
-Folder Layout: 
+    The project is organized into several directories, each serving a different purpose in the analysis workflow. Below is an overview of the project directory structure:
 
-Describe the overall structure of the project folder.
-Descriptions of Major Components:
-SQL Scripts: Briefly explain what these scripts do, their dependencies, and how they should be executed.
-ERDs (Entity-Relationship Diagrams): Explain the purpose of these diagrams in your project.
-Tableau Workbooks: Describe the visualizations included and any special features or filters used.
-Datasets: List the datasets included in CSV format, along with a brief description of each (source, type of data, etc.).
-Presentation Slides: Mention the purpose of these slides (e.g., project summary, findings).
-
-
-3. Setup and Installation
-
-The following tools are reccomended in order to view the various elements of the project.
-
-Jupyter Notebook
-Jupyter Notebook should be used for running pythin files (.ipynb, .py)
-
-My SQL
-My SQL should be used for running SQL scripts, models and ERDs (.sql, .mwb)
-
-Tableau
-Tableau should be used for viewing dahboards and visualizations
+    csv_files/: This directory contains all the CSV (Comma Separated Values) files that are used as data sources for the project.
+    jupyter_notebooks/: This folder holds the Jupyter Notebook files (.ipynb). Jupyter Notebooks are used for performing data cleaning, analysis, and visualization.
+    sql/: Inside this directory, you'll find SQL scripts that are used for creating tables, inserting data, and querying the MySQL database. It may also contain SQL files for creating views and stored procedures.
+    tableau/: This folder contains Tableau workbooks (.twb or .twbx files). Tableau is used for creating interactive data visualizations and dashboards.
+    archive/: The archive directory is used to store older versions of files or any other files that are not currently in use but are kept for record-keeping or historical reference.
+    presentation/: This directory is intended for presentation materials, likely including PowerPoint slides or other documents that summarize the findings and insights from the project.
 
 
-4. Usage Instructions
 
-Data cleaning
-The data cleaning was performed in Jupyter notebook. The data cleaning process can be seen in the following files:
-life_expectancy_and_happiness_report_data_cleaning.ipynb
+    Setup and Installation
+
+    The following tools are reccomended in order to view the various elements of the project.
+
+    Jupyter Notebook
+    Jupyter Notebook should be used for running pythin files (.ipynb, .py)
+
+    My SQL
+    My SQL should be used for running SQL scripts, models and ERDs (.sql, .mwb)
+
+    Tableau
+    Tableau should be used for viewing dahboards and visualizations
 
 
-Database creation
-The script for creating the tables in the database can be found in
+    Usage Instructions
 
-How to Run SQL Scripts: Step-by-step instructions to execute the SQL scripts.
-Navigating Tableau Workbooks: Instructions on how to interact with the Tableau dashboards.
-Viewing ERDs and Datasets: Any specific software or settings needed to view these files correctly.
+    Data cleaning
+    The data cleaning was performed in Jupyter notebook. The data cleaning process can be seen in the following files:
+    life_expectancy_and_happiness_report_data_cleaning.ipynb
+
+
+    Database creation
+    The script for creating the tables in the database can be found in
+
 
 Presentation Slides:
 https://docs.google.com/presentation/d/1z8yZF8a-fKwek6T_m9OPYIiI6AzPOquTkOEEMtfFvUA/edit#slide=id.g2b338052d5c_0_49
